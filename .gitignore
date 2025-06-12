@@ -1,0 +1,13 @@
+# Virtuelle Umgebung ignorieren
+.venv/
+venv/
+
+# Python Cache-Dateien ignorieren
+__pycache__/
+*.pyc
+
+# Chroma-Datenbank ignorieren
+chroma_dbs/
+
+# Sonstiges
+.DS_Store
