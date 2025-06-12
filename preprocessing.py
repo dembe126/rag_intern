@@ -1,9 +1,9 @@
 import os                                                           # Standard Python-Modul für Betriebssystemfunktionen wie Dateipfad-Operationen
-from langchain_community.document_loaders import PyPDFLoader        # Importiert den PyPDFLoader aus dem langchain_community-Paket, um PDF-Dokumente zu laden
+from langchain_community.document_loaders import PyMuPDFLoader        # Importiert den PDFLoader aus dem langchain_community-Paket, um PDF-Dokumente zu laden
 from langchain.text_splitter import RecursiveCharacterTextSplitter  # Importiert den TextSplitter, um den Text bzw. Dokumente in kleinere Abschnitte (Chunks) zu unterteilen
 from langchain.schema import Document                                # Importiert die Document-Klasse, um Dokumente zu erstellen und zu verwalten
 from langchain_community.vectorstores import Chroma                 # Importiert die Chroma-Klasse, um Vektorspeicher zu erstellen und zu verwalten
-from langchain_community import HuggingFaceEmbeddings               # Importiert die HuggingFaceEmbeddings-Klasse, um Text in Vektoren umzuwandeln
+from langchain_huggingface import HuggingFaceEmbeddings               # Importiert die HuggingFaceEmbeddings-Klasse, um Text in Vektoren umzuwandeln
 from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH               # Importiert Konfigurationen
 
 
@@ -28,7 +28,7 @@ def load_document(file_path):
         print(f"Datei nicht gefunden: {file_path}")         # Wenn nicht, wird eine Fehlermeldung ausgegeben
         return []                                           # und eine leere Liste zurückgegeben
     
-    loader = PyPDFLoader(file_path)                         # Erstellt eine Instanz des PyPDFLoader mit dem angegebenen Dateipfad
+    loader = PyMuPDFLoader(file_path)                         # Erstellt eine Instanz des PyPDFLoader mit dem angegebenen Dateipfad
     document = loader.load()                                # Ruft die load()-Methode auf, die das PDF liest → jede Seite der PDF wird zu einem einzelnen Text-Dokument in einer Liste
     
     doc_name = os.path.splitext(os.path.basename(file_path))[0]     # Dokumentname ohne Pfad und Endung extrahieren

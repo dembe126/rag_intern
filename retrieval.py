@@ -3,7 +3,7 @@
 import os
 import requests
 from langchain_community.vectorstores import Chroma
-from langchain_community import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH, LLM_MODEL               # Importiert Konfigurationen
 from langchain.prompts import PromptTemplate                                   # PromptTemplate-Klasse, um benutzerdefinierte Prompts zu erstellen
 from langchain_community.llms import Ollama                                    # Ollama-Klasse, um mit Ollama-Modellen zu interagieren
