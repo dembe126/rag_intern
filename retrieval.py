@@ -3,7 +3,7 @@
 import os
 import requests
 from langchain_community.vectorstores import Chroma
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community import HuggingFaceEmbeddings
 from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH, LLM_MODEL               # Importiert Konfigurationen
 from langchain.prompts import PromptTemplate                                   # PromptTemplate-Klasse, um benutzerdefinierte Prompts zu erstellen
 from langchain_community.llms import Ollama                                    # Ollama-Klasse, um mit Ollama-Modellen zu interagieren
@@ -64,7 +64,8 @@ def setup_rag_chain(vectordb, model_name):
 Du bist ein hilfreicher Assistent. Nutze die folgenden Textabschnitte, um die Frage am Ende zu beantworten.
 Die Antwort sollte sich ausschließlich auf die bereitgestellten Informationen stützen.
 Wenn die Antwort nicht im Kontext enthalten ist, antworte mit: "Ich konnte keine Antwort in den Dokumenten finden."
-Gib am Ende deiner Antwort immer die Quelle (Dokument und Seite) an, wenn möglich.
+
+Am Ende deiner Antwort gibst du die Quelle an, aus der du die Information hast. Du findest den Dokumentennamen und die Seitenzahl in den Metadaten jedes Kontext-Abschnitts. Formatiere sie so: "Quelle: [Dokumentname], Seite [Seitenzahl]".
 
 Kontext:
 {context}
@@ -203,14 +204,19 @@ def main():
         result = rag_chain.invoke({"query": user_input})
         
         # Ergebnis ausgeben
-        print("\n💡 Antwort:\n", result['result'])
+        print("\n💡 Antwort vom Modell:\n", result['result'])
         
-        # Optional: Quellen anzeigen
-        print("\n📚 Quellen:")
+        # Zuverlässige Quellen aus dem Retriever anzeigen
+        print("\n📚 Folgende Quellen wurden zur Beantwortung herangezogen:")
+        unique_sources = set()
         for doc in result['source_documents']:
             doc_name = doc.metadata.get('document_name', 'N/A')
             page_num = doc.metadata.get('page', 'N/A')
-            print(f"  - Dokument: {doc_name}, Seite: {page_num}")
+            # Zeige jede Quelle nur einmal an
+            unique_sources.add(f"  - Dokument: {doc_name}, Seite: {page_num}")
+
+        for source in sorted(list(unique_sources)):
+            print(source)
 
         print("-" * 60)
 

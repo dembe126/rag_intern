@@ -3,7 +3,7 @@ from langchain_community.document_loaders import PyPDFLoader        # Importiert
 from langchain.text_splitter import RecursiveCharacterTextSplitter  # Importiert den TextSplitter, um den Text bzw. Dokumente in kleinere Abschnitte (Chunks) zu unterteilen
 from langchain.schema import Document                                # Importiert die Document-Klasse, um Dokumente zu erstellen und zu verwalten
 from langchain_community.vectorstores import Chroma                 # Importiert die Chroma-Klasse, um Vektorspeicher zu erstellen und zu verwalten
-from langchain_community.embeddings import HuggingFaceEmbeddings    # Importiert die HuggingFaceEmbeddings-Klasse, um Text in Vektoren umzuwandeln
+from langchain_community import HuggingFaceEmbeddings               # Importiert die HuggingFaceEmbeddings-Klasse, um Text in Vektoren umzuwandeln
 from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH               # Importiert Konfigurationen
 
 
@@ -77,8 +77,8 @@ Behält sowohl Dokumentname als auch Seitenzahl in den Metadaten.
 
 def split_text(document_list):    
     text_splitter = RecursiveCharacterTextSplitter(             # wir erstellen eine Instanz des TextSplitters
-        chunk_size=300,                                         # ein Dokument wird in Chunks von chunk_size Zeichen unterteilt
-        chunk_overlap=50,                                       # Zwischen aufeinanderfolgenden Chunks gibt es eine Überlappung von chunk_overlap Zeichen (für semantische Ähnlichkeit) 
+        chunk_size=500,                                         # ein Dokument wird in Chunks von chunk_size Zeichen unterteilt
+        chunk_overlap=150,                                       # Zwischen aufeinanderfolgenden Chunks gibt es eine Überlappung von chunk_overlap Zeichen (für semantische Ähnlichkeit) 
         length_function=len,                                    # die Länge eines Chunks wird mit der Standard-Längenfunktion gemessen
         add_start_index=True,                                   # fügt den Startindex des Chunks als Metadaten hinzu
     )

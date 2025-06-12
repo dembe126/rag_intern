@@ -12,7 +12,7 @@ from preprocessing import (
 )
 from retrieval import (
     load_vectordb, 
-    rag_query, 
+    setup_rag_chain, 
     setup_ollama_model
 )
 
@@ -53,8 +53,12 @@ def main():
         print("❌ Kein Modell verfügbar. Programm beendet.")
         return
     
-    # 4. Interaktive Fragen
-    print(f"\n💬 Schritt 3: Du kannst jetzt Fragen zu allen PDFs stellen!")
+    # 4. RAG-Chain aufbauen
+    print(f"\n⚙️ Schritt 3: RAG-Chain wird aufgebaut...")
+    rag_chain = setup_rag_chain(vectordb, model)
+
+    # 5. Interaktive Fragen
+    print(f"\n💬 Schritt 4: Du kannst jetzt Fragen zu allen PDFs stellen!")
     print("Das System durchsucht automatisch alle Dokumente und nennt dir die Quelle.")
     print("Tippe 'exit' um das Programm zu beenden.\n")
     
@@ -64,9 +68,24 @@ def main():
         if question.lower() in ["exit", "quit", "q"]:
             print("👋 RAG-System beendet!")
             break
+
+        # Die Chain mit der Frage aufrufen
+        result = rag_chain.invoke({"query": question})
         
-        answer = rag_query(question, vectordb, model)
-        print(f"\n💡 Antwort:\n{answer}")
+        # Ergebnis und Quellen ausgeben
+        print("\n💡 Antwort vom Modell:\n", result['result'])
+        
+        print("\n📚 Folgende Quellen wurden zur Beantwortung herangezogen:")
+        unique_sources = set()
+        for doc in result['source_documents']:
+            doc_name = doc.metadata.get('document_name', 'N/A')
+            page_num = doc.metadata.get('page', 'N/A')
+            # Zeige jede Quelle nur einmal an
+            unique_sources.add(f"  - Dokument: {doc_name}, Seite: {page_num}")
+
+        for source in sorted(list(unique_sources)):
+            print(source)
+
         print("-" * 60)
 
 
