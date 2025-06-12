@@ -75,31 +75,17 @@ Behält sowohl Dokumentname als auch Seitenzahl in den Metadaten.
 '''
 
 def split_text(document_list):    
-    text_splitter = RecursiveCharacterTextSplitter(              # wir erstellen eine Instanz des TextSplitters
+    text_splitter = RecursiveCharacterTextSplitter(             # wir erstellen eine Instanz des TextSplitters
         chunk_size=300,                                         # ein Dokument wird in Chunks von chunk_size Zeichen unterteilt
         chunk_overlap=50,                                       # Zwischen aufeinanderfolgenden Chunks gibt es eine Überlappung von chunk_overlap Zeichen (für semantische Ähnlichkeit) 
+        length_function=len,                                    # die Länge eines Chunks wird mit der Standard-Längenfunktion gemessen
+        add_start_index=True,                                   # fügt den Startindex des Chunks als Metadaten hinzu
     )
 
-    all_chunks = []                                              # wir erstellen eine leere Liste, um später alle fertigen Chunks zu speichern
-
-    for i, doc in enumerate(document_list):                      # wir iterieren über jede Seite aus der Liste der Dokumente
-        # i ist die Seitenzahl, beginnend bei 0
-        # doc ist der eigentliche Seiteninhalt, also der Text
-        
-        chunks = text_splitter.split_text(doc.page_content)      # wir zerteilen den Seiteninhalt in Chunks
-
-        for chunk in chunks:                                    # wir iterieren über alle Chunks einer Seite
-            chunk_doc = Document(                               # wir erstellen für jeden Chunk ein neues Dokumentenobjekt (Langchain-Dokument)
-                page_content=chunk,                             # mit dem Inhalt des Chunks
-                metadata={
-                    "page": doc.metadata.get('page', i + 1),
-                    "document_name": doc.metadata.get('document_name', 'unbekannt') # und der Seitenzahl als Metadaten (für die Angabe bei der Antwort)
-                },    
-            )
-            all_chunks.append(chunk_doc)                        # wir fügen den Chunk der Liste der Chunks hinzu
+    chunks = text_splitter.split_documents(document_list)       # wir teilen die Dokumente in Chunks auf, wobei jedes Dokument eine Seite repräsentiert
     
-    print(f"✂️ Das Dokument wurde in {len(all_chunks)} Chunks unterteilt.")     # Gibt die Anzahl der Chunks aus
-    return all_chunks                                                          # Gibt die Liste der Chunks zurück
+    print(f"✂️ Das Dokument wurde in {len(chunks)} Chunks unterteilt.")     # Gibt die Anzahl der Chunks aus
+    return chunks                                                          # Gibt die Liste der Chunks zurück
 
 
 '''
