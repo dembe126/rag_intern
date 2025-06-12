@@ -4,13 +4,14 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter  # Importiert
 from langchain.schema import Document                                # Importiert die Document-Klasse, um Dokumente zu erstellen und zu verwalten
 from langchain_community.vectorstores import Chroma                 # Importiert die Chroma-Klasse, um Vektorspeicher zu erstellen und zu verwalten
 from langchain_community.embeddings import HuggingFaceEmbeddings    # Importiert die HuggingFaceEmbeddings-Klasse, um Text in Vektoren umzuwandeln
+from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH               # Importiert Konfigurationen
 
 
 '''
 Diese Hilfsfunktion erstellt einen passenden Pfadnamen für die Vektordatenbank basierend auf dem Namen der PDF-Datei.
 '''
 
-def get_db_path(file_path, base_dir="./chroma_dbs"):
+def get_db_path(file_path, base_dir=DB_BASE_PATH):
     filename = os.path.basename(file_path)                  # Extrahiert den Dateinamen aus dem vollständigen Pfad (z.B. "dokument.pdf" aus "/ordner/dokument.pdf")
     name, _ = os.path.splitext(filename)                    # Trennt den Dateinamen vom Dateityp (z.B. "dokument" von ".pdf")
     return os.path.join(base_dir, name.lower())             # Gibt den vollständigen Pfad zurück, wo die Vektordatenbank gespeichert werden soll (z.B. "./chroma_dbs/dokument")
@@ -94,7 +95,7 @@ Erstellt eine neue Vektordatenbank aus den Chunks.
 
 def create_vectordb(chunks, db_path):
    
-    embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)  # Erstellt ein Embedding-Modell mit dem konfigurierten Modellnamen
     
     print(f"🛠️ Neue Vektordatenbank wird erstellt: {db_path}")
     vectordb = Chroma.from_documents(

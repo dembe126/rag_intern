@@ -4,6 +4,10 @@ import os
 import requests
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
+from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH, LLM_MODEL               # Importiert Konfigurationen
+from langchain.prompts import PromptTemplate                                   # PromptTemplate-Klasse, um benutzerdefinierte Prompts zu erstellen
+from langchain_community.llms import Ollama                                    # Ollama-Klasse, um mit Ollama-Modellen zu interagieren
+from langchain.chains import RetrievalQA                                       # RetrievalQA-Klasse, um Fragen mit Kontext zu beantworten
 
 
 '''
@@ -15,7 +19,7 @@ def load_vectordb(db_path):
         print(f"❌ Vektordatenbank nicht gefunden: {db_path}")
         return None
     
-    embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
     
     print(f"📂 Vektordatenbank wird geladen: {db_path}")
     vectordb = Chroma(
@@ -43,65 +47,47 @@ def search_similar_chunks(query, vectordb, top_k=10):
 
 
 '''
-Sendet die Frage und relevante Chunks an das LLM.
+Richtet eine RetrievalQA-Chain ein, die Fragen beantwortet.
 '''
 
-def ask_llm_with_context(question, chunks, model_name="llama3.2:1b"):
-    # Kontext aus Chunks zusammenbauen
-    context = ""
-    for i, chunk in enumerate(chunks, 1):
-        docname = chunk.metadata.get("document_name", "Unbekanntes Dokument")
-        page = chunk.metadata.get("page", "?")
-        
-        context += f"### Abschnitt {i}\n"
-        context += f"Dokument: {docname}\n"
-        context += f"Seite: {page}\n"
-        context += f"Inhalt:\n{chunk.page_content}\n\n"
-    
-    # Prompt für das LLM erstellen
-    prompt = f"""Du bist ein Experte und hilfreicher Assistent. Beantworte die folgende Frage basierend auf den gegebenen Textabschnitten sehr präzise und vollständig. 
-    Die Antwort sollte nur aus den Informationen bestehen, die in den Textabschnitten stehen. Wenn du die gegebene Frage nicht aus Basis der gegebenen Textabschnitte und des Kontextes beantworten kann, teile dies mit.
+def setup_rag_chain(vectordb, model_name):
+    # 1. LLM definieren
+    llm = Ollama(model=model_name)
 
-KONTEXT:
+    # 2. Den Vektor-Speicher als "Retriever" definieren.
+    # Der Retriever ist dafür zuständig, die relevanten Chunks zu holen.
+    retriever = vectordb.as_retriever(search_kwargs={'k': 10})                  # Wir holen die Top k Chunks
+
+    # 3. Prompt-Vorlage erstellen
+    # Hier definieren wir, wie der Input für das LLM aussehen soll.
+    prompt_template = """
+Du bist ein hilfreicher Assistent. Nutze die folgenden Textabschnitte, um die Frage am Ende zu beantworten.
+Die Antwort sollte sich ausschließlich auf die bereitgestellten Informationen stützen.
+Wenn die Antwort nicht im Kontext enthalten ist, antworte mit: "Ich konnte keine Antwort in den Dokumenten finden."
+Gib am Ende deiner Antwort immer die Quelle (Dokument und Seite) an, wenn möglich.
+
+Kontext:
 {context}
 
-FRAGE: {question}
+Frage: {question}
 
-ANTWORT: Beantworte die Frage basierend auf den Textabschnitten und gib auch die Seitenzahl(en) an, auf die du dich beziehst."""
+Hilfreiche Antwort:"""
 
-    # API-Anfrage an Ollama
-    url = "http://localhost:11434/api/generate"
-    data = {
-        "model": model_name,
-        "prompt": prompt,
-        "stream": False
-    }
+    PROMPT = PromptTemplate(
+        template=prompt_template, input_variables=["context", "question"]
+    )
+
+    # 4. Die RetrievalQA-Chain erstellen
+    qa_chain = RetrievalQA.from_chain_type(
+        llm=llm,
+        chain_type="stuff",                     # "stuff" bedeutet, alle gefundenen Chunks werden in den Prompt "gestopft"
+        retriever=retriever,
+        return_source_documents=True,           # Wir wollen die Quellen zurückbekommen
+        chain_type_kwargs={"prompt": PROMPT}
+    )
     
-    try:
-        print("🤖 LLM generiert Antwort...")
-        response = requests.post(url, json=data)
-        
-        if response.status_code == 200:
-            result = response.json()
-            return result['response']
-        else:
-            return f"❌ Fehler bei der LLM-Anfrage: {response.status_code}"
-            
-    except requests.exceptions.ConnectionError:
-        return "❌ Ollama ist nicht erreichbar. Ist es gestartet?"
-    except Exception as e:
-        return f"❌ Fehler: {str(e)}"
-
-
-
-'''
-Führt eine komplette RAG-Anfrage durch.
-'''
-
-def rag_query(question, vectordb, model_name="llama3.2:1b"):
-    chunks = search_similar_chunks(question, vectordb, top_k=10)        # 1. Ähnliche Chunks suchen
-    answer = ask_llm_with_context(question, chunks, model_name)         # 2. LLM mit Kontext fragen
-    return answer
+    print("✅ RAG-Chain ist einsatzbereit!")
+    return qa_chain
 
 
 
@@ -158,7 +144,7 @@ Lässt den Benutzer eine Datenbank auswählen.
 '''
 
 def select_database():
-    db_base_dir = "./chroma_dbs"
+    db_base_dir = DB_BASE_PATH 
     
     if not os.path.exists(db_base_dir):
         print(f"❌ Datenbankordner nicht gefunden: {db_base_dir}")
@@ -192,23 +178,19 @@ def main():
     """
     print("🔍 RAG-Retrieval startet...")
     
-    # 1. Datenbank auswählen
+    # ... (Code zum Datenbank und Modell auswählen bleibt gleich) ...
     db_path = select_database()
-    if db_path is None:
-        return
+    if db_path is None: return
     
-    # 2. Datenbank laden
     vectordb = load_vectordb(db_path)
-    if vectordb is None:
-        return
+    if vectordb is None: return
     
-    # 3. Modell auswählen
     selected_model = setup_ollama_model()
-    if selected_model is None:
-        print("❌ Modell nicht gefunden oder Ollama nicht erreichbar.")
-        return
+    if selected_model is None: return
     
-    # 4. Interaktive Fragen
+    # Hier kommt die neue Logik!
+    rag_chain = setup_rag_chain(vectordb, selected_model)
+    
     print("\n💬 Du kannst jetzt Fragen stellen. Tippe 'exit', um zu beenden.\n")
     
     while True:
@@ -217,10 +199,20 @@ def main():
             print("👋 Bis zum nächsten Mal!")
             break
         
-        answer = rag_query(user_input, vectordb, selected_model)
-        print("\n💡 Antwort:\n", answer)
-        print("-" * 60)
+        # Die Chain mit der Frage aufrufen
+        result = rag_chain.invoke({"query": user_input})
+        
+        # Ergebnis ausgeben
+        print("\n💡 Antwort:\n", result['result'])
+        
+        # Optional: Quellen anzeigen
+        print("\n📚 Quellen:")
+        for doc in result['source_documents']:
+            doc_name = doc.metadata.get('document_name', 'N/A')
+            page_num = doc.metadata.get('page', 'N/A')
+            print(f"  - Dokument: {doc_name}, Seite: {page_num}")
 
+        print("-" * 60)
 
 if __name__ == "__main__":
     main()
