@@ -62,7 +62,7 @@ def main():
         question = input("❓ Deine Frage: ")
         
         if question.lower() in ["exit", "quit", "q"]:
-            print("👋 Multi-Dokument RAG-System beendet!")
+            print("👋 RAG-System beendet!")
             break
         
         answer = rag_query(question, vectordb, model)

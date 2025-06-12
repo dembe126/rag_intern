@@ -53,8 +53,10 @@ def ask_llm_with_context(question, chunks, model_name="llama3.2:1b"):
         docname = chunk.metadata.get("document_name", "Unbekanntes Dokument")
         page = chunk.metadata.get("page", "?")
         
-        context += f"--- Textabschnitt {i} (aus '{docname}', Seite {page}) ---\n"
-        context += chunk.page_content + "\n\n"
+        context += f"### Abschnitt {i}\n"
+        context += f"Dokument: {docname}\n"
+        context += f"Seite: {page}\n"
+        context += f"Inhalt:\n{chunk.page_content}\n\n"
     
     # Prompt für das LLM erstellen
     prompt = f"""Du bist ein Experte und hilfreicher Assistent. Beantworte die folgende Frage basierend auf den gegebenen Textabschnitten sehr präzise und vollständig. 
@@ -97,14 +99,8 @@ Führt eine komplette RAG-Anfrage durch.
 '''
 
 def rag_query(question, vectordb, model_name="llama3.2:1b"):
-    print(f"📝 Frage: {question}")
-    
-    # 1. Ähnliche Chunks suchen
-    chunks = search_similar_chunks(question, vectordb, top_k=5)
-    
-    # 2. LLM mit Kontext fragen
-    answer = ask_llm_with_context(question, chunks, model_name)
-    
+    chunks = search_similar_chunks(question, vectordb, top_k=10)        # 1. Ähnliche Chunks suchen
+    answer = ask_llm_with_context(question, chunks, model_name)         # 2. LLM mit Kontext fragen
     return answer
 
 
