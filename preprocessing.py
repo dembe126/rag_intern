@@ -76,8 +76,8 @@ Behält sowohl Dokumentname als auch Seitenzahl in den Metadaten.
 
 def split_text(document_list):    
     text_splitter = RecursiveCharacterTextSplitter(              # wir erstellen eine Instanz des TextSplitters
-        chunk_size=1000,                                         # ein Dokument wird in Chunks von 1000 Zeichen unterteilt
-        chunk_overlap=200,                                       # Zwischen aufeinanderfolgenden Chunks gibt es eine Überlappung von 200 Zeichen (für semantische Ähnlichkeit) 
+        chunk_size=300,                                         # ein Dokument wird in Chunks von chunk_size Zeichen unterteilt
+        chunk_overlap=50,                                       # Zwischen aufeinanderfolgenden Chunks gibt es eine Überlappung von chunk_overlap Zeichen (für semantische Ähnlichkeit) 
     )
 
     all_chunks = []                                              # wir erstellen eine leere Liste, um später alle fertigen Chunks zu speichern

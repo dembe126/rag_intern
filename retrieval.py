@@ -31,7 +31,7 @@ def load_vectordb(db_path):
 Sucht in der Vektordatenbank nach ähnlichen Chunks.
 '''
 
-def search_similar_chunks(query, vectordb, top_k=5):
+def search_similar_chunks(query, vectordb, top_k=10):
     similar_chunks = vectordb.similarity_search(
         query=query,
         k=top_k
