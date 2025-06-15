@@ -3,6 +3,7 @@
 # Einfache Hauptdatei - startet das komplette RAG-System
 
 import os
+from config import DB_BASE_PATH, DB_NAME
 from preprocessing import (
     load_document, 
     split_text, 
@@ -24,7 +25,7 @@ def main():
     print("🚀 RAG-System wird gestartet...")
     
     # 1. Feste Datenbank für alle Dokumente
-    db_path = "./chroma_dbs/all_documents"
+    db_path = os.path.join(DB_BASE_PATH, DB_NAME)
     
     # 2. Datenbank laden oder erstellen
     if os.path.exists(db_path):
@@ -59,7 +60,6 @@ def main():
 
     # 5. Interaktive Fragen
     print(f"\n💬 Schritt 4: Du kannst jetzt Fragen zu allen PDFs stellen!")
-    print("Das System durchsucht automatisch alle Dokumente und nennt dir die Quelle.")
     print("Tippe 'exit' um das Programm zu beenden.\n")
     
     while True:

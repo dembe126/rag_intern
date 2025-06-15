@@ -4,7 +4,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter  # Importiert
 from langchain.schema import Document                                # Importiert die Document-Klasse, um Dokumente zu erstellen und zu verwalten
 from langchain_community.vectorstores import Chroma                 # Importiert die Chroma-Klasse, um Vektorspeicher zu erstellen und zu verwalten
 from langchain_huggingface import HuggingFaceEmbeddings               # Importiert die HuggingFaceEmbeddings-Klasse, um Text in Vektoren umzuwandeln
-from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH               # Importiert Konfigurationen
+from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH, DB_NAME               # Importiert Konfigurationen
 
 
 '''
