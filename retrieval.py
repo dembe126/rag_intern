@@ -10,11 +10,10 @@ from langchain_community.llms import Ollama                                    #
 from langchain.chains import RetrievalQA                                       # RetrievalQA-Klasse, um Fragen mit Kontext zu beantworten
 
 
-'''
-Lädt eine bestehende Vektordatenbank.
-'''
-
 def load_vectordb(db_path):
+    '''
+    Lädt eine bestehende Vektordatenbank.
+    '''
     if not os.path.exists(db_path):
         print(f"❌ Vektordatenbank nicht gefunden: {db_path}")
         return None
@@ -30,12 +29,10 @@ def load_vectordb(db_path):
     return vectordb
 
 
-
-'''
-Sucht in der Vektordatenbank nach ähnlichen Chunks.
-'''
-
 def search_similar_chunks(query, vectordb, top_k=10):
+    '''
+    Sucht in der Vektordatenbank nach ähnlichen Chunks.
+    '''
     similar_chunks = vectordb.similarity_search(
         query=query,
         k=top_k
@@ -45,12 +42,10 @@ def search_similar_chunks(query, vectordb, top_k=10):
     return similar_chunks
 
 
-
-'''
-Richtet eine RetrievalQA-Chain ein, die Fragen beantwortet.
-'''
-
 def setup_rag_chain(vectordb, model_name):
+    '''
+    Richtet eine RetrievalQA-Chain ein, die Fragen beantwortet.
+    '''
     # 1. LLM definieren
     llm = Ollama(model=model_name)
 
@@ -91,12 +86,10 @@ Hilfreiche Antwort:"""
     return qa_chain
 
 
-
-'''
-Hilft beim Setup von Ollama-Modellen.
-'''
-
 def setup_ollama_model(model_name=None):
+    '''
+    Hilft beim Setup von Ollama-Modellen.
+    '''
     try:
         response = requests.get("http://localhost:11434/api/tags")
         if response.status_code != 200:
@@ -139,12 +132,10 @@ def setup_ollama_model(model_name=None):
         return None
 
 
-
-'''
-Lässt den Benutzer eine Datenbank auswählen.
-'''
-
 def select_database():
+    '''
+    Lässt den Benutzer eine Datenbank auswählen.
+    '''
     db_base_dir = DB_BASE_PATH 
     
     if not os.path.exists(db_base_dir):
@@ -177,6 +168,7 @@ def main():
     """
     Hauptfunktion für das Retrieval - interaktive Fragen.
     """
+    
     print("🔍 RAG-Retrieval startet...")
     
     # ... (Code zum Datenbank und Modell auswählen bleibt gleich) ...

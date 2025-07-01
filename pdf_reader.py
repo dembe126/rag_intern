@@ -7,8 +7,7 @@ from config import DB_BASE_PATH, DB_NAME
 from preprocessing import (
     load_document, 
     split_text, 
-    create_vectordb, 
-    get_db_path, 
+    create_vectordb,  
     
 )
 from retrieval import (
@@ -22,6 +21,7 @@ def main():
     """
     Startet das komplette System.
     """
+    
     print("🚀 RAG-System wird gestartet...")
     
     # 1. Feste Datenbank für alle Dokumente

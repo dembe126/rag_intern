@@ -7,22 +7,10 @@ from langchain_huggingface import HuggingFaceEmbeddings               # Importie
 from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH, DB_NAME               # Importiert Konfigurationen
 
 
-'''
-Diese Hilfsfunktion erstellt einen passenden Pfadnamen für die Vektordatenbank basierend auf dem Namen der PDF-Datei.
-'''
-
-def get_db_path(file_path, base_dir=DB_BASE_PATH):
-    filename = os.path.basename(file_path)                  # Extrahiert den Dateinamen aus dem vollständigen Pfad (z.B. "dokument.pdf" aus "/ordner/dokument.pdf")
-    name, _ = os.path.splitext(filename)                    # Trennt den Dateinamen vom Dateityp (z.B. "dokument" von ".pdf")
-    return os.path.join(base_dir, name.lower())             # Gibt den vollständigen Pfad zurück, wo die Vektordatenbank gespeichert werden soll (z.B. "./chroma_dbs/dokument")
-
-
-
-'''
-Diese Funktion lädt eine PDF-Datei und gibt den Inhalt als Liste von Dokumenten zurück.
-'''
-
 def load_document(file_path):
+    '''
+    Diese Funktion lädt eine PDF-Datei und gibt den Inhalt als Liste von Dokumenten zurück.
+    '''
 
     if not os.path.exists(file_path):                       # Überprüft, ob die Datei existiert
         print(f"Datei nicht gefunden: {file_path}")         # Wenn nicht, wird eine Fehlermeldung ausgegeben
@@ -41,13 +29,10 @@ def load_document(file_path):
     return document                                         # Gibt die Liste der Dokumente (Seiten) zurück.     
 
 
-
-'''
-Lädt alle PDF-Dateien aus dem aktuellen Ordner.
-'''
-
-
 def load_all_pdfs_in_folder():
+    '''
+    Lädt alle PDF-Dateien aus dem aktuellen Ordner.
+    '''
     pdf_files = [f for f in os.listdir(".") if f.lower().endswith(".pdf")]
     
     if not pdf_files:
@@ -69,13 +54,11 @@ def load_all_pdfs_in_folder():
     return all_documents
 
 
-
-'''
-Diese Funktion unterteilt die Dokumente in kleinere Textabschnitte (Chunks).
-Behält sowohl Dokumentname als auch Seitenzahl in den Metadaten.
-'''
-
 def split_text(document_list):    
+    '''
+    Diese Funktion unterteilt die Dokumente in kleinere Textabschnitte (Chunks).
+    Behält sowohl Dokumentname als auch Seitenzahl in den Metadaten.
+    '''
     text_splitter = RecursiveCharacterTextSplitter(             # wir erstellen eine Instanz des TextSplitters
         chunk_size=500,                                         # ein Dokument wird in Chunks von chunk_size Zeichen unterteilt
         chunk_overlap=150,                                       # Zwischen aufeinanderfolgenden Chunks gibt es eine Überlappung von chunk_overlap Zeichen (für semantische Ähnlichkeit) 
@@ -89,11 +72,10 @@ def split_text(document_list):
     return chunks                                                          # Gibt die Liste der Chunks zurück
 
 
-'''
-Erstellt eine neue Vektordatenbank aus den Chunks.
-'''
-
 def create_vectordb(chunks, db_path):
+    '''
+    Erstellt eine neue Vektordatenbank aus den Chunks.
+    '''
    
     embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)  # Erstellt ein Embedding-Modell mit dem konfigurierten Modellnamen
     
@@ -107,7 +89,6 @@ def create_vectordb(chunks, db_path):
     
     print(f"✅ Vektordatenbank wurde gespeichert!")
     return vectordb
-
 
 
 def main():

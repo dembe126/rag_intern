@@ -10,4 +10,4 @@ DB_BASE_PATH = "./chroma_dbs"
 DB_NAME = "all_documents"
 
 # LLM-Modell für die Antwortgenerierung
-LLM_MODEL = "llama3.2:latest" # Wir können hier ein Standardmodell festlegen
+LLM_MODEL = "gemma3:4b" # Wir können hier ein Standardmodell festlegen
