@@ -1,31 +1,45 @@
 import os                                                           # Standard Python-Modul für Betriebssystemfunktionen wie Dateipfad-Operationen
-from langchain_community.document_loaders import PyMuPDFLoader        # Importiert den PDFLoader aus dem langchain_community-Paket, um PDF-Dokumente zu laden
 from langchain.text_splitter import RecursiveCharacterTextSplitter  # Importiert den TextSplitter, um den Text bzw. Dokumente in kleinere Abschnitte (Chunks) zu unterteilen
 from langchain.schema import Document                                # Importiert die Document-Klasse, um Dokumente zu erstellen und zu verwalten
 from langchain_community.vectorstores import Chroma                 # Importiert die Chroma-Klasse, um Vektorspeicher zu erstellen und zu verwalten
 from langchain_huggingface import HuggingFaceEmbeddings               # Importiert die HuggingFaceEmbeddings-Klasse, um Text in Vektoren umzuwandeln
 from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH, DB_NAME               # Importiert Konfigurationen
+from docling.document_converter import DocumentConverter            # Neuer docling Import
 
 
 def load_document(file_path):
     '''
-    Diese Funktion lädt eine PDF-Datei und gibt den Inhalt als Liste von Dokumenten zurück.
+    Diese Funktion lädt eine PDF-Datei mit Docling und gibt den Inhalt als Liste von Dokumenten zurück.
     '''
 
     if not os.path.exists(file_path):                       # Überprüft, ob die Datei existiert
         print(f"Datei nicht gefunden: {file_path}")         # Wenn nicht, wird eine Fehlermeldung ausgegeben
         return []                                           # und eine leere Liste zurückgegeben
     
-    loader = PyMuPDFLoader(file_path)                         # Erstellt eine Instanz des PyPDFLoader mit dem angegebenen Dateipfad
-    document = loader.load()                                # Ruft die load()-Methode auf, die das PDF liest → jede Seite der PDF wird zu einem einzelnen Text-Dokument in einer Liste
-    
+    converter = DocumentConverter()                         # Docling Converter erstellen
+
+    result = converter.convert(file_path)                   # PDF mit Docling konvertieren
+    docling_doc = result.document
+        
     doc_name = os.path.splitext(os.path.basename(file_path))[0]     # Dokumentname ohne Pfad und Endung extrahieren
     
-    
-    for doc in document:                                            # Dokumentname zu jedem Seiten-Dokument hinzufügen
-        doc.metadata['document_name'] = doc_name
-    
-    print (f"📄 Das Dokument hat {len(document)} Seiten")   # Gibt die Anzahl der der geladenen Seiten im Dokument aus
+    full_text = docling_doc.export_to_markdown()            # Text aus Docling-Dokument extrahieren (als Markdown)
+
+    # LangChain Document erstellen (ähnlich wie PyMuPDF, aber nur ein Document statt eins pro Seite)
+    document = [Document(
+        page_content=full_text,
+        metadata={
+            'document_name': doc_name,
+            'source': file_path,
+            'extraction_method': 'docling',
+            'total_pages': len(docling_doc.pages) if hasattr(docling_doc, 'pages') else 1
+        }
+    )]
+
+    print(f"📄 Das Dokument wurde erfolgreich mit Docling geladen")
+    print(f"📏 Extrahierte Textlänge: {len(full_text)} Zeichen")
+    if hasattr(docling_doc, 'pages'):
+        print(f"📑 Originalseiten: {len(docling_doc.pages)}")
     return document                                         # Gibt die Liste der Dokumente (Seiten) zurück.     
 
 
@@ -89,6 +103,17 @@ def create_vectordb(chunks, db_path):
     
     print(f"✅ Vektordatenbank wurde gespeichert!")
     return vectordb
+
+def debug_chunks(chunks, num_chunks_to_show=3):
+    '''
+    Debug-Funktion um zu sehen, wie die Chunks aussehen
+    '''
+    print(f"\n=== DEBUG: Erste {num_chunks_to_show} Chunks ===")
+    for i, chunk in enumerate(chunks[:num_chunks_to_show]):
+        print(f"\n--- Chunk {i+1} ---")
+        print(f"Länge: {len(chunk.page_content)} Zeichen")
+        print(f"Metadata: {chunk.metadata}")
+        print(f"Inhalt: {chunk.page_content[:200]}...")
 
 
 def main():
