@@ -1,4 +1,4 @@
-import os                                                           # Standard Python-Modul, hilft mit dem Dateisystem zu arbeiten
+import os                                                           # Standard Python-Modul, für BS-Funktionen und Arbeit mit Dateisystem
 from langchain.text_splitter import RecursiveCharacterTextSplitter  # Importiert den TextSplitter
 from langchain_experimental.text_splitter import SemanticChunker    # für semantisches Chunking
 from langchain.schema import Document                               # Document-Klasse, um Dokumente zu erstellen und zu verwalten
@@ -71,7 +71,7 @@ def load_all_pdfs_in_folder():
     '''
     Lädt alle PDF-Dateien aus dem aktuellen Ordner.
     '''
-    pdf_files = [f for f in os.listdir(".") if f.lower().endswith(".pdf")]
+    pdf_files = [f for f in os.listdir(".") if f.lower().endswith(".pdf")]  # gibt alle pdf-Dateien aus dem Ordner (Texte müssen also im selben Ordner sein)
     
     if not pdf_files:
         print("❌ Keine PDF-Dateien im aktuellen Ordner gefunden.")
@@ -81,31 +81,34 @@ def load_all_pdfs_in_folder():
     for pdf in pdf_files:
         print(f"  - {pdf}")
     
-    all_documents = []
+    all_documents = []      # Sammlung aller Seiten der PDFs
     
-    for pdf_file in pdf_files:
+    for pdf_file in pdf_files:              # gehe jede pdf durch
         print(f"\n📖 Lade: {pdf_file}")
         documents = load_document(pdf_file)
-        all_documents.extend(documents)
+        all_documents.extend(documents)     
     
     print(f"\n✅ Insgesamt {len(all_documents)} Seiten aus {len(pdf_files)} PDFs geladen")
     return all_documents
 
 
-def split_text_semantic(document_list, max_chunk_size=400):    
+def split_text_semantic(document_list, max_chunk_size=500):    
     '''
-    Diese Funktion unterteilt die Dokumente semantisch in kleinere Textabschnitte (Chunks).
+    Diese Funktion erhält als Argument unsere vorher geladenen Texte und unterteilt die Dokumente semantisch in kleinere Textabschnitte (Chunks).
     Verwendet SemanticChunker für thematische Trennung und einen Fallback für zu große Chunks.
     '''
     
-    # Embedding-Modell für semantische Analyse (gleich wie für Vektordatenbank)
+    # Embedding-Modell für semantische Analyse, den der Chunker braucht
     embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
     
-    # Semantischer Chunker - teilt nach Bedeutung auf
+    # Semantic Chunker analysiert den Text und teilt Chunks nach semantischer Ähnlichkeit
     semantic_splitter = SemanticChunker(
-        embeddings=embedding_model,              # Korrekter Parameter-Name
-        breakpoint_threshold_type="percentile",  # oder "standard_deviation" für aggressivere Trennung
-        breakpoint_threshold_amount=85
+        embeddings=embedding_model,              # dafür braucht es das Embedding Modell
+        # Diese beiden Zeilen sind die Anweisung, wann ein Cut gemacht werden soll
+        breakpoint_threshold_type="percentile", # (Prozentrang) - Methode, wie die Trenn-Schwelle gefunden wird
+        breakpoint_threshold_amount=85          # "Ignoriere die 85% der kleinsten Themenwechsel"
+                                                # "setze einen Cut nur bei den 15% der stärksten Themenwechsel" 
+    
     )
     
     # Fallback-Splitter für zu große semantische Chunks
@@ -122,7 +125,7 @@ def split_text_semantic(document_list, max_chunk_size=400):
     semantic_chunks = semantic_splitter.split_documents(document_list)
     print(f"📊 Semantische Aufteilung ergab {len(semantic_chunks)} Chunks")
 
-    # DANN kleine Chunks filtern/kombinieren
+    # Zu kleine Chunks filtern/kombinieren
     filtered_chunks = []
     for chunk in semantic_chunks:
         if len(chunk.page_content.strip()) >= 50:  # Mindestlänge
@@ -165,7 +168,7 @@ def create_vectordb(chunks, db_path):
     Erstellt eine neue Vektordatenbank aus den Chunks.
     '''
    
-    embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)  # Erstellt ein Embedding-Modell mit dem konfigurierten Modellnamen
+    embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME) 
     
     print(f"🛠️ Neue Vektordatenbank wird erstellt: {db_path}")
     vectordb = Chroma.from_documents(
@@ -178,11 +181,11 @@ def create_vectordb(chunks, db_path):
     print(f"✅ Vektordatenbank wurde gespeichert!")
     return vectordb
 
-def debug_chunks(chunks, show_all=False, show_content=True, max_content_chars=300):
+def debug_chunks(chunks, show_all=True, show_content=True, max_content_chars=300):
     '''
     Debug-Funktion um zu sehen, wie die Chunks aussehen
     '''
-    num_to_show = len(chunks) if show_all else 3
+    num_to_show = len(chunks) if show_all else 3        # Wenn show_all=True --> alle Chunks zeigen, sonst nur die ersten 3
     
     print(f"\n{'='*60}")
     print(f"DEBUG: Zeige {num_to_show} von {len(chunks)} Chunks")
@@ -195,33 +198,12 @@ def debug_chunks(chunks, show_all=False, show_content=True, max_content_chars=30
         
         if show_content:
             content = chunk.page_content.replace('\n', ' ').strip()
-            if len(content) > max_content_chars:
-                print(f"📄 Inhalt: {content[:max_content_chars]}...")
+            if len(content) > max_content_chars:                        # Wenn der Inhalt länger als max_content_chars ist,
+                print(f"📄 Inhalt: {content[:max_content_chars]}...")   # schneide ihn ab und zeige „...“ an
             else:
-                print(f"📄 Inhalt: {content}")
+                print(f"📄 Inhalt: {content}")                          # sonst vollständigen Text anzeigen
         
         print("-" * 50)
-
-
-def save_chunks_to_file(chunks, filename="chunks_analysis.txt"):
-    '''
-    Speichert alle Chunks in eine Textdatei für detaillierte Analyse
-    '''
-    with open(filename, 'w', encoding='utf-8') as f:
-        f.write(f"CHUNK ANALYSIS REPORT\n")
-        f.write(f"{'='*60}\n")
-        f.write(f"Anzahl Chunks: {len(chunks)}\n")
-        f.write(f"Erstellt am: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(f"{'='*60}\n\n")
-        
-        for i, chunk in enumerate(chunks):
-            f.write(f"CHUNK {i+1:03d}\n")
-            f.write(f"Länge: {len(chunk.page_content)} Zeichen\n")
-            f.write(f"Metadata: {chunk.metadata}\n")
-            f.write(f"Inhalt:\n{chunk.page_content}\n")
-            f.write(f"{'='*60}\n\n")
-    
-    print(f"💾 Alle Chunks wurden in '{filename}' gespeichert")
 
 
 def save_chunks_by_document(all_chunks):
