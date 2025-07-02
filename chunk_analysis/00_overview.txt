@@ -1,0 +1,23 @@
+CHUNK OVERVIEW - ALLE DOKUMENTE
+============================================================
+Erstellt am: 2025-07-02 11:42:31
+Gesamtanzahl Chunks: 1327
+
+📄 Fraunhofer_KI:
+   - Chunks: 626
+   - Ø Größe: 200 Zeichen
+   - Größter: 250 Zeichen
+   - Kleinster: 2 Zeichen
+
+📄 Jugendarbeit:
+   - Chunks: 347
+   - Ø Größe: 172 Zeichen
+   - Größter: 250 Zeichen
+   - Kleinster: 2 Zeichen
+
+📄 ABB:
+   - Chunks: 354
+   - Ø Größe: 175 Zeichen
+   - Größter: 250 Zeichen
+   - Kleinster: 1 Zeichen
+

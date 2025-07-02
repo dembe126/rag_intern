@@ -6,7 +6,7 @@ import os
 from config import DB_BASE_PATH, DB_NAME
 from preprocessing import (
     load_document, 
-    split_text, 
+    split_text_semantic, 
     create_vectordb,  
     
 )
@@ -15,6 +15,21 @@ from retrieval import (
     setup_rag_chain, 
     setup_ollama_model
 )
+
+def show_retrieved_chunks(chunks):
+    """
+    Zeigt die gefundenen Chunks zur Transparenz an.
+    """
+    print(f"\n🔍 {len(chunks)} relevante Chunks gefunden:")
+    print("=" * 60)
+    
+    for i, chunk in enumerate(chunks, 1):
+        doc_name = chunk.metadata.get('document_name', 'Unbekannt')
+        content_preview = chunk.page_content[:150] + "..." if len(chunk.page_content) > 150 else chunk.page_content
+        
+        print(f"\n📄 CHUNK {i} - {doc_name}")
+        print(f"📝 {content_preview}")
+        print("-" * 40)
 
 
 def main():
@@ -42,7 +57,7 @@ def main():
             return
         
         # In Chunks aufteilen
-        chunks = split_text(all_documents)
+        chunks = split_text_semantic(all_documents)
         
         # Datenbank erstellen
         vectordb = create_vectordb(chunks, db_path)
@@ -69,6 +84,11 @@ def main():
             print("👋 RAG-System beendet!")
             break
 
+        # Chunks holen und anzeigen
+        retriever = vectordb.as_retriever(search_kwargs={'k': 30})
+        retrieved_chunks = retriever.invoke(question)
+        show_retrieved_chunks(retrieved_chunks)
+
         # Die Chain mit der Frage aufrufen
         result = rag_chain.invoke({"query": question})
         
@@ -79,9 +99,8 @@ def main():
         unique_sources = set()
         for doc in result['source_documents']:
             doc_name = doc.metadata.get('document_name', 'N/A')
-            page_num = doc.metadata.get('page', 'N/A')
             # Zeige jede Quelle nur einmal an
-            unique_sources.add(f"  - Dokument: {doc_name}, Seite: {page_num}")
+            unique_sources.add(f"  - Dokument: {doc_name}")
 
         for source in sorted(list(unique_sources)):
             print(source)

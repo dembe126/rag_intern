@@ -1,0 +1,2817 @@
+CHUNK ANALYSIS: ABB
+============================================================
+Anzahl Chunks: 354
+Erstellt am: 2025-07-02 11:42:31
+============================================================
+
+CHUNK 001
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Industrie
+
+## ABB Aktienanalyse
+
+Noch mehr Technologie und Automatisierung geht nicht von Benjamin Franzil
+
+<!-- image -->
+
+<!-- image -->
+
+Hauptsitz
+
+Zürich, Schweiz
+
+ISIN
+
+CH0012221716
+
+WKN
+
+919730
+
+Ticker-Symbol
+
+ABBN.SW
+
+Sektor
+
+Industrie
+
+Kurs
+============================================================
+
+CHUNK 002
+Länge: 155 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 201}
+Inhalt:
+Ticker-Symbol
+
+ABBN.SW
+
+Sektor
+
+Industrie
+
+Kurs
+
+33,70 USD
+
+Ausstehende Aktien
+
+2.120 Mio. Marktkapitalisierung
+
+71,4 Mrd. USD
+
+Enterprise Value
+
+74,0 Mrd.
+============================================================
+
+CHUNK 003
+Länge: 32 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+USD
+
+Enterprise Value
+
+74,0 Mrd.
+============================================================
+
+CHUNK 004
+Länge: 183 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+USD
+
+Nettoverschuldung
+
+2,6 Mrd. USD
+
+Bruttomarge
+
+30,7 %
+
+EBIT-Marge
+
+7,2 %
+
+Gewinnmarge
+
+19,7 %
+
+Free Cash Flow-
+
+Rendite
+
+3,8 %
+
+Dividendenrendite
+
+2,6 %
+
+Datum
+
+04.06.2021
+
+## ABB
+============================================================
+
+CHUNK 005
+Länge: 209 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 151}
+Inhalt:
+2,6 %
+
+Datum
+
+04.06.2021
+
+## ABB
+
+Der Fachkräftemangel und der demographische  Wandel  sind  in  Deutschland  viel  diskutierte  Probleme. Aber auch in vielen Produk  tionsländern  kommen  diese  Probleme auf.
+============================================================
+
+CHUNK 006
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+In  China  zum  Beispiel. Was  also  tun, wenn  es  in  ein  paar  Jahren  immer  weniger Menschen gibt, die in Fabriken unsere Lieblingsprodukte herstellen? Eine Antwort ist, man holt sich Roboter von ABB. Die  werden  immer  besser  und  finden
+============================================================
+
+CHUNK 007
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 198}
+Inhalt:
+von ABB. Die  werden  immer  besser  und  finden immer  mehr  Anwendung. ABB  macht  aber nicht  nur  Roboter. Sie  stellen  auch  Ladesäulen  für  Elektroautos  her. Erfahre  jetzt  in dieser spannenden Analyse, wie ABB die Probleme unserer Zukunft
+============================================================
+
+CHUNK 008
+Länge: 73 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 402}
+Inhalt:
+Analyse, wie ABB die Probleme unserer Zukunft löst. ## ABB Aktienkurs USD
+============================================================
+
+CHUNK 009
+Länge: 50 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 477}
+Inhalt:
+<!-- image -->
+
+2
+
+## Überblick: ABB Aktienanalyse
+============================================================
+
+CHUNK 010
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 529}
+Inhalt:
+- · 130 Jahre Ingenieurserfahrung. ABB wird 1988 durch die Fusion der beiden Industriegiganten  ASEA  und  BBC  gegründet. Beide  sind  hochspezialisierte  Technologieunternehmen, die nun ihre Expertise bündeln. - · Eine Holding für die Industrie
+============================================================
+
+CHUNK 011
+Länge: 176 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 732}
+Inhalt:
+bündeln. - · Eine Holding für die Industrie der Zukunft. ABB ist der größte technologische Automatisierungskonzern der Welt. Sie decken den kompletten Bereich Industrie 4.0 ab.
+============================================================
+
+CHUNK 012
+Länge: 214 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Sie arbeiten daran, Infrastruktur zu elektrifizieren, Fabriken zu automatisieren und Roboter zu entwickeln. Sie sind perfekt aufgestellt, um die Industrie der Zukunft zu gestalten. - · Schlanker, schneller, besser.
+============================================================
+
+CHUNK 013
+Länge: 142 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+ABB steckt momentan in einer Transformation. Der neue CEO soll das Unternehmen dezentraler machen. Der große Verwaltungsapparat wird abgebaut.
+============================================================
+
+CHUNK 014
+Länge: 235 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Das spart Kosten. Operative Entscheidungen werden jetzt direkt beim Kunden getroffen. Das schafft Flexibilität und erhöht Profitabilität. - · Auch in  der  Industrie  gibt  es  noch  Wachstum. Hohes Wachstum findet man vor allem in der
+============================================================
+
+CHUNK 015
+Länge: 238 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 193}
+Inhalt:
+Hohes Wachstum findet man vor allem in der Softwarebranche. Aber auch im industriellen Sektor gibt es noch Nischen mit hohem Wachstum. Hier kennt sich ABB bestens aus. Sie bauen zum Beispiel Roboter für die Baubranche. Was das an Wachstum
+============================================================
+
+CHUNK 016
+Länge: 94 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 384}
+Inhalt:
+Roboter für die Baubranche. Was das an Wachstum verspricht, erläutere ich in dieser Analyse. 4
+============================================================
+
+CHUNK 017
+Länge: 21 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 480}
+Inhalt:
+<!-- image -->
+
+## 1.
+============================================================
+
+CHUNK 018
+Länge: 24 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+4
+
+<!-- image -->
+
+## 1.
+============================================================
+
+CHUNK 019
+Länge: 125 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Geschäftsmodell von ABB: Breit gestreut, nie bereut
+
+## Unternehmensgeschichte: 130 Jahre Ingenieurserfahrung
+
+<!-- image -->
+============================================================
+
+CHUNK 020
+Länge: 191 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 111}
+Inhalt:
+<!-- image -->
+
+1883: Die Schweden machen den Anfang. Ludvig Fredholm gründet Allmänna Svenska Elektriska Aktiebolaget (ASEA). Er entwickelt in den folgenden Jahren das erste Drehstromsystem.
+============================================================
+
+CHUNK 021
+Länge: 207 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Dadurch legt er den Grundstein für die Stromübertragung wie wir sie heute kennen. Am Anfang reicht es aber nur für eine Distanz von 13 Kilometern. ASEA probiert in den nächsten Jahren viel aus. Sie sind z.B.
+============================================================
+
+CHUNK 022
+Länge: 13 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Sie sind z.B.
+============================================================
+
+CHUNK 023
+Länge: 142 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+die ersten, die synthetische Diamanten herstellen können. <!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+1891: Und die Schweizer ziehen nach.
+============================================================
+
+CHUNK 024
+Länge: 203 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Brown, Boveri &amp; Cie. (BBC) wird in der Schweiz gegründet. Sie  sind  das  erste  Unternehmen,  das  einen  Weg  findet,  HochspannungsWechselstrom zu übertragen. Die Schweizer steigen während des 20.
+============================================================
+
+CHUNK 025
+Länge: 37 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Die Schweizer steigen während des 20.
+============================================================
+
+CHUNK 026
+Länge: 101 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Jahrhunderts zum internationalen Großkonzern für elektrische Maschinen, Turbinen und Lokomotiven auf.
+============================================================
+
+CHUNK 027
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+1988:  Schweizerisch-Schwedische  Hochzeit. Der  Merger  zwischen  ASEA  und  BBC wird verkündet und ein europäischer Industriegigant entsteht. Das neue Unternehmen heißt ASEA Brown Boveri - kurz ABB. ABB startet mit 160.000 Mitarbeitern und 17 Mrd.
+============================================================
+
+CHUNK 028
+Länge: 60 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 201}
+Inhalt:
+ABB startet mit 160.000 Mitarbeitern und 17 Mrd. USD Umsatz.
+============================================================
+
+CHUNK 029
+Länge: 11 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+USD Umsatz.
+============================================================
+
+CHUNK 030
+Länge: 250 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Als Hauptsitz wird Zürich gewählt. 2002: ABB bricht schnell Rekorde. ABB baut in Australien den 'Murraylink'. Sie verbinden die Wechselstromnetze der australischen Bundesstaaten Victoria und South Australia. Das Kabel ist 177 Kilometer lang und liegt
+============================================================
+
+CHUNK 031
+Länge: 142 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 208}
+Inhalt:
+Das Kabel ist 177 Kilometer lang und liegt im Boden. Das macht es zur längsten unterirdischen Hochspannungsverbindung der Welt. <!-- image -->
+============================================================
+
+CHUNK 032
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 352}
+Inhalt:
+<!-- image -->
+
+<!-- image -->
+
+2009: Und noch ein Rekord. ABB nimmt die weltweit längste und leistungsfähigste Unterwasserleitung für Hochspannung in Betrieb. Sie verbindet die Stromnetze Norwegens und der Niederlande. Und das über 580 Kilometer.
+============================================================
+
+CHUNK 033
+Länge: 27 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Und das über 580 Kilometer.
+============================================================
+
+CHUNK 034
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+2010: An Bord geht es jetzt auch rund. ABB liefert den ersten, vollautomatischen Kran für Schiffsentladungen. Das Besondere: Das komplette Terminal kommt ohne menschliche Bedienung aus. Das gute Stück steht natürlich im größten deutschen Hafen - in
+============================================================
+
+CHUNK 035
+Länge: 85 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 201}
+Inhalt:
+steht natürlich im größten deutschen Hafen - in Hamburg. 2018: Zurück in die Zukunft.
+============================================================
+
+CHUNK 036
+Länge: 28 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+2018: Zurück in die Zukunft.
+============================================================
+
+CHUNK 037
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+ABB stellt YuMi vor. Das ist der erste kollaborierenden Zweiarm-Roboter für die Kleinteilmontage. YuMi soll die Automatisierung auf das nächste Level bringen. YuMi arbeitet am besten mit einem Menschen zusammen. Sicherheit steht dabei natürlich ganz
+============================================================
+
+CHUNK 038
+Länge: 152 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 202}
+Inhalt:
+zusammen. Sicherheit steht dabei natürlich ganz oben. YuMi ist sogar so sicher, dass bei vielen Anwendungen Schutzzäune überflüssig sind. <!-- image -->
+============================================================
+
+CHUNK 039
+Länge: 29 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 356}
+Inhalt:
+2020:  Auf  zu  neuen  Ufern.
+============================================================
+
+CHUNK 040
+Länge: 91 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+ABB  trennt  sich  von  seinem  Stromnetzgeschäft. Damit geht eine 130-jährige Ära zu Ende.
+============================================================
+
+CHUNK 041
+Länge: 234 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Sie konzentrieren sich ab jetzt voll auf ihre Industriekunden und auf die Themen Elektrifizierung, Automatisierung, Robotik und Antriebstechnik. Das  Stromnetzgeschäft  geht  an  einen  Japaner. Hitachi  übernimmt  es  für  gut 6 Mrd.
+============================================================
+
+CHUNK 042
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Euro. ## Mission: Die Zukunft gestaltet sich nicht von allein
+
+'We are committed to writing the future of safe, smart and sustainable electrification for everything from industry and buildings to infrastructure and transportation.'
+
+ABB Mission
+============================================================
+
+CHUNK 043
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 246}
+Inhalt:
+Für ABB dreht sich alles um Technologie und Elektrizität. Sie sehen die Zukunft als vernetzt, automatisiert und grün. Dafür arbeiten sie stetig daran, Technologie effizienter, Prozesse einfacher und Industrien vernetzter zu machen. ABB versteht sich
+============================================================
+
+CHUNK 044
+Länge: 181 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 456}
+Inhalt:
+vernetzter zu machen. ABB versteht sich dabei als Treiber von Technologie und Nachhaltigkeit. Sie haben dafür vier Werte identifiziert, anhand derer sie sich orientieren. ## Courage
+============================================================
+
+CHUNK 045
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 639}
+Inhalt:
+ABB Mitarbeiter sind angehalten, selbst in Aktion zu treten und die Konsequenzen ihres Handelns zu tragen. Es wird eine offene Kultur gelebt, in der jede gestellte Frage ein Gewinn ist. Risiken eingehen und Erfolge kreieren, sind dabei das Ziel. ##
+============================================================
+
+CHUNK 046
+Länge: 55 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 842}
+Inhalt:
+und Erfolge kreieren, sind dabei das Ziel. ## Zuwendung
+============================================================
+
+CHUNK 047
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 899}
+Inhalt:
+Sorgfalt und Zuwendung werden bei ABB groß geschrieben. Das gilt für Kunden, Mitarbeiter und die Umwelt. ABB kreiert eine Kultur von Integrität und Verständnis. In einem so global aufgestellten Konzern ist das essenziell. Gemeinsamkeiten werden
+============================================================
+
+CHUNK 048
+Länge: 97 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1101}
+Inhalt:
+ist das essenziell. Gemeinsamkeiten werden betont, um über Unterschiede hinwegzusehen. ## Neugier
+============================================================
+
+CHUNK 049
+Länge: 239 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1200}
+Inhalt:
+ABB erschafft ständig neue Technologien und verbessert die Welt. Ohne Neugier ist das unmöglich. Es gilt der Grundsatz: 'Es gibt immer einen noch besseren Weg'. Mitarbeiter sollen immer dazulernen. Und zwar aus Fehlern und aus Erfolgen. ##
+============================================================
+
+CHUNK 050
+Länge: 56 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1398}
+Inhalt:
+Und zwar aus Fehlern und aus Erfolgen. ## Zusammenarbeit
+============================================================
+
+CHUNK 051
+Länge: 209 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1456}
+Inhalt:
+Schlaue Leute arbeiten zusammen. Darum arbeiten bei ABB Leute aus unterschiedlichen Abteilungen  und  mit  unterschiedlichen  Hintergründen  zusammen. Ganz  entscheidend  ist  die Kommunikation mit den Kunden.
+============================================================
+
+CHUNK 052
+Länge: 105 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Nur wer das Problem versteht, kann es lösen. ## Management: Neuer CEO (Björn Rosengren) für eine neue Ära
+============================================================
+
+CHUNK 053
+Länge: 150 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 107}
+Inhalt:
+Björn  Rosengren  ist  seit  März  2020  neuer  CEO  von  ABB. Er  ist  ein  erfahrener  Manager  von  globalen Technologieunternehmen. <!-- image -->
+============================================================
+
+CHUNK 054
+Länge: 126 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 259}
+Inhalt:
+Der Herkunft treu geblieben. Björn Rosengren ist erst seit März 2020 neuer CEO von ABB. Er löst den Schweizer, Peter Voser ab.
+============================================================
+
+CHUNK 055
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Björn ist Schwede. Damit bleibt ABB seiner schwedischschweizerischen Herkunft treu. Björn ist ein Urgestein der Technologiebranche . Der Posten bei ABB ist bereits Björns dritte Stelle als CEO. Bis vor kurzem war er CEO von Sandvik. Sandvik ist ein
+============================================================
+
+CHUNK 056
+Länge: 168 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 202}
+Inhalt:
+kurzem war er CEO von Sandvik. Sandvik ist ein schwedisches Industrieunternehmen, dass Werkzeuge und Maschinen herstellt. Davor war er CEO bei der Wärtsilä Corporation.
+============================================================
+
+CHUNK 057
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Sie stellen Stromsysteme und andere Ausrüstung für den Schifffahrts- und den Energiesektor her. Insgesamt hat Björn bereits 10 Jahre Erfahrung als CEO. Das macht ihn zu einem Veteran der Technologiebranche. Ein neuer Mann für einen neuen Weg. Bei
+============================================================
+
+CHUNK 058
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 207}
+Inhalt:
+Ein neuer Mann für einen neuen Weg. Bei Sandvik hat Björn eine dezentrale Organisationsstruktur aufgebaut. Gleichzeitig hat er Sandvik zu mehr Profitabilität und Finanzkraft geführt. Das war ausschlaggebend für seine Berufung zum CEO von ABB. Genau
+============================================================
+
+CHUNK 059
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 414}
+Inhalt:
+für seine Berufung zum CEO von ABB. Genau das soll er nämlich nun bei ABB wiederholen. Der Technologieriese möchte sich schlanker aufstellen und flexibler werden. Alt-CEO und Verwaltungsratspräsident Peter Voser sagt überzeugt: 'Er bringt genau die
+============================================================
+
+CHUNK 060
+Länge: 183 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 614}
+Inhalt:
+Peter Voser sagt überzeugt: 'Er bringt genau die Führungsfähigkeiten mit, die ABB in der nächsten Phase der Transformation benötigt'. ## Aktionärsstruktur: Die Schweden sind geblieben
+============================================================
+
+CHUNK 061
+Länge: 240 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 799}
+Inhalt:
+ABB ist zu gut 25 % in der Hand von institutionellen Investoren. Den größten Anteil hält mit 12,2  %  Investor  AB. Die  Investmentgesellschaft  wurde  1916  von  der  Familie  Wallenberg  gegründet. Investor AB hält Anteile an allen großen
+============================================================
+
+CHUNK 062
+Länge: 237 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 999}
+Inhalt:
+Investor AB hält Anteile an allen großen schwedischen Unternehmen. Dazu gehören neben ABB zum Beispiel auch AstraZeneca, SAAB oder Wärtsilä. Zu Investor AB gehört auch das Private Equity Unternehmen EQT. ## Branchenanalyse: Industrie 4.0
+============================================================
+
+CHUNK 063
+Länge: 47 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1238}
+Inhalt:
+## ABB der Alleskönner im Bereich Industrie 4.0
+============================================================
+
+CHUNK 064
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1287}
+Inhalt:
+ABB ist ein globaler Technologiekonzern, der besonders im Bereich Industrie 4.0 aktiv ist. ABB tritt  gegen  große  Konkurrenz an. Besonders Siemens und Schneider Electric machen ihnen regelmäßig Konkurrenz. ABB bietet seine Technologie in drei
+============================================================
+
+CHUNK 065
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1483}
+Inhalt:
+Konkurrenz. ABB bietet seine Technologie in drei Bereichen an: Elektrifizierung, Automatisierung und Robotik. Sie sind das einzige Unternehmen, das in Bezug auf Industrie 4.0 so breit aufgestellt ist. ## ABB ist in den Märkten Elektrifizierung,
+============================================================
+
+CHUNK 066
+Länge: 157 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1679}
+Inhalt:
+ist. ## ABB ist in den Märkten Elektrifizierung, Automatisierung und Robotik tätig. Sie sind der am breitesten aufgestellte Anbieter im Bereich Industrie 4.0
+============================================================
+
+CHUNK 067
+Länge: 14 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1838}
+Inhalt:
+<!-- image -->
+============================================================
+
+CHUNK 068
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1854}
+Inhalt:
+ABB konkurriert mit anderen Industriekonglomeraten wie Siemens, Schneider Electric oder Rockwell Automation. ABBs Vorteil ist das breite Produktportfolio. Besonders im Wachstumsmarkt für Robotik heben sie sich von der direkten Konkurrenz ab. ##
+============================================================
+
+CHUNK 069
+Länge: 105 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2049}
+Inhalt:
+heben sie sich von der direkten Konkurrenz ab. ## Elektrifizierung: Strom muss fließen, sonst geht nichts
+============================================================
+
+CHUNK 070
+Länge: 185 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2156}
+Inhalt:
+<!-- image -->
+
+Der globale Stromkonsum steigt um ca. 2,1 % p.a. Das klingt erstmal nicht viel. Ist aber doppelt so hoch wie das Wachstum des gesamten Energiekonsums. Das liegt bei 1 %.
+============================================================
+
+CHUNK 071
+Länge: 224 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+ABB mischt hier mit Produkten für die elektrische Ausrüstung von Gebäuden, Maschinen, Anlagen und Infrastruktur mit. ABB ist ein globaler Player in der Elektrifizierung und führt regelmäßig Großprojekte durch. Sie waren z.B.
+============================================================
+
+CHUNK 072
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+am Ausbau des chinesischen Netzes für Hochgeschwindigkeitszüge beteiligt. Der Umsatz mit Elektrifizierung wächst nur um 3 % pro Jahr. Aber ABB hat drei Teilmärkte identifiziert, die schneller wachsen. ## Der Markt für Elektrifizierung wächst nur
+============================================================
+
+CHUNK 073
+Länge: 108 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 201}
+Inhalt:
+## Der Markt für Elektrifizierung wächst nur langsam. In drei Teilmärkten kann ABB mehr Wachstum realisieren
+============================================================
+
+CHUNK 074
+Länge: 14 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 311}
+Inhalt:
+<!-- image -->
+============================================================
+
+CHUNK 075
+Länge: 239 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 327}
+Inhalt:
+Der Umsatz mit Elektrifizierung wächst mit 3 % nur langsam. ABB hat aber drei Teilbereiche identifiziert, die schneller wachsen. Datencenter, E-Mobilität und Gewerbeimmobilien. Treiber sind vor allem die Digitalisierung, die Umstellung auf
+============================================================
+
+CHUNK 076
+Länge: 224 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 517}
+Inhalt:
+vor allem die Digitalisierung, die Umstellung auf emissionsfreien Verkehr und die Urbanisierung. Elektrifizierung ist ein etablierter Markt, der nur noch langsam wächst. Es gibt aber Teilmärkte mit deutlich höherem Wachstum.
+============================================================
+
+CHUNK 077
+Länge: 171 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+E-Mobilität sticht hier besonders heraus, da sie noch komplett am Anfang steht. Automatisierung: Wenn es dreckig, schwer und laut wird, ruft man lieber ABB
+
+<!-- image -->
+============================================================
+
+CHUNK 078
+Länge: 193 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 157}
+Inhalt:
+<!-- image -->
+
+Im Bereich Automatisierung bietet ABB alles, was nötig ist, um Industrieprozesse einfacher, schneller und sicherer zu machen. Besonders stark ist ABB mit ihren Kontrollsystemen.
+============================================================
+
+CHUNK 079
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Sie erlauben es den Kunden, industrielle Prozesse auf der ganzen Welt von einem Ort zu kontrollieren. Das ist besonders in der Schwerindustrie, dem Bergbau oder der Öl- und Gasindustrie sehr hilfreich. ABB ist Marktführer in diesen Kontrollsystemen
+============================================================
+
+CHUNK 080
+Länge: 235 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 202}
+Inhalt:
+ABB ist Marktführer in diesen Kontrollsystemen (DCS) mit 19 % Marktanteil. Insgesamt wächst der Markt für Automatisierung mit 9,3 % p.a. Die Erfolgskriterien im Bereich Automatisierung sind Sicherheit, Produktivität, Nachhaltigkeit und
+============================================================
+
+CHUNK 081
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 392}
+Inhalt:
+Sicherheit, Produktivität, Nachhaltigkeit und Digitalisierung. ABB hilft seinen Kunden, diese Ziele zu erreichen. ## Der Umsatz durch industrielle Automatisierung wächst mit 9,3 %. ABB ist stark in den Bereichen Prozess- und Fabrikautomatisierung
+============================================================
+
+CHUNK 082
+Länge: 58 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 590}
+Inhalt:
+den Bereichen Prozess- und Fabrikautomatisierung vertreten
+============================================================
+
+CHUNK 083
+Länge: 14 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 650}
+Inhalt:
+<!-- image -->
+============================================================
+
+CHUNK 084
+Länge: 242 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 666}
+Inhalt:
+Der Umsatz mit Automatisierung wächst deutlich an. Bis 2027 soll der Markt über 300 Mrd. USD groß sein. Mehr als 34 % des Umsatzes kommen aus der Prozessautomatisierung. Die wird vor allem in den Branchen Energien, Industrielle Produktion und
+============================================================
+
+CHUNK 085
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 862}
+Inhalt:
+Branchen Energien, Industrielle Produktion und Transport angewendet. Automatisierung wird überall da eingesetzt, wo unter widrigen Bedingungen Prozesse ablaufen. ABB ermöglicht es seinen Kunden, von weit weg alle Prozesse zentral zu steuern und zu
+============================================================
+
+CHUNK 086
+Länge: 227 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1061}
+Inhalt:
+weit weg alle Prozesse zentral zu steuern und zu kontrollieren. Denkt man an Mammutprojekte wie Pipelines durch die russische Tundra, ist klar, warum die Nachfrage weiter steigt. ## Robotik: Besser, als von Menschenhand gemacht
+============================================================
+
+CHUNK 087
+Länge: 14 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1290}
+Inhalt:
+<!-- image -->
+============================================================
+
+CHUNK 088
+Länge: 241 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1306}
+Inhalt:
+Der Markt für Robotik ist noch relativ klein. Insgesamt 63 Mrd. USD Umsatz wurden mit den autonomen Maschinen im Jahr 2019 gemacht. Aber er wächst schnell. In der Automobilbranche sind Roboter bereits seit vielen Jahren aus den Fabriken kaum
+============================================================
+
+CHUNK 089
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1499}
+Inhalt:
+bereits seit vielen Jahren aus den Fabriken kaum wegzudenken. 2020 nutzten 84  %  der  Unternehmen  in  der  Automobilbranche  industrielle  Roboter. Viele  Branchen  sind noch weiter hinterher. ABB macht schon seit fast 40 Jahren Roboter. 1974
+============================================================
+
+CHUNK 090
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1694}
+Inhalt:
+ABB macht schon seit fast 40 Jahren Roboter. 1974 entwickelten sie den ersten industriellen Roboter, der durch einen Mikroprozessor gesteuert wurde. Heute sind sie der am breitesten aufgestellte Roboterhersteller der Welt. Bisher lagen die Vorteile
+============================================================
+
+CHUNK 091
+Länge: 243 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1907}
+Inhalt:
+der Welt. Bisher lagen die Vorteile der Robotik in der effizienten Ausführung standardisierter Aufgaben. Mit zunehmender Verbesserung der Roboter und Einführung von Cobotern (Mensch und Roboter arbeiten zusammen) ändert sich das aber. Auch die
+============================================================
+
+CHUNK 092
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2101}
+Inhalt:
+arbeiten zusammen) ändert sich das aber. Auch die Corona-Pandemie hat gezeigt, auf Menschenhand ist nicht immer Verlass. ## Der Markt für Robotik wächst mit 15,8 % klar am stärksten. Roboter bieten Flexibilität in Produktion und Standort, das bringt
+============================================================
+
+CHUNK 093
+Länge: 47 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2312}
+Inhalt:
+in Produktion und Standort, das bringt Wachstum
+============================================================
+
+CHUNK 094
+Länge: 98 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2361}
+Inhalt:
+<!-- image -->
+
+Der Umsatz mit Robotik nimmt global stark zu. Bis 2027 wächst er auf 203 Mrd. USD.
+============================================================
+
+CHUNK 095
+Länge: 4 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+USD.
+============================================================
+
+CHUNK 096
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Das Wachstum wird getrieben durch die zunehmende Flexibilisierung von Produktion und Standort. Fachkräftemangel in Produktionsländern wie China ist ebenfalls entscheidend. Der Markt für Robotik wächst stark, weil Roboter in vielen Branchen noch kaum
+============================================================
+
+CHUNK 097
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 201}
+Inhalt:
+stark, weil Roboter in vielen Branchen noch kaum genutzt werden. Das beginnt sich zu ändern. ABB ist einer der ältesten und führenden Hersteller von Robotern. Nicht mal Kuka ist so breit aufgestellt wie ABB. ## Vergleich mit Schneider Electric und
+============================================================
+
+CHUNK 098
+Länge: 56 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 400}
+Inhalt:
+wie ABB. ## Vergleich mit Schneider Electric und Siemens
+============================================================
+
+CHUNK 099
+Länge: 134 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 458}
+Inhalt:
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- *Siemens hat in den vergangenen Jahren einige Sparten wie Siemens Energy abgespalten
+============================================================
+
+CHUNK 100
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 594}
+Inhalt:
+| Unternehmen              | ABB                | Schneider Electric   | Siemens                |
+|--------------------------|--------------------|----------------------|------------------------|
+============================================================
+
+CHUNK 101
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 790}
+Inhalt:
+| Logo                     |                    |                      |                        |
+| WKN                      | 919730             | 860180               | 723610                 |
+============================================================
+
+CHUNK 102
+Länge: 60 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 986}
+Inhalt:
+| Marktkapitalisierung     | 71,44 Mrd. USD     | 71,86 Mrd.
+============================================================
+
+CHUNK 103
+Länge: 212 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+EUR       | 114,08 Mrd. EUR        |
+| Umsatz 2020              | 26,13 Mrd. USD     | 25,16 Mrd. EUR       | 57,14 Mrd. EUR         |
+| Umsatzwachstum 3J        | 1,2% p.a. | 0,6% p.a. | -11,7%p.a.*            |
+============================================================
+
+CHUNK 104
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 213}
+Inhalt:
+| EBIT 2020                | 1,88 Mrd. USD      | 3,09 Mrd. EUR        | 5,01 Mrd. EUR          |
+| EBIT-Marge 2020          | 5,5%               | 12,3%                | 8,8%                   |
+============================================================
+
+CHUNK 105
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 409}
+Inhalt:
+| KUV (2020)               | 2,0                | 2,6                  | 1,6                    |
+| KGV (2020)               | 10,2               | 31,0                 | 23,8                   |
+============================================================
+
+CHUNK 106
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 605}
+Inhalt:
+| Dividendenrendite (2021) | 2,6%               | 2,5%                 | 2,6%                   |
+| Produktfokus             | • Elektrifizierung | • Elektrifizierung   | • Automatisierung      |
+============================================================
+
+CHUNK 107
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 801}
+Inhalt:
+|                          | • Automatisierung  | • Automatisierung    | • Smarte Infrastruktur |
+|                          | • Robotik          | • IT-Infrastruktur   | • Mobilität            |
+============================================================
+
+CHUNK 108
+Länge: 202 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 998}
+Inhalt:
+## Detailanalyse - Industrielle Automatisierung
+
+<!-- image -->
+
+Siemens ist der größte Industriekonzern Europas. Sie  konkurrieren mit ABB vor allem in den Feldern Automatisierung und Elektrifizierung.
+============================================================
+
+CHUNK 109
+Länge: 250 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+In den letzten Jahren brachte Siemens außerdem immer wieder seine Sparten als eigene Unternehmen an die Börse. Speziell geht es hier um Siemens Healthineers, Siemens Energy und Siemens Gamesa. In der Elektrifizierung hatte ABB lange die Überhand. Bis
+============================================================
+
+CHUNK 110
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 217}
+Inhalt:
+hatte ABB lange die Überhand. Bis 2020 konnten sie mit der Kombination aus Stromnetzgeschäft und Elektrifizierung den Kunden die komplette Stromversorgung aus  einer  Hand  bieten. ABB  baut  dafür  sein  Automatisierungsgeschäft  deutlich  aus. Mit
+============================================================
+
+CHUNK 111
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 422}
+Inhalt:
+Automatisierungsgeschäft  deutlich  aus. Mit  Zukäufen von B&amp;R und GE Industrial Solutions baut ABB sein Geschäft hier aus. Und das auch durchaus mit Erfolg. Alles hängt von der Plattform ab, hier hat Siemens hat einen Vorteil. Siemens und ABB
+============================================================
+
+CHUNK 112
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 623}
+Inhalt:
+hat Siemens hat einen Vorteil. Siemens und ABB bieten beide eine Digitalplattform für die Vernetzung und Integration der einzelnen Maschinen. Bei Siemens heißt sie Totally Integrated Automation (TIA), bei ABB heißt sie Ability. Siemens bietet hier
+============================================================
+
+CHUNK 113
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 824}
+Inhalt:
+bei ABB heißt sie Ability. Siemens bietet hier aber ganz besonders Hardware, Software und Services aus einer Hand. Das ist vergleichbar mit einem Apple Mac oder Tesla Model S, die mit eigener Hardware und Software ausgestattet sind. In  der  Robotik
+============================================================
+
+CHUNK 114
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1025}
+Inhalt:
+und Software ausgestattet sind. In  der  Robotik  hat  ABB  die  Nase  vorn. Aber  der  Robotikmarkt  ist  bisher  eher  klein. Er wächst zwar schnell, aber Roboter sind in vielen Industrien weiterhin eher Accessoires. Siemens ist in diesem Markt
+============================================================
+
+CHUNK 115
+Länge: 207 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1226}
+Inhalt:
+eher Accessoires. Siemens ist in diesem Markt nicht vertreten, sondern bietet nur unterstützende Produkte für Standard-Roboter wie die von Fanuc, ABB und Kuka. ## Geschäftsmodell von ABB in der Detailanalyse
+============================================================
+
+CHUNK 116
+Länge: 130 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1435}
+Inhalt:
+## ABB ist in vier Geschäftsbereichen unterteilt. Sie helfen ihren Kunden mit Automatisierung und Elektrifizierung
+
+<!-- image -->
+============================================================
+
+CHUNK 117
+Länge: 223 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1551}
+Inhalt:
+<!-- image -->
+
+ABB  ist  in  die  vier  Geschäftsbereiche  Elektrifizierung,  Antriebstechnik,  Industrielle  Automatisierung und Robotik unterteilt. Alle vier Bereiche folgen einem gemeinsamen Ziel: die Zukunft gestalten.
+============================================================
+
+CHUNK 118
+Länge: 165 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+So definiert jeder Geschäftsbereich auch seine eigene Mission. ## Elektrifizierung: Writing the future of safe, smart and sustainable electrification
+
+<!-- image -->
+============================================================
+
+CHUNK 119
+Länge: 233 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 167}
+Inhalt:
+In Australien ist der Transportsektor für 19,8 % der landesweiten Emissionen verantwortlich. Die Regierung in West-Australien will etwas dagegen tun. Die erste komplett elektrische Busroute in Perth steht. Die Busse kommen von Volvo.
+============================================================
+
+CHUNK 120
+Länge: 150 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+ABB stellt die Ladesäulen. Die Busse werden über Nacht aufgeladen. Hier macht ABB alles komplett selbst. Die ganze Wertschöpfung kommt aus einer Hand.
+============================================================
+
+CHUNK 121
+Länge: 45 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Die ganze Wertschöpfung kommt aus einer Hand.
+============================================================
+
+CHUNK 122
+Länge: 250 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Darum streicht ABB hier auch hohe Margen ein. Elektrifizierung wird getrieben durch die Digitalisierung. Maschinen und Infrastruktur erhalten immer mehr digitale Komponenten. Der Datenaustausch steigt dadurch enorm. Die Nachfrage stammt vor allem aus
+============================================================
+
+CHUNK 123
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 201}
+Inhalt:
+dadurch enorm. Die Nachfrage stammt vor allem aus drei Bereichen. Smart Home, Stromkreisverteiler und Smart Mobility. Immer mehr Länder und Kommunen setzen heute auf Elektromobilität. Hier kommt ABB zum Zug. Im Herbst 2020 installierten sie die
+============================================================
+
+CHUNK 124
+Länge: 231 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 396}
+Inhalt:
+ABB zum Zug. Im Herbst 2020 installierten sie die Ladeinfrastruktur für die erste voll elektrische Buslinie in West-Australien. Das Marktpotenzial für ABB ist hier noch riesig. ## Antriebstechnik: Writing the future of smart motion
+============================================================
+
+CHUNK 125
+Länge: 185 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 629}
+Inhalt:
+Im Frühjahr 2020 installierte ABB den Antrieb für das bewegliche Dach des 'Globe Life Field'. Baseballfans können so die Spiele auch bei 40 Grad Außentemperatur genießen. <!-- image -->
+============================================================
+
+CHUNK 126
+Länge: 99 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 816}
+Inhalt:
+ABBs Antriebstechnik kommt überall da zum Einsatz, wo Maschinen in Bewegung gebracht werden müssen.
+============================================================
+
+CHUNK 127
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Antriebe sind meistens elektrisch. ABB arbeitet heute aber auch an Antrieben, die  durch  Wasserstoff  betrieben  werden. Der  Bereich  Antriebstechnik  verkauft  vor  allem Frequenzumrichter und Stromrichter, Motoren und Generatoren sowie Produkte
+============================================================
+
+CHUNK 128
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 210}
+Inhalt:
+Motoren und Generatoren sowie Produkte zur mechanischen Kraftübertragung. Ein prominentes Beispiel von ABB Antriebstechnik findet sich in Arlington, Texas. Hier steht das Baseballstadion der Texas Rangers. Das Stadion hat ein bewegliches Dach, um
+============================================================
+
+CHUNK 129
+Länge: 72 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 407}
+Inhalt:
+Rangers. Das Stadion hat ein bewegliches Dach, um für Kühlung zu sorgen.
+============================================================
+
+CHUNK 130
+Länge: 151 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+ABB sorgt hier für ein reibungs- und geräuschloses Gleiten des Daches. ## Industrielle Automatisierung: Writing the future of safe and smart operations
+============================================================
+
+CHUNK 131
+Länge: 145 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 153}
+Inhalt:
+Die Tan Thang Zementfabrik in Vietnam wurde im Herbst 2020 mit ABBs DCS ausgestattet. Das System maximiert den Output, aber minimiert die Kosten.
+============================================================
+
+CHUNK 132
+Länge: 14 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+<!-- image -->
+============================================================
+
+CHUNK 133
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 16}
+Inhalt:
+Industrielle Prozesse sind häufig komplex und finden in widrigen Umgebungen statt. Minen, Öl-Raffinerien  oder  Pipelines  müssen  trotzdem stetig  kontrolliert  werden,  um  Ausfälle  oder Katastrophen zu verhindern. Hier kommt ABB ins Spiel. Sie
+============================================================
+
+CHUNK 134
+Länge: 235 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 219}
+Inhalt:
+zu verhindern. Hier kommt ABB ins Spiel. Sie setzen Kontrollsysteme auf, die aus der Ferne remote gesteuert werden können. Dafür nutzen sie Mess- und Analysentechnik, um zum Beispiel den Druck in Rohren zu messen. Die Daten werden über
+============================================================
+
+CHUNK 135
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 406}
+Inhalt:
+Druck in Rohren zu messen. Die Daten werden über Prozessleitsysteme an die Kontrollzentrale geschickt. So stellt ABB sicher, dass Prozesse effizient ablaufen. Das Thema Energiemanagement ist für viele Branchen entscheidend. Wer Energie spart, spart
+============================================================
+
+CHUNK 136
+Länge: 240 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 607}
+Inhalt:
+Branchen entscheidend. Wer Energie spart, spart nämlich auch Kosten. ABBs Kontrollsysteme werden vor allem in der Energieproduktion, der Schwerindustrie, der Schifffahrt  und  der  Zementproduktion  angewendet. In  Vietnam  setzt  eine  der
+============================================================
+
+CHUNK 137
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 806}
+Inhalt:
+angewendet. In  Vietnam  setzt  eine  der  modernsten Zementfabriken der Welt komplett auf ABBs Distributed Control System (DCS). Ziel ist es, den effizienten Ablauf aller Prozesse zentral steuern zu können. Robotik: Writing the future of flexible
+============================================================
+
+CHUNK 138
+Länge: 80 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1006}
+Inhalt:
+können. Robotik: Writing the future of flexible manufacturing and smart machines
+============================================================
+
+CHUNK 139
+Länge: 93 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1088}
+Inhalt:
+<!-- image -->
+
+Absolicon produziert Solarzellen in Schweden. Lohnkosten sind hier sehr hoch.
+============================================================
+
+CHUNK 140
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+ABB baute ihnen die weltweit einzige vollautomatische Massenproduktion von Solarzellen. Die Anlage produziert alle sechs Minuten ein Solarkollektor-Panel. ABBs Roboter haben schon eine lange Geschichte hinter sich. 1974 war ABB die erste Firma, die
+============================================================
+
+CHUNK 141
+Länge: 157 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 202}
+Inhalt:
+hinter sich. 1974 war ABB die erste Firma, die einen industriellen Roboter entwickelte. Besonders in der Automobilindustrie fanden sie auch reichlich Kunden.
+============================================================
+
+CHUNK 142
+Länge: 240 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Trotzdem ist der Geschäftsbereich auch heute noch der kleinste. Die Zeichen stehen aber auf Wandel. Roboter werden immer besser, Arbeitskräfte weniger und Qualitätsanforderungen höher. ABB bietet in diesem Geschäftsbereich einzelne Roboter,
+============================================================
+
+CHUNK 143
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 196}
+Inhalt:
+in diesem Geschäftsbereich einzelne Roboter, Robotiksoftware und entwickelt komplette Fertigungslösungen. Seit 2017 bieten sie mit dem Tochterunternehmen BR auch Fertigungsautomatisierung für ihre Kunden. Hier werden einzelne Maschinen oder ganze
+============================================================
+
+CHUNK 144
+Länge: 174 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 393}
+Inhalt:
+Kunden. Hier werden einzelne Maschinen oder ganze Fabriken automatisiert. Roboter erhöhen die Produktivität. Sie arbeiten stetig und mit höchster Präzision. Das spart Kosten.
+============================================================
+
+CHUNK 145
+Länge: 17 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Das spart Kosten.
+============================================================
+
+CHUNK 146
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Dadurch werden Geschäftsmodelle rentabel, die vorher keine Chance gehabt hätten. Der Solarzellenhersteller Absolicon setzt ABB Roboter in der Produktion ein. Dadurch werden ihre Solarheizungen zu einer echten Alternative zu herkömmlichen Heizungen.
+============================================================
+
+CHUNK 147
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 202}
+Inhalt:
+echten Alternative zu herkömmlichen Heizungen. Sie haben die weltweit einzige vollautomatisierte Massenproduktion für Solarzellen. ## 'Construction is where automotive was about 50 years ago in terms of the density of robots and automation. It's
+============================================================
+
+CHUNK 148
+Länge: 109 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 402}
+Inhalt:
+of the density of robots and automation. It's coming from a lower base, but it is going to grow much faster.'
+============================================================
+
+CHUNK 149
+Länge: 129 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 513}
+Inhalt:
+Sami Atiya (CEO ABB Robotics)
+
+Anwendungsbereiche gibt es für Roboter viele. ABB sieht besonders die Baubranche als attraktiv an.
+============================================================
+
+CHUNK 150
+Länge: 241 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Hier werden noch kaum Roboter verwendet. Gleichzeitig haben die Unternehmen Probleme, gutes Personal zu finden. Das liegt auch daran, dass das Baugeschäft nicht ungefährlich ist. Arbeitsunfälle passieren hier vier mal häufiger als in anderen
+============================================================
+
+CHUNK 151
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 194}
+Inhalt:
+passieren hier vier mal häufiger als in anderen Industrien. ABB arbeitet mit etablierten Unternehmen in der Baubranche zusammen. Zum Beispiel unterstützen ABB Roboter die Mitarbeiter von Schindler Aufzüge beim Einbau in den Aufzugsschächten. ## ABB
+============================================================
+
+CHUNK 152
+Länge: 166 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 399}
+Inhalt:
+beim Einbau in den Aufzugsschächten. ## ABB baut seine Robotiklösungen für die Baubranche aus. Sie arbeiten mit etablierten Kunden und erwarten zweistelliges Wachstum
+============================================================
+
+CHUNK 153
+Länge: 14 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 567}
+Inhalt:
+<!-- image -->
+============================================================
+
+CHUNK 154
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 583}
+Inhalt:
+Robotik ist ein Wachstumsmarkt. Das liegt daran, dass in vielen Branchen Roboter bisher kaum verwendet werden. ABB hat sich die Baubranche als attraktiven Markt ausgesucht. Die Branche selbst wächst stark und Roboter schaffen echten Mehrwert. Durch
+============================================================
+
+CHUNK 155
+Länge: 225 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 782}
+Inhalt:
+stark und Roboter schaffen echten Mehrwert. Durch Roboter werden Unternehmen effizienter und Menschenleben werden geschützt. ABB arbeitet bereits mit etablierten Bauunternehmen. ## Viel Technologie, ganz dezentral organisiert
+============================================================
+
+CHUNK 156
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1009}
+Inhalt:
+ABB ist ein Technologiekonglomerat. Die vier Geschäftsbereiche Elektrifizierung, Industrielle Automatisierung, Antriebstechnik und Robotik sind weiter in 18 Divisionen unterteilt. Mit diesen deckt ABB die komplette Thematik Industrie 4.0 ab. ## ABB
+============================================================
+
+CHUNK 157
+Länge: 182 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1210}
+Inhalt:
+die komplette Thematik Industrie 4.0 ab. ## ABB ist in 18 Divisionen über vier Geschäftsbereiche organisiert. Die Divisionen sind komplett eigenständig und tragen volle Verantwortung
+============================================================
+
+CHUNK 158
+Länge: 87 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1394}
+Inhalt:
+## Unternehmensstruktur
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+============================================================
+
+CHUNK 159
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1483}
+Inhalt:
+ABB unterteilt sich in 18 einzelne Divisionen über vier Geschäftsbereiche. Jeder Geschäftsbereich hat einen eigenen CEO. Die Divisionen arbeiten trotzdem sehr autonom. Sie legen ihre eigene Strategie fest. Die CEOs der Geschäftsbereiche überwachen
+============================================================
+
+CHUNK 160
+Länge: 145 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1683}
+Inhalt:
+fest. Die CEOs der Geschäftsbereiche überwachen nur das Vorgehen und prüfen mögliche Zukäufe von Divisionen. The ABB Way - Komplexität in schlank
+============================================================
+
+CHUNK 161
+Länge: 189 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1830}
+Inhalt:
+## ABBs Geschäftsmodell beruht auf drei Säulen. Die Divisionen sind autonom und berichten nur an die höheren Ebenen
+
+## Dezentralisierung
+
+## Performance Management
+
+## Portfolio Management
+============================================================
+
+CHUNK 162
+Länge: 149 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2021}
+Inhalt:
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; Divisionen sind das oberste operative Level
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; Sie haben volle Autonomie
+============================================================
+
+CHUNK 163
+Länge: 204 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2171}
+Inhalt:
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; Die Geschäftsbereiche kümmern sich um das Management ihres Portfolios
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; Divisionen legen jährlich einen strategischen Plan vor
+============================================================
+
+CHUNK 164
+Länge: 221 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2376}
+Inhalt:
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; Über ein Scorecard System wird die Zielerreichug des Plans kontrolliert
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; ABB schafft so Transparenz und Verantwortung der einzelnen Divisionen
+============================================================
+
+CHUNK 165
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2598}
+Inhalt:
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; Das Portfolio wird stetig erweitert
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; Kernkompetenzen sind Robotics, Drives und Smart Power
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; Ca. 5 Akquisitionen pro Jahr geplant
+============================================================
+
+CHUNK 166
+Länge: 110 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2845}
+Inhalt:
+- GLYPH&lt;c=1,font=/BYDPOP+ArialMT&gt; Die Corporate Ebene evaluiert Entscheidungen und stellt Kapital bereit
+============================================================
+
+CHUNK 167
+Länge: 61 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2957}
+Inhalt:
+ABB ist ein Industriekonglomerat aus 18 einzelnen Divisionen.
+============================================================
+
+CHUNK 168
+Länge: 56 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Um das zu managen, arbeiten die Divisionen eigenständig.
+============================================================
+
+CHUNK 169
+Länge: 250 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Ein Scorecardsystem schafft Transparenz und Verantwortlichkeit. Auf Corporate Ebene werden strategische Entscheidungen über den Zu- und Verkauf einzelner Divisionen getroffen. Die Strategie ABB Way zielt auf eine schlankere Organisation ab. Dafür hat
+============================================================
+
+CHUNK 170
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 204}
+Inhalt:
+auf eine schlankere Organisation ab. Dafür hat ABB drei Säulen des Geschäftsmodells identifiziert. Die Kombination aus Dezentralisierung, Performance Management und Portfolio Management soll für Effizienz und Profitabilität sorgen. Ein Problem, das
+============================================================
+
+CHUNK 171
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 409}
+Inhalt:
+und Profitabilität sorgen. Ein Problem, das viele Konglomerate haben, ist die Organisation. ABBs einzelne Divisionen haben geschäftlich wenig miteinander zu tun und sind in unterschiedlichen Regionen aktiv. Um das Unternehmen auf Kurs zu halten, hat
+============================================================
+
+CHUNK 172
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 609}
+Inhalt:
+aktiv. Um das Unternehmen auf Kurs zu halten, hat ABB drei entscheidende Säulen identifiziert. Anhand derer wird jede einzelne Division gemessen und evaluiert. ABB Way setzt außerdem auf ein schlankes Corporate Modell. Ursprünglich waren für die
+============================================================
+
+CHUNK 173
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 810}
+Inhalt:
+Corporate Modell. Ursprünglich waren für die Verwaltung des Konglomerats knapp 18.000 Mitarbeiter zuständig. Durch das neue Modell mit den drei Säulen sollen es nur noch knapp 1.000 Mitarbeiter sein. Erreicht wird das durch ganz klare Definition von
+============================================================
+
+CHUNK 174
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1010}
+Inhalt:
+Erreicht wird das durch ganz klare Definition von Zuständigkeiten. Die Verwaltung des ABB Konzerns soll  in  Zukunft  drei  entscheidende  Aufgabenbereiche  haben:  operativ,  strategisch und finanziell. Durch die Fokussierung auf das Wesentliche
+============================================================
+
+CHUNK 175
+Länge: 90 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1214}
+Inhalt:
+Durch die Fokussierung auf das Wesentliche sollen dadurch Verwaltungskosten von 1.100 Mio.
+============================================================
+
+CHUNK 176
+Länge: 192 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+USD pro Jahr auf 300 Mio. USD pro Jahr sinken. Die erfolgreiche Fokussierung auf Kernaufgaben ist aus meiner Sicht entscheidend für den zukünftigen Erfolg von ABB. ## Fazit zum Geschäftsmodell
+============================================================
+
+CHUNK 177
+Länge: 242 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 194}
+Inhalt:
+ABB ist ein Technologiekonglomerat, das sich auf Lösungen für das Thema Industrie 4.0 spezialisiert. ABB bietet seinen Industriekunden in vier Geschäftsbereichen Produkte der Elektrifizierung, Antriebstechnik, Automatisierung und Robotik. ABB
+============================================================
+
+CHUNK 178
+Länge: 96 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 387}
+Inhalt:
+Antriebstechnik, Automatisierung und Robotik. ABB befindet sich zurzeit in einer Transformation.
+============================================================
+
+CHUNK 179
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Sie arbeiten an der Umsetzung der ABB Way Strategie. Dabei  wollen  sie  sich  vor  allem  dezentralisieren  und  verschlanken. Die  einzelnen Divisionen haben volle Verantwortung über ihre Geschäfte und das Erreichen von Zielen. Die Verwaltung soll
+============================================================
+
+CHUNK 180
+Länge: 243 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 200}
+Inhalt:
+und das Erreichen von Zielen. Die Verwaltung soll vom einstigen Wasserkopf zu einer schlanken Struktur werden. In der neuen Strategie hat die Verwaltung ganz klar definierte Aufgaben, die nur zur Kontrolle und Evaluierung des Geschäfts dienen.
+============================================================
+
+CHUNK 181
+Länge: 92 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 396}
+Inhalt:
+Kontrolle und Evaluierung des Geschäfts dienen. Dadurch sollen enorme Kosten gespart werden.
+============================================================
+
+CHUNK 182
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Gleichzeitig will ABB wenig profitable Divisionen abspalten. Geplant ist zum Beispiel der Verkauf der Division Mechanische Kraftübertragung. ABB profitiert von der wachsenden Nachfrage  nach  Automatisierungslösungen und Robotern. Hier sind sie
+============================================================
+
+CHUNK 183
+Länge: 36 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 217}
+Inhalt:
+und Robotern. Hier sind sie führend.
+============================================================
+
+CHUNK 184
+Länge: 212 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Der wachsende Fachkräftemangel ist hier der entscheidende Treiber. Ich finde das sehr spannend. ABB bietet seinen Kunden enormen Mehrwert und profitiert von einem nicht aufzuhaltenden Trend. 7
+
+20
+
+<!-- image -->
+============================================================
+
+CHUNK 185
+Länge: 156 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 194}
+Inhalt:
+20
+
+<!-- image -->
+
+## 2. Kennzahlen der ABB-Aktie: Schwierige Vergangenheit aber rosige Zukunft
+
+## ABB erzielt 7 / 10 Punkten im AlleAktien Qualitätsscore
+============================================================
+
+CHUNK 186
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 352}
+Inhalt:
+ABB ist finanziell gut aufgestellt und arbeitet kontinuierlich profitabel. Punkte verliert ABB, weil der Umsatz und der operative Gewinn in den letzten Jahren geschrumpft sind. Für die nächsten Jahre wird aber starkes Wachstum und deutlich mehr
+============================================================
+
+CHUNK 187
+Länge: 60 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 552}
+Inhalt:
+wird aber starkes Wachstum und deutlich mehr Gewinn erwartet
+============================================================
+
+CHUNK 188
+Länge: 14 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 614}
+Inhalt:
+<!-- image -->
+============================================================
+
+CHUNK 189
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 630}
+Inhalt:
+| AlleAktien                                                                                 | Renditeerwartung Portfolio an Industrie 4.0-Produkten Wachstumsmarkt Robotik   | Erwartete Rendite 37,5% ☐ Umsatzwachstum (10J) >5% ☐ Umsatzwachstum (3Je)
+============================================================
+
+CHUNK 190
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 830}
+Inhalt:
+☐ Umsatzwachstum (10J) >5% ☐ Umsatzwachstum (3Je) >5% ☐ EBIT-Wachstum (10J) >5% ☐ EBIT-Wachstum (3Je) >5% ☐ Verschuldung <4xEBIT ☐ Gewinnkontinuität (10J) ☐ Drawdown EBIT (10J) <-50% ☐ Eigenkapitalrendite >15% ☐ ROCE >15% ☐ Renditeerwartung >10%
+============================================================
+
+CHUNK 191
+Länge: 224 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1035}
+Inhalt:
+>15% ☐ ROCE >15% ☐ Renditeerwartung >10% Bewertung AlleAktien Qualitätsscore ✓ ✓ ✓ ✓ ✓ ✓ ✓   |                                                                                                                           | 7 /10
+============================================================
+
+CHUNK 192
+Länge: 66 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1252}
+Inhalt:
+| 7 /10                                                          |
+============================================================
+
+CHUNK 193
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1319}
+Inhalt:
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------
+============================================================
+
+CHUNK 194
+Länge: 250 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1518}
+Inhalt:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+============================================================
+
+CHUNK 195
+Länge: 250 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1718}
+Inhalt:
+---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------
+============================================================
+
+CHUNK 196
+Länge: 89 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1918}
+Inhalt:
+-----------------------|----------------------------------------------------------------|
+============================================================
+
+CHUNK 197
+Länge: 32 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2008}
+Inhalt:
+| Burggraben 1. Das breiteste 2.
+============================================================
+
+CHUNK 198
+Länge: 184 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Wachstumsaussichten Bewertung im                            | 26.134 Mio. USD                                                                | 2017 2018 2019 2020 2021e 2022e 2023e 6,0
+============================================================
+
+CHUNK 199
+Länge: 144 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 465}
+Inhalt:
+| 1.881 Mio. USD Gewinn (EBIT) 2012 2013 2014 2015 2016 33,7 %p.a. -6,8 %p.a. | 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021e 2022e 2023e |
+============================================================
+
+CHUNK 200
+Länge: 186 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 610}
+Inhalt:
+| 919730 Ticker ABBN.SW Datum 04.06.2021 Kaufen, wenn die intakt sind und die Average Grower | Umsatz historischen Schnitt liegt. 40.000 50.000                               | 5.150 Mio.
+============================================================
+
+CHUNK 201
+Länge: 47 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+USD 2,44 USD 34,6 USD 14,2 10.000 20.000 30.000
+============================================================
+
+CHUNK 202
+Länge: 137 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 311}
+Inhalt:
+| 15.685 Mio. (tangible) 4.835 Mio. 7.440 Mio. Eigenkapitalrendite > 100% Dividendenrendite 2,6% 25,3% Operativer 2010 2011 | 1.000 2.000
+============================================================
+
+CHUNK 203
+Länge: 98 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 403}
+Inhalt:
+2,6% 25,3% Operativer 2010 2011 | 1.000 2.000 3.000 2010 2011 2.605 Mio. 1,4x 4,2x 10 J -60% -   |
+============================================================
+
+CHUNK 204
+Länge: 175 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 503}
+Inhalt:
+## Umsatz- und Gewinnentwicklung
+
+ABB Umsatzwachstum p.a., in %
+
+<!-- image -->
+
+Zwischen 2014 und 2017 ging der Umsatz von ABB deutlich nach unten. 2016 waren es sogar -30 %.
+============================================================
+
+CHUNK 205
+Länge: 151 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Danach gelang die Kehrtwende und Umsätze stiegen. Im Corona Jahr 2020 ging der Umsatz aber erneut um 7 % zurück. ABB hat hauptsächlich Industriekunden.
+============================================================
+
+CHUNK 206
+Länge: 234 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Die fuhren 2020 ihre Investitionen runter. Das macht sich dann sofort bei ABB bemerkbar. Für die nächsten Jahre wird erst eine Erholung von 10 % und dann solides Umsatzwachstum erwartet. ABB Operative Gewinnmarge, in %
+
+<!-- image -->
+============================================================
+
+CHUNK 207
+Länge: 95 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 220}
+Inhalt:
+<!-- image -->
+
+Die operative Marge geht seit 2011 deutlich nach unten. Von 12 % auf knapp 7 %.
+============================================================
+
+CHUNK 208
+Länge: 96 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Die neue ABB Strategie sieht eine schlankere Struktur vor. Dadurch sollen Kosten gespart werden.
+============================================================
+
+CHUNK 209
+Länge: 222 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Außerdem sollen wenig profitable Divisionen verkauft werden. Es wird darum erwartet, dass die operative Marge deutlich ansteigt. 2023 sollen es über 14 % werden. ## Dividende
+
+## ABB Dividende, in USD/Aktie
+
+<!-- image -->
+============================================================
+
+CHUNK 210
+Länge: 239 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 224}
+Inhalt:
+ABB erhöht kontinuierlich die Dividende. Zwischen 2010 und 2020 um 4,6 % pro Jahr. Das macht die Aktie zu einem attraktiven Dividendenwert. Das Dividendenwachstum soll sich fortsetzen. Als Dividendeninvestor ist hier wichtig, die operative
+============================================================
+
+CHUNK 211
+Länge: 93 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 432}
+Inhalt:
+ist hier wichtig, die operative Performance genau im Blick zu haben. ## ABB Dividendenrendite
+============================================================
+
+CHUNK 212
+Länge: 14 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 527}
+Inhalt:
+<!-- image -->
+============================================================
+
+CHUNK 213
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 543}
+Inhalt:
+ABBs Dividendenrendite liegt 2021 bei 2,6 %. Im historischen Durchschnitt liegt sie etwas höher, bei 3,3 %. In den nächsten Jahren wird nur ein leichter Anstieg der Dividendenrendite erwartet. ABB ist damit kein Hochdividendenwert, aber sicherlich
+============================================================
+
+CHUNK 214
+Länge: 111 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 744}
+Inhalt:
+damit kein Hochdividendenwert, aber sicherlich solide. ABB Zahl der ausstehenden Aktien, in Mio. <!-- image -->
+============================================================
+
+CHUNK 215
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 857}
+Inhalt:
+Die Zahl der ausstehenden Aktien ist historisch sehr konstant. ABB ist außerdem finanziell gut aufgestellt, mit einer geringen Verschuldung. Investoren müssen also keine Sorge haben, dass ihr Investment durch Ausgabe weiterer Aktien verwässert wird.
+============================================================
+
+CHUNK 216
+Länge: 75 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1060}
+Inhalt:
+durch Ausgabe weiterer Aktien verwässert wird. ABB Ausschüttungsquote, in %
+============================================================
+
+CHUNK 217
+Länge: 14 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1137}
+Inhalt:
+<!-- image -->
+============================================================
+
+CHUNK 218
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1153}
+Inhalt:
+ABB zahlt kontinuierlich Dividende. Die Ausschüttungsquote stieg dabei deutlich an. 2019 schüttete ABB 120 % der Gewinne aus. Das ist definitiv ein negatives Zeichen. 2020 reduzierten sie die Ausschüttungsquote aber auf ca. 30 %. In den nächsten
+============================================================
+
+CHUNK 219
+Länge: 122 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1364}
+Inhalt:
+aber auf ca. 30 %. In den nächsten Jahren soll sie weiter bei unter 40 % bleiben. Investoren sollten das im Auge behalten.
+============================================================
+
+CHUNK 220
+Länge: 126 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Ein Unternehmen, das zu viel ausschüttet, kann nicht mehr investieren. ## Bilanzanalyse: Wenig Verschuldung aber viel Goodwill
+============================================================
+
+CHUNK 221
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 128}
+Inhalt:
+ABB weist insgesamt eine sehr saubere Bilanz aus. Die Nettoverschuldung liegt beim 1,4-Fachen des operativen Gewinns. Damit liegt ABB deutlich unter unserer Schmerzgrenze von 4. Etwas  bedenklich  finde  ich  den  hohen  Goodwill  von  knapp  10
+============================================================
+
+CHUNK 222
+Länge: 54 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 325}
+Inhalt:
+finde  ich  den  hohen  Goodwill  von  knapp  10  Mrd.
+============================================================
+
+CHUNK 223
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+USD. Der  Goodwill  ist kein echter Vermögenswert und schmälert darum das Eigenkapital tangible. Falls es zu Abschreibungen des Goodwill kommen sollte, würde es zu einer Verschiebung von Eigenkapital und Fremdkapital kommen. Ich sehe das Risiko hier
+============================================================
+
+CHUNK 224
+Länge: 138 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 200}
+Inhalt:
+und Fremdkapital kommen. Ich sehe das Risiko hier nicht als besonders hoch an, da der Goodwill über die Zeit stabil bei 10 Mrd. USD liegt.
+============================================================
+
+CHUNK 225
+Länge: 51 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Trotzdem ist es ein Punkt, den man bedenken sollte.
+============================================================
+
+CHUNK 226
+Länge: 242 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+<!-- image -->
+
+## 3. Bewertung der ABB-Aktie
+
+Bewertung im historischen Vergleich: KUV (Kurs-Umsatz-Verhältnis)
+
+## ABB Kurs/Umsatz
+
+<!-- image -->
+
+Das KUV von ABB liegt 2021 bei 2,5. Damit ist es deutlich über dem historischen KUV von 1,5.
+============================================================
+
+CHUNK 227
+Länge: 217 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+In den nächsten Jahren soll das KUV dann leicht abflachen. Es wird nur moderates Umsatzwachstum erwartet. Daher kann man sagen, dass ABB momentan historisch hoch bewertet ist. (zu lesen: je niedriger, desto günstiger)
+============================================================
+
+CHUNK 228
+Länge: 183 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 219}
+Inhalt:
+## Bewertung im historischen Vergleich: Kurs/EBIT
+
+## ABB Kurs/EBIT
+
+<!-- image -->
+
+2021 ist ABB mit dem 20-fachen EBIT bewertet. Das liegt über dem historischen Durchschnitt von 16.
+============================================================
+
+CHUNK 229
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Zuletzt ging das Kurs-EBIT Verhältnis aber deutlich zurück. In den nächsten Jahren wird ein Abflachen des KursEBIT Verhältnisses auf 16 erwartet. ABB soll im EBIT stark wachsen, daher ist die Bewertung aus meiner Sicht derzeit fair. (zu lesen: je
+============================================================
+
+CHUNK 230
+Länge: 72 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 202}
+Inhalt:
+aus meiner Sicht derzeit fair. (zu lesen: je niedriger, desto günstiger)
+============================================================
+
+CHUNK 231
+Länge: 84 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 276}
+Inhalt:
+## Bewertung im historischen Vergleich: KGV (Kurs-Gewinn-Verhältnis)
+
+<!-- image -->
+============================================================
+
+CHUNK 232
+Länge: 240 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 362}
+Inhalt:
+2021 zahlt man für ABB den 14-fachen Gewinn. Damit liegt das KGV unter dem historischen Durchschnitt von 19,8. In den nächsten Jahren soll das KGV zudem weiter absinken. Das deutet auf eine Unterbewertung hin. (zu lesen: je niedriger, desto
+============================================================
+
+CHUNK 233
+Länge: 46 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 567}
+Inhalt:
+hin. (zu lesen: je niedriger, desto günstiger)
+============================================================
+
+CHUNK 234
+Länge: 157 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 615}
+Inhalt:
+## ABB ist ein Average Grower nach Peter Lynch
+
+ABB ist ein Average Grower nach Peter Lynch. Für die nächsten Jahre wird ein Umsatzwachstum von 6 % erwartet.
+============================================================
+
+CHUNK 235
+Länge: 51 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Der operative Gewinn soll deutlich stärker steigen.
+============================================================
+
+CHUNK 236
+Länge: 250 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Um ganze 34 % pro Jahr. Das liegt daran, dass sich ABB stark verschlanken und auf die profitablen Divisionen konzentrieren möchte. Langfristig ist dieses Wachstum jedoch nicht haltbar, deshalb stufe ich ABB als Average Grower ein. Average Grower sind
+============================================================
+
+CHUNK 237
+Länge: 238 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 203}
+Inhalt:
+ABB als Average Grower ein. Average Grower sind besonders dann kaufenswert, wenn die Bewertung unter dem historischen Durchschnitt liegt. Aktuell liegt ABB durch seine Transformation beim KGV darunter. Die Aktie ist somit nach Peter Lynch
+============================================================
+
+CHUNK 238
+Länge: 59 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 395}
+Inhalt:
+darunter. Die Aktie ist somit nach Peter Lynch kaufenswert.
+============================================================
+
+CHUNK 239
+Länge: 49 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Die Aktie ist somit nach Peter Lynch kaufenswert.
+============================================================
+
+CHUNK 240
+Länge: 191 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Die Einteilung nach Peter Lynch ist auf den folgenden Seiten. ## AlleAktien DCF-Modell (AlleAktien Discounted Cashflow Modell) und AlleAktien FMV-Modell (AlleAktien Future Multiple Valuation)
+============================================================
+
+CHUNK 241
+Länge: 165 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 193}
+Inhalt:
+Das DCF-Modell ist auf den folgenden Seiten und auf AlleAktien.de als Download 1  verfügbar. | Position            | Relevanter Zeitraum   | Beschreibung der Annahme
+============================================================
+
+CHUNK 242
+Länge: 1 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 308}
+Inhalt:
+|
+============================================================
+
+CHUNK 243
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 702}
+Inhalt:
+|---------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+============================================================
+
+CHUNK 244
+Länge: 216 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 901}
+Inhalt:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+============================================================
+
+CHUNK 245
+Länge: 150 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1118}
+Inhalt:
+| Umsatz- wachstum    | 2021 bis 2023         | Für den Zeitraum nehme ich ein Umsatzwachstum an, das den aktuel- len Analystenschätzungen entspricht.
+============================================================
+
+CHUNK 246
+Länge: 53 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+ABBs Umsatz wird demnach um 10%, 5% und 4% wachsen. |
+============================================================
+
+CHUNK 247
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 54}
+Inhalt:
+| Umsatz- wachstum    | 2024 bis 2030         | Ich gehe davon aus, dass ABB seine Transformation weiter voran- treibt. Sie fokussieren sich auf profitable Wachstumsmärkte. Be- sonders die Nachfrage nach Robotern wird steigen, da der Fachkräfte-
+============================================================
+
+CHUNK 248
+Länge: 120 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 253}
+Inhalt:
+nach Robotern wird steigen, da der Fachkräfte- mangel stärker wird. Ich gehe daher von steigendem Wachstum bis 2030 aus.
+============================================================
+
+CHUNK 249
+Länge: 95 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+In diesem Jahr wird ABB um 10% wachsen. Danach geht das Umsatzwachstum wieder langsam zurück. |
+============================================================
+
+CHUNK 250
+Länge: 168 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 96}
+Inhalt:
+| Margenent- wicklung | 2021 bis 2023         | Auch hier nehme ich die Margen an, die von Analysten geschätzt wur- den. 2023 erreicht ABB so eine EBIT-Marge von 14%. |
+============================================================
+
+CHUNK 251
+Länge: 161 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 265}
+Inhalt:
+| Margenent- wicklung | 2023 bis 2040         | Ich gehe davon aus, dass ABB seine Marge bis 2028 nochmal um 1% erhöhen kann. Danach bleibt die Marge konstant. |
+============================================================
+
+CHUNK 252
+Länge: 236 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 428}
+Inhalt:
+Ergebnis des DCF-Modells: Bei der Erstellung des DCF-Modells habe ich mich vor allem auf die aktuelle Transformation von ABB bezogen und die Entwicklungen in den Wachstumsmärkten. ABB will sich verschlanken und auf profitable Divisionen
+============================================================
+
+CHUNK 253
+Länge: 62 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 617}
+Inhalt:
+sich verschlanken und auf profitable Divisionen konzentrieren.
+============================================================
+
+CHUNK 254
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Gleichzeitig haben sie im Geschäftsbereich Elektrifizierung Nischenmärkte identifiziert, die stärker wachsen als der Gesamtmarkt. Besonders die Umsätze mit Robotik und Automatisierung werden in den kommenden Jahren zunehmen. Ich gehe aber davon aus,
+============================================================
+
+CHUNK 255
+Länge: 184 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 208}
+Inhalt:
+Jahren zunehmen. Ich gehe aber davon aus, dass es noch ein paar Jahre dauert, bis dieses Wachstum wirklich zum Tragen kommt. Insgesamt halte ich meine Schätzungen für eher konservativ.
+============================================================
+
+CHUNK 256
+Länge: 243 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Es ergibt sich eine aktuelle Unterbewertung von 6 % bei einer Renditeerwartung von 10 %. Ergebnis des FMV-Modells: Im AlleAktien FMV-Modell habe ich die Renditeerwartung der ABB-Aktie berechnet, indem ich eine faire Bewertung für das Jahr 2031
+============================================================
+
+CHUNK 257
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 195}
+Inhalt:
+indem ich eine faire Bewertung für das Jahr 2031 angenommen habe. Ich nehme ein KGV von 15 an. Dies liegt unter dem aktuellen KGV von 20, da ich ab 2031 nicht mehr mit starkem Wachstum rechne. Ich gehe von einer Ausschüttungsquote von 40 % aus.
+============================================================
+
+CHUNK 258
+Länge: 238 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+In der Vergangenheit lag diese oft höher. Ich halte es aber für unwahrscheinlich, dass ABB nochmals so hohe Ausschüttungen vornimmt. Für ABB ergibt sich somit eine Renditeerwartung von 5 % pro Jahr. ## Renditeerwartung in Abhängigkeit vom
+============================================================
+
+CHUNK 259
+Länge: 63 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 189}
+Inhalt:
+pro Jahr. ## Renditeerwartung in Abhängigkeit vom Einstiegskurs
+============================================================
+
+CHUNK 260
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 254}
+Inhalt:
+| Einstiegskurs   | Renditeerwartung pro Jahr   | Einstiegskurs   | Renditeerwartung pro Jahr   |
+|-----------------|-----------------------------|-----------------|-----------------------------|
+============================================================
+
+CHUNK 261
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 450}
+Inhalt:
+| 20 USD          | 13,2%                       | 40 USD          | 5,6%                        |
+| 25 USD          | 10,7%                       | 45 USD          | 4,3%                        |
+============================================================
+
+CHUNK 262
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 646}
+Inhalt:
+| 30 USD          | 8,7%                        | 50 USD          | 3,3%                        |
+| 35 USD          | 7,0%                        | 55 USD          | 2,3%                        |
+============================================================
+
+CHUNK 263
+Länge: 150 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 843}
+Inhalt:
+## Für welchen Anlegertyp eignet sich ABB? ABB eignet sich vor allem für Anlegertypen, die von dem Fortschreiten der Industrie 4.0 profitieren wollen.
+============================================================
+
+CHUNK 264
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+ABB ist hier sehr breit aufgestellt und ein sehr stabiler Wert. Wer sich an ABB beteiligt, setzt nicht auf einzelne Branchen, da ABBs Kunden breit verteilt über alle möglichen industriellen Sektoren verteilt sind. Das sehe ich als Vorteil, da man
+============================================================
+
+CHUNK 265
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 199}
+Inhalt:
+verteilt sind. Das sehe ich als Vorteil, da man nicht abschätzen muss, welche Branche sich wie entwickeln wird. Überdurchschnittliches Wachstum ist aus meiner Sicht mit ABB nicht zu erwarten. Zwar wächst besonders die Nachfrage nach Robotik stark,
+============================================================
+
+CHUNK 266
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 403}
+Inhalt:
+besonders die Nachfrage nach Robotik stark, doch dies ist nur ein kleiner Teil von ABBs Produktportfolio. Ich sehe ABB daher vor allem als Basisinvestment in alles, was mit Industrie zu tun hat. ABB zahlt zudem eine stabile Dividende von ca. 2,6 %.
+============================================================
+
+CHUNK 267
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 602}
+Inhalt:
+zahlt zudem eine stabile Dividende von ca. 2,6 %. ABB hat eine sehr saubere Bilanz mit geringer Verschuldung. Das spricht ebenfalls für ABB als ein Basisinvestment mit geringem Risiko. ## Average Grower nach Peter Lynch
+============================================================
+
+CHUNK 268
+Länge: 243 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 823}
+Inhalt:
+## Asset-Play Werttreiber sind ungenutzte Vermögenswerte (sehr selten) à Grundstücke, Beteiligungen,
+
+Zykliker
+
+Gewinne abhängig von externen Faktoren, z.B. Konjunktur, Rohstoffpreise à Regelmäßig Gewinnschwankungen von &gt;50%
+
+Nicht-Zykliker
+============================================================
+
+CHUNK 269
+Länge: 239 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1052}
+Inhalt:
+Nicht-Zykliker
+
+## Umsätze und Gewinne steigen wie auf Schienen kontinuierlich an à EBIT (operativer Gewinn) fällt nie stärker als 50%
+
+Patente
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+============================================================
+
+CHUNK 270
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1293}
+Inhalt:
+| Verborgene Werte   | Merkmale                    | • Verborgene Werte im Börsenwert nicht enthalten • Werte sind ungenutzt, nicht   | erkannt oder werden noch nicht gehoben Strategie • •                                                            |
+============================================================
+
+CHUNK 271
+Länge: 148 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1541}
+Inhalt:
+| Kauf, wenn Aussicht besteht, dass Werte künftig gehoben werden Verkauf, wenn Werte erkannt und gehoben wurden Beispiele • Ferrari (Abspaltung)   |
+============================================================
+
+CHUNK 272
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1690}
+Inhalt:
+|--------------------|-----------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+============================================================
+
+CHUNK 273
+Länge: 197 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1889}
+Inhalt:
+-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+============================================================
+
+CHUNK 274
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2087}
+Inhalt:
+| Turnaround         | Merkmale                    | • Heftiges, zyklisches Tief • Marktwert extrem                                   | gering (historisch) Strategie • Gestreut investieren • Gewinner vervielfachen sich • Verlierer werden           |
+============================================================
+
+CHUNK 275
+Länge: 196 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2287}
+Inhalt:
+vervielfachen sich • Verlierer werden           | insolvent Beispiele • Infineon (2009) • RWE (2015) • JPMorgan (2009)                                                                             |
+============================================================
+
+CHUNK 276
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2484}
+Inhalt:
+| Typische Zykliker  | Merkmale                    | • Wellenförmiges Auf und Ab der Gewinne • Gewinnmarge schwankend                 | Strategie • Kauf, bei zyklischem Tief (oft hohes • Verkauf, wenn Gewinnmarge am historischen Hoch               |
+============================================================
+
+CHUNK 277
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2685}
+Inhalt:
+Gewinnmarge am historischen Hoch               | Beispiele • Daimler • American Express • Boeing                                                                                                  |
+============================================================
+
+CHUNK 278
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2881}
+Inhalt:
+| Fast Grower        | Merkmale                    | • Gewinnwachstum >10% • Hohe Investitionen in Wachstum • Keine/kaum Dividende    | Strategie • Kauf, solange Wachstum intakt • Zinseszins mitnehmen (Tenbaggerchance) • Risiko: Sinkendes Wachstum |
+============================================================
+
+CHUNK 279
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3082}
+Inhalt:
+(Tenbaggerchance) • Risiko: Sinkendes Wachstum | Beispiele • Netflix • Amazon • Salesforce                                                                                                        |
+============================================================
+
+CHUNK 280
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3278}
+Inhalt:
+| Average Grower     | Merkmale                    | • Gewinnwachstum <10% • Burggräben • Stetiges Wachstum • Mittlere Dividende      | Strategie • Kauf, wenn unter Durchschnitt • Verkauf, wenn Bewertung über Durchschnitt                           |
+============================================================
+
+CHUNK 281
+Länge: 192 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3482}
+Inhalt:
+über Durchschnitt                           | Beispiele • SAP • McDonald's • Apple                                                                                                             |
+============================================================
+
+CHUNK 282
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3675}
+Inhalt:
+| Slow Grower        | Merkmale Gewinnwachstum <3% | • • Hohe Dividende • Kaum Reinvestitionen in das Geschäft                        | Strategie • Kauf, wenn Dividende über historischem Schnitt • Verkauf nach Kursanstieg • Risiko: Fallende        |
+============================================================
+
+CHUNK 283
+Länge: 191 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3880}
+Inhalt:
+nach Kursanstieg • Risiko: Fallende        | Gewinne Beispiele • Nestlé • Innogy • AT&T                                                                                                       |
+============================================================
+
+CHUNK 284
+Länge: 40 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 4073}
+Inhalt:
+<!-- image -->
+
+Alle Angaben in Mio. USD
+============================================================
+
+CHUNK 285
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 4115}
+Inhalt:
+| 2031   | 54.237      | 9%               | 15%           | 8.136   | 6.533                                 |
+|--------|-------------|------------------|---------------|---------|---------------------------------------|
+============================================================
+
+CHUNK 286
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 4335}
+Inhalt:
+| 2030   | 49.759      | 10%              | 15%           | 7.464   | 5.993                                 |
+| 2029   | 45.235      | 9%               | 15%           | 6.785   | 5.449                                 |
+============================================================
+
+CHUNK 287
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 4555}
+Inhalt:
+| 2028   | 41.500      | 8%               | 15%           | 6.225   | 4.999                                 |
+| 2027   | 38.426      | 7%               | 14%           | 5.553   | 4.459                                 |
+============================================================
+
+CHUNK 288
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 4775}
+Inhalt:
+| 2026   | 35.912      | 6%               | 14%           | 5.189   | 4.167                                 |
+| 2025   | 33.879      | 5%               | 14%           | 4.896   | 3.931                                 |
+============================================================
+
+CHUNK 289
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 4995}
+Inhalt:
+| 2024   | 32.266      | 4%               | 14%           | 4.662   | 3.744                                 |
+| 2023   | 31.142      | 4%               | 14%           | 4.500   | 3.614                                 |
+============================================================
+
+CHUNK 290
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 5215}
+Inhalt:
+| 2022   | 30.057      | 5%               | 14%           | 4.070   | 3.268                                 |
+| 2021   | 28.685      | 10%              | 12%           | 3.513   | 2.821                                 |
+============================================================
+
+CHUNK 291
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 5435}
+Inhalt:
+| 2020   | 26.134      | -7%              | 7%            | 1.881   |                                       |
+| 2019   | 27.978      | 1%               | 9%            | 2.650   |                                       |
+============================================================
+
+CHUNK 292
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 5655}
+Inhalt:
+| 2018   | 27.662      | 10%              | 9%            | 2.370   |                                       |
+| 2017   | 25.196      | 1%               | 9%            | 2.143   |                                       |
+============================================================
+
+CHUNK 293
+Länge: 219 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 5875}
+Inhalt:
+| 2016   | 24.929      |                  | 9%            | 2.167   |                                       |
+|        | Umsatz      | Umsatz-Wachstum, | EBIT-Marge, % | EBIT    | 20% Gewinn (19,7% Unternehmenssteuer) |
+============================================================
+
+CHUNK 294
+Länge: 109 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 6095}
+Inhalt:
+|        | Fundamental |                  |               |         |                                       |
+============================================================
+
+CHUNK 295
+Länge: 79 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 6206}
+Inhalt:
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+;
+
+|
+
+32
+
+<!-- image -->
+
+## 4.
+============================================================
+
+CHUNK 296
+Länge: 95 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Risiken: Wie wahrscheinlich ist es, dass es dem Unternehmen in 10 Jahren besser geht als heute?
+============================================================
+
+CHUNK 297
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Ich sehe die Chance, dass es ABB in 10 Jahren besser geht als heute, bei über 90 %. ABB ist sehr gut  im  Markt  positioniert  und  wird  in  den  kommenden  Jahren  besonders von der höheren Nachfrage in der Automatisierung und Robotik profitieren.
+============================================================
+
+CHUNK 298
+Länge: 213 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 202}
+Inhalt:
+in der Automatisierung und Robotik profitieren. Insgesamt sehe ich bei ABB sehr wenige substanzielle Risiken. Das Potenzial für hohes Wachstum ist dafür aber ebenfalls begrenzt. ## Substanzielles Risiko 1: Siemens
+============================================================
+
+CHUNK 299
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 417}
+Inhalt:
+ABB ist ein etabliertes Unternehmen mit guter finanzieller Lage und technologischem Knowhow. Das  vermutlich  größte  Risiko  für  sie  ist  darum  die  Konkurrenz. Besonders  sticht  hier Siemens heraus. Die Konkurrenzsituation habe ich im Kapitel
+============================================================
+
+CHUNK 300
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 622}
+Inhalt:
+Die Konkurrenzsituation habe ich im Kapitel Geschäftsmodell schon näher erläutert. Siemens ist vor allem im Bereich Automatisierung ein Vorreiter. Sie bestechen hier durch ihre TIA Plattform. Mit dieser bieten sie Hardware, Software und Services an.
+============================================================
+
+CHUNK 301
+Länge: 241 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 825}
+Inhalt:
+bieten sie Hardware, Software und Services an. Siemens könnte ABB durch  den  ganzheitlicheren  Ansatz  deutliche  Marktanteile  im  Bereich  Automatisierung  abnehmen. Außerdem ist auch Siemens in den Bereichen Mobility und Elektrifizierung
+============================================================
+
+CHUNK 302
+Länge: 105 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1020}
+Inhalt:
+in den Bereichen Mobility und Elektrifizierung unterwegs. ## Fundamentale Auswirkung bei Eintritt: mittel
+============================================================
+
+CHUNK 303
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1127}
+Inhalt:
+Der  Verlust  von  Marktanteilen  von  Siemens  würde  ABB  sicher  hart  treffen. Gleichzeitig  geschieht so eine Entwicklung nicht von heute auf morgen. ABB verfügt selbst über eine gute Marktposition. ABB ist zudem breiter diversifiziert als
+============================================================
+
+CHUNK 304
+Länge: 243 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1331}
+Inhalt:
+ABB ist zudem breiter diversifiziert als Siemens. Sie machen 44 % ihrer Umsätze im Bereich Elektrifizierung. Hier ist Siemens auch aktiv. Ich sehe hier aber nicht so eine klare Führung bei Siemens. Insgesamt sehe ich die Auswirkungen daher als
+============================================================
+
+CHUNK 305
+Länge: 120 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1529}
+Inhalt:
+Insgesamt sehe ich die Auswirkungen daher als mittel an. ## Eintrittswahrscheinlichkeit innerhalb von 12 Monaten: mittel
+============================================================
+
+CHUNK 306
+Länge: 244 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1651}
+Inhalt:
+Im Jahr 2018 startete ABB eine Kooperation mit Dassault Systèmes, um im Bereich der Industriesoftware aufzuholen. ABB durchläuft zurzeit eine Transformation, um agiler zu werden und besser  auf  Kunden  eingehen  zu  können. Das  sehe  ich  als
+============================================================
+
+CHUNK 307
+Länge: 198 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1854}
+Inhalt:
+eingehen  zu  können. Das  sehe  ich  als  klares  Zeichen,  dass  sie  sich  der Konkurrenzsituation bewusst sind. Ich sehe die Eintrittswahrscheinlichkeit als mittel an. ## Fazit: Mittleres Risiko
+============================================================
+
+CHUNK 308
+Länge: 246 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2054}
+Inhalt:
+Siemens stellt definitiv ein Risiko für ABB dar. Sie sind ABB aus meiner Sicht technologisch überlegen. Wenn sie ihre TIA Plattform als absoluten Marktstandard etablieren können, hat dies schwere Folgen für ABBs Erfolg im Bereich Automatisierung.
+============================================================
+
+CHUNK 309
+Länge: 225 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2257}
+Inhalt:
+für ABBs Erfolg im Bereich Automatisierung. Insgesamt sehe ich das Risiko  trotzdem  als  mittel  an,  da  auch  ABB  sich  hier  weiterentwickelt,  um  der  Konkurrenz entgegenzuwirken. ## Substanzielles Risiko 2: Zyklizität
+============================================================
+
+CHUNK 310
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2484}
+Inhalt:
+ABB bedient vor allem Industriekunden. Diese kommen immer dann zu ABB, wenn sie ihre Ausstattung verbessern wollen. Sei es der Aufbau eines Kontrollsystems für automatisierte Prozesse, der Aufbau einer Ladeinfrastruktur für Elektroautos oder die
+============================================================
+
+CHUNK 311
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2680}
+Inhalt:
+einer Ladeinfrastruktur für Elektroautos oder die Umrüstung auf Fertigung mit Robotern. In jedem Fall handelt es sich um große Projekte mit hohen Investitionssummen. Geraten diese Unternehmen selbst in Probleme, dann stoppen sie ihre Investitionen.
+============================================================
+
+CHUNK 312
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 2879}
+Inhalt:
+in Probleme, dann stoppen sie ihre Investitionen. Zu sehen war das zuletzt zum Beispiel in der Ölindustrie. Durch den stark gesunkenen Ölpreis mussten Unternehmen dort Kosten sparen und Investitionen stoppen. Für ABB bedeutet dies weniger Umsatz. So
+============================================================
+
+CHUNK 313
+Länge: 134 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3079}
+Inhalt:
+stoppen. Für ABB bedeutet dies weniger Umsatz. So ergibt sich eine Zyklizität für ABB. ## Fundamentale Auswirkung bei Eintritt: gering
+============================================================
+
+CHUNK 314
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3215}
+Inhalt:
+Wenn bestimmte Industrien als Kunden wegbrechen, merkt ABB dies definitiv. Wenn es sich um ganze Industriezweige handelt, wird der Effekt noch stärker. 2020 stoppten viele große Industrieunternehmen ihre Investitionen. ABB bekam das durch geringeren
+============================================================
+
+CHUNK 315
+Länge: 127 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3419}
+Inhalt:
+Investitionen. ABB bekam das durch geringeren Umsatz zu spüren. ## Eintrittswahrscheinlichkeit innerhalb von 12 Monaten: gering
+============================================================
+
+CHUNK 316
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3548}
+Inhalt:
+Aus meiner Sicht hat ABB aber ein gut diversifiziertes Portfolio an Produkten und Kunden, sodass ein kompletter Umsatzeinbruch unwahrscheinlich ist. 2020 war so ein Fall. Eine solche Pandemie ist aber als 'schwarzer Schwan' zu betrachten. Ich gehe
+============================================================
+
+CHUNK 317
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3749}
+Inhalt:
+als 'schwarzer Schwan' zu betrachten. Ich gehe davon aus, dass das breite Portfolio von ABB immer Kunden findet. ## Fazit: Geringes Risiko. Die Zyklizität der einzelnen Branchen gleicht ABB aus, in dem sie quasi alle Industrien bedienen. In wirklich
+============================================================
+
+CHUNK 318
+Länge: 238 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 3951}
+Inhalt:
+sie quasi alle Industrien bedienen. In wirklich schlechten Jahren wie 2020 bekommen sie zwar die sinkenden Investitionen zu spüren, das ist aber ein Risiko, das für jedes Unternehmen gilt. ## Substanzielles Risiko 3: Technologiedisruption
+============================================================
+
+CHUNK 319
+Länge: 249 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 4191}
+Inhalt:
+ABB arbeitet an hoch innovativer Technologie. Das gilt vor allem für die Geschäftsbereiche Automatisierung und Robotik. Ich sehe hier ein potenzielles Risiko, dass ABB eine Innovation verpasst. ABB ist in diesem Feld zwar am besten aufgestellt, aber
+============================================================
+
+CHUNK 320
+Länge: 200 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 4393}
+Inhalt:
+in diesem Feld zwar am besten aufgestellt, aber auch Konkurrenten wie Siemens oder Schneider Electric können hier durch gezielte Akquisitionen aufholen. ## Fundamentale Auswirkung bei Eintritt: mittel
+============================================================
+
+CHUNK 321
+Länge: 237 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 4595}
+Inhalt:
+Die Auswirkungen hängen davon ab, wie substanziell eine neue Innovation die Nachfrage verändert. Wird ABB dadurch komplett abgehängt, wären die Auswirkungen hoch. Ich gehe allerdings nicht davon aus, dass eine solche Disruption entsteht.
+============================================================
+
+CHUNK 322
+Länge: 119 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Daher sehe ich die Auswirkungen nur als mittel an. ## Eintrittswahrscheinlichkeit innerhalb von 12 Monaten: sehr gering
+============================================================
+
+CHUNK 323
+Länge: 130 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 121}
+Inhalt:
+ABB ist gerade im Bereich Robotik sehr gut aufgestellt. Sie haben eine starke Marktposition und gute Verbindungen zu ihren Kunden.
+============================================================
+
+CHUNK 324
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+ABB hat außerdem eine Strategie, die auf gezielte Zukäufe setzt. Sie kaufen zum Teil ganze Divisionen hinzu. Bereits in den frühen Jahren war ABB sehr aktiv, was Zukäufe angeht. 1989 kauften sie ganze 40 Unternehmen. Daher gehe ich nicht davon aus,
+============================================================
+
+CHUNK 325
+Länge: 242 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 201}
+Inhalt:
+40 Unternehmen. Daher gehe ich nicht davon aus, dass ABB eine solche Entwicklung übersieht und sich abhängen lässt. Die Wahrscheinlichkeit schätze ich daher als sehr gering ein. ## Fazit: Geringes Risiko. ABB ist sehr gut positioniert und ein
+============================================================
+
+CHUNK 326
+Länge: 231 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 398}
+Inhalt:
+Risiko. ABB ist sehr gut positioniert und ein Technologieführer in vielen Bereichen. Die Wahrscheinlichkeit, dass sie technologisch abgehängt werden, ist aus meiner Sicht sehr gering. Daher ergibt sich hier nur ein geringes Risiko.
+============================================================
+
+CHUNK 327
+Länge: 47 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Daher ergibt sich hier nur ein geringes Risiko.
+============================================================
+
+CHUNK 328
+Länge: 120 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+<!-- image -->
+
+## 5. Fazit: ABB ist automatisiert und
+
+## digitalisiert
+
+## Ich halte die Aktie von ABB für haltenswert
+============================================================
+
+CHUNK 329
+Länge: 223 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 122}
+Inhalt:
+Geschichte. ABB  ist  ein  globales  Technologiekonglomerat. ABB  wird  1988  als  Zusammenschluss  der  beiden  Industrieunternehmen ASEA und BBC gegründet. Über regelmäßige Zukäufe wächst der heutige Weltkonzern. Branche.
+============================================================
+
+CHUNK 330
+Länge: 8 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Branche.
+============================================================
+
+CHUNK 331
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+ABB fokussiert sich auf den Bereich Industrie 4.0. Sie sind hier das einzige Unternehmen, dass den Bereich mit seinen Produkten komplett abdeckt. Heute ist ABB in den vier Geschäftsbereichen Elektrifizierung, Antriebstechnik, Automatisierung und
+============================================================
+
+CHUNK 332
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 209}
+Inhalt:
+Antriebstechnik, Automatisierung und Robotik aktiv. Die einzelnen Geschäftsbereiche unterteilen sich wiederum in mehrere Divisionen. Geschäftsmodell / Strategie. ABB befindet sich zurzeit in einer Transformationsphase. Der neue CEO Björn Rosengren
+============================================================
+
+CHUNK 333
+Länge: 233 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 428}
+Inhalt:
+Der neue CEO Björn Rosengren soll das Unternehmen verschlanken und agiler aufstellen. Dafür will ABB die Verwaltung enorm reduzieren. Jede Division soll operative und strategische Entscheidungen selbst treffen. Das Stichwort hier ist
+============================================================
+
+CHUNK 334
+Länge: 68 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 623}
+Inhalt:
+selbst treffen. Das Stichwort hier ist Dezentralisierung. Bewertung.
+============================================================
+
+CHUNK 335
+Länge: 10 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Bewertung.
+============================================================
+
+CHUNK 336
+Länge: 248 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+ABB erreicht im AlleAktien Qualitätsscore 7 / 10 Punkten. Das Unternehmen steht finanziell stabil da und das erwartete Wachstum der nächsten Jahre macht Hoffnungen. ABB ist allerdings historisch zurzeit relativ hoch bewertet. Mittelfristig sehe ich
+============================================================
+
+CHUNK 337
+Länge: 241 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 203}
+Inhalt:
+relativ hoch bewertet. Mittelfristig sehe ich das Wachstum eher als moderat an. Risiken. ABB ist aus meiner Sicht ein sehr sicheres Investment. Risiken ergeben sich durch die Zyklizität der Kundenindustrien und die Möglichkeit, technologisch
+============================================================
+
+CHUNK 338
+Länge: 153 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 410}
+Inhalt:
+und die Möglichkeit, technologisch abgehängt zu werden. Bei beiden sehe ich ABB aber als sehr gut aufgestellt, um die Risiken zu minimieren. Perspektive.
+============================================================
+
+CHUNK 339
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Ich halte ABB für haltenswert. Die Renditeerwartung liegt bei gut 7 %. Ich sehe ABB vor allem als sehr sicheres Basisinvestment. Man profitiert von der fortschreitenden Entwicklung der Industrie 4.0. Gleichzeitig zahlt ABB eine solide Dividende.
+============================================================
+
+CHUNK 340
+Länge: 143 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 200}
+Inhalt:
+Gleichzeitig zahlt ABB eine solide Dividende. Riesiges Wachstum erwarte ich bei ABB allerdings nicht. ABB möchte profitabler und agiler werden.
+============================================================
+
+CHUNK 341
+Länge: 207 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Damit zeigen sie, dass sie sich anpassen können, um dem Aktionär Mehrwert zu bieten. Aufrichtige Grüße,
+
+Benjamin Franzil
+
+15000
+
+1
+
+&lt;peaker
+
+38
+
+<!-- image -->
+
+## Benjamin Franzil Partner bei AlleAktien
+============================================================
+
+CHUNK 342
+Länge: 210 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 209}
+Inhalt:
+Benjamin fokussiert sich auf Unternehmen aus der Restaurant-, Luxus- und Halbleiterbranche. Er investiert bevorzugt in Unternehmen mit attraktiver Dividendenpolitik: nachhaltig fi  nanziert und stetig steigend.
+============================================================
+
+CHUNK 343
+Länge: 154 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Profi  tables Wachstum und eine konservative Ausschüttungsquote sind entscheidend in seiner Strategie. Benjamin hat an der Hochschule Trier B. Eng. und M.
+============================================================
+
+CHUNK 344
+Länge: 4 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+Eng.
+============================================================
+
+CHUNK 345
+Länge: 6 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40}
+Inhalt:
+und M.
+============================================================
+
+CHUNK 346
+Länge: 245 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 0}
+Inhalt:
+Eng. Wirtschaftsingenieurwesen  mit  Vertiefung  auf  Maschinenbau  studiert. An der Clemson Universität in den USA forschte er an der Digitalisierung  von  Industrieprozessen. Vor  AlleAktien  war  er bei dem Halbleiterhersteller Infi  neon. ##
+============================================================
+
+CHUNK 347
+Länge: 57 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 199}
+Inhalt:
+er bei dem Halbleiterhersteller Infi  neon. ## AlleAktien
+============================================================
+
+CHUNK 348
+Länge: 42 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 258}
+Inhalt:
+unabhängige Aktienanalysen in Bestqualität
+============================================================
+
+CHUNK 349
+Länge: 247 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 302}
+Inhalt:
+Wir  helfen  Privatanlegern  und  institutionellen  Investoren,  die  besten  Investmententscheidungen  für  ihr  Portfolio  zu  treff  en. AlleAktien  ist  der  unabhängige  und  wissenschaftlichorientierte Aktien-Researchanbieter in Deutschland.
+============================================================
+
+CHUNK 350
+Länge: 239 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 510}
+Inhalt:
+Aktien-Researchanbieter in Deutschland. Das starke Fundament darunter bildet das tief verankerte Wertesystem hinter AlleAktien: Ehrlichkeit, Integrität und Unabhängigkeit sind bei der Aktienanalyse und Beratung entscheidend. <!-- image -->
+============================================================
+
+CHUNK 351
+Länge: 237 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 751}
+Inhalt:
+<!-- image -->
+
+#1
+
+<!-- image -->
+
+## Ehreninvestoren
+
+sind langfristige Privatanleger tiefgründige Analysen und Studien
+
+unabhängiger Qualitätsführer für Aktienanalysen laut Privatanlegern
+
+<!-- image -->
+
+## Tiefgehende Aktienanalysen
+============================================================
+
+CHUNK 352
+Länge: 195 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 943}
+Inhalt:
+<!-- image -->
+
+## Tiefgehende Aktienanalysen
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Autodesk Aktienanalyse
+
+Die 2D- und 3D-Software für Ingenieure
+
+## Siemens Update
+============================================================
+
+CHUNK 353
+Länge: 232 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1121}
+Inhalt:
+## Siemens Update
+
+Holding-Struktur hebt versteckte Werte und führt zu einer attraktiven Renditeerwartung
+
+## Roper Technologies
+
+Diversifizierte Software-Holding erwirtschaftet Überrendite mit Nischenmärkten
+
+## Ansys Aktienanalyse
+============================================================
+
+CHUNK 354
+Länge: 94 Zeichen
+Metadata: {'document_name': 'ABB', 'source': 'ABB.pdf', 'extraction_method': 'docling', 'total_pages': 40, 'start_index': 1331}
+Inhalt:
+## Ansys Aktienanalyse
+
+Marktführer für pure Simulation mit sehr realen Gewinnen im Abo-Modell
+============================================================
+

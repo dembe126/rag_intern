@@ -1,0 +1,2569 @@
+CHUNK ANALYSIS: Jugendarbeit
+============================================================
+Anzahl Chunks: 347
+Erstellt am: 2025-07-02 11:42:31
+============================================================
+
+CHUNK 001
+Länge: 178 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+## Anforderungen an Wissen und Können der Fachkräfte der Jugendarbeit und ihre Ausbildung
+
+## Peter Nick
+
+Anforderungen an Wissen und Können und Ausbildung
+
+1
+
+## Zusammenfassung
+============================================================
+
+CHUNK 002
+Länge: 243 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 180}
+Inhalt:
+Kinder- und Jugendarbeit ist ein komplexes und anspruchsvolles Arbeitsfeld innerhalb der Sozialen Arbeit. Ihre Kennzeichen und Strukturmerkmale sind ein Hintergrund und Ermöglichungskontext für zentrale Prozesse der Subjektbildung von Kindern,
+============================================================
+
+CHUNK 003
+Länge: 246 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 374}
+Inhalt:
+zentrale Prozesse der Subjektbildung von Kindern, Jugendlichen und jungen Erwachsenen. Allerdings besteht auch der Verdacht, dass diese Prozesse oft hinter dem Rücken der Jugendarbeiter*innen stattfinden und diese häufig nichts davon mitbekommen.
+============================================================
+
+CHUNK 004
+Länge: 246 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 578}
+Inhalt:
+und diese häufig nichts davon mitbekommen. Was sollen pädagogische Fachkräfte wissen und können, wenn Jugendarbeit zum Beruf wird? Vorgestellt wird unter anderem das Qualifikationsprofil Jugendarbeit, das im Rahmen eines Forschungsprojekts an der
+============================================================
+
+CHUNK 005
+Länge: 240 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 779}
+Inhalt:
+das im Rahmen eines Forschungsprojekts an der Hochschule Kempten auf der Basis einer breit angelegten Erhebung des professionellen Selbstverständnisses von pädagogischen Fachkräften der verschiedenen Arbeitsfelder der Jugendarbeit in Bayern
+============================================================
+
+CHUNK 006
+Länge: 79 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 979}
+Inhalt:
+Arbeitsfelder der Jugendarbeit in Bayern entwickelt wurde. ## Schlüsselbegriffe
+============================================================
+
+CHUNK 007
+Länge: 193 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1060}
+Inhalt:
+Ausbildung, Fachkräftebedarf, Fachkräftegebot, Jugendarbeit als Beruf, Kompetenzorientierung, pädagogische Fachkräfte, Professionalisierung, Qualifikationsprofil Jugendarbeit, Wissen und Können
+============================================================
+
+CHUNK 008
+Länge: 226 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1255}
+Inhalt:
+GLYPH&lt;c=13,font=/AFNJMN+Wingdings-Regular&gt; Prof. Dr. Peter Nick; Hochschule Kempten, Fakultät Soziales und Gesundheit, Bahnhofstr. 61, 87435 Kempten (Allgäu), Deutschland
+
+E-Mail: peter.nick@hs-kempten.de
+
+<!-- image -->
+============================================================
+
+CHUNK 009
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1483}
+Inhalt:
+Was ist von den pädagogischen Fachkräften im Arbeitsfeld Kinder- und Jugendarbeit zu erwarten, was sollen Jugendarbeiter*innen wissen und können? Diese Fragen sind eng mit dem konzeptionellen Selbstverständnis der Kinder- und Jugendarbeit verbunden.
+============================================================
+
+CHUNK 010
+Länge: 236 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1693}
+Inhalt:
+der Kinder- und Jugendarbeit verbunden. Das Bundesjugendkuratorium formuliert in seiner Stellungnahme 'Kinder- und Jugendarbeit stärken' vom November 2017: 'Die Gewinnung sozialpädagogischer Fachkräfte, die den fachlich-konzeptionellen,
+============================================================
+
+CHUNK 011
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1884}
+Inhalt:
+Fachkräfte, die den fachlich-konzeptionellen, administrativen und rechtlichen Anforderungen des Handlungsfeldes Kinder- und Jugendarbeit entsprechen, gestaltet sich … zunehmend schwierig' (Bundesjugendkuratorium 2017, S. 9). Dies wird aktuell häufig
+============================================================
+
+CHUNK 012
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2096}
+Inhalt:
+2017, S. 9). Dies wird aktuell häufig mit Verweis auf den Fachkräftebedarf auf der einen Seite und dem Fachkräftemangel auf der anderen Seite bei oft nicht erfolgreichen Stellenausschreibungen bestätigt. Ob das 'Tätigkeitsfeld der Kinder- und
+============================================================
+
+CHUNK 013
+Länge: 245 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2289}
+Inhalt:
+bestätigt. Ob das 'Tätigkeitsfeld der Kinder- und Jugendarbeit bei der Berufswahl von Studierenden und Auszubildenden immer mehr aus dem Blick (rückt)' (a. a. O.), wie es in der Stellungnahme heißt, ist meines Erachtens eine andere Frage. Werner
+============================================================
+
+CHUNK 014
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2488}
+Inhalt:
+ist meines Erachtens eine andere Frage. Werner Thole und Ernst-Uwe Küster weisen darauf hin, dass die 'Frage, mit welchen Qualifikationen diejenigen ausgestattet sein sollten, die sich in der … Kinder- und Jugendarbeit … beruflich engagieren, … so
+============================================================
+
+CHUNK 015
+Länge: 239 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2690}
+Inhalt:
+und Jugendarbeit … beruflich engagieren, … so ,alt' (ist) wie dieses pädagogische Handlungsfeld' (Thole &amp; Küster 2002, S. 159). Sie zitieren in diesem Zusammenhang Herman Nohl, der mit Bezug auf allgemeine Standards für die akademische
+============================================================
+
+CHUNK 016
+Länge: 245 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2885}
+Inhalt:
+auf allgemeine Standards für die akademische Hochschulausbildung Anfang des 20. Jahrhunderts formulierte, dass der Universität im Hinblick auf die 'soziale Jugendarbeit … geraten (wurde), ein dreifaches zu leisten; sie soll die wissenschaftliche
+============================================================
+
+CHUNK 017
+Länge: 236 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3088}
+Inhalt:
+zu leisten; sie soll die wissenschaftliche Forschung auf diesem Gebiet organisieren und entwickeln und die Lehrkräfte dazu bereitstellen; sie soll weiter die beruflichen Fachleute für die leitenden Stellen auf dem Gebiet der Jugend- und
+============================================================
+
+CHUNK 018
+Länge: 221 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3276}
+Inhalt:
+leitenden Stellen auf dem Gebiet der Jugend- und Wohlfahrtspflege ausbilden … und sie soll endlich sozialpädagogische Erkenntnisse an alle Studierenden vermitteln' (Nohl 1965, S. 71-76, zit. n. Thole &amp; Küster 2002, S.
+============================================================
+
+CHUNK 019
+Länge: 30 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+n. Thole &amp; Küster 2002, S.
+============================================================
+
+CHUNK 020
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+160). Nach der Logik der Kompetenzorientierung und im Zuge der kompetenzorientierten Wende bedeutet der Perspektivenwechsel für Lernprozesse an Hochschulen und Universitäten, dass Lernergebnisse aus der Perspektive der Lernenden zu formulieren sind.
+============================================================
+
+CHUNK 021
+Länge: 153 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 203}
+Inhalt:
+Perspektive der Lernenden zu formulieren sind. Die Formulierung von Lernzielen soll für die Vergewisserung der Lehrenden erfolgen (vgl. Herrmann 2016, S.
+============================================================
+
+CHUNK 022
+Länge: 240 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+29). Nach dem Bolognaprozess soll in den Modulhandbüchern der jeweiligen Studiengänge die Kompetenzorientierung nachgewiesen werden. 'Kompetenz bezeichnet im DQR (Deutschen Qualifikationsrahmen) die Fähigkeit und Bereitschaft des Einzelnen,
+============================================================
+
+CHUNK 023
+Länge: 235 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 195}
+Inhalt:
+die Fähigkeit und Bereitschaft des Einzelnen, Kenntnisse und Fertigkeiten sowie persönliche, soziale und methodische Fähigkeiten zu nutzen und sich durchdacht sowie individuell und sozial verantwortlich zu verhalten' (a. a. O., S. 25).
+============================================================
+
+CHUNK 024
+Länge: 6 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+O., S.
+============================================================
+
+CHUNK 025
+Länge: 4 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+25).
+============================================================
+
+CHUNK 026
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Gegen die These der Bundesarbeitsgemeinschaft der Landesjugendämter vom Verschwinden der Jugendarbeit in den Studiengängen an den Hochschulen (vgl. BAGLJAE 2017) kann festgestellt werden, dass sich ein solches Verschwinden nicht ohne Weiteres
+============================================================
+
+CHUNK 027
+Länge: 225 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 193}
+Inhalt:
+sich ein solches Verschwinden nicht ohne Weiteres feststellen lässt. Der wesentliche Grund dafür ist, dass es an den Hochschulen und Universitäten keine eigenen Studiengänge speziell für Jugendarbeit gibt. 1 Die Qualifikation
+============================================================
+
+CHUNK 028
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 420}
+Inhalt:
+1 Ein Sonderfall ist der seit dem Wintersemester 2014 bestehende Studiengang 'Soziale Arbeit mit dem Schwerpunkt Jugendarbeit' an der Hochschule Kempten (www.hochschule-kempten.de). für das Arbeitsfeld Kinder- und Jugendarbeit im Rahmen eines
+============================================================
+
+CHUNK 029
+Länge: 241 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 622}
+Inhalt:
+Kinder- und Jugendarbeit im Rahmen eines Studiums ('Jugendarbeit studieren') erfolgt in der Regel mit entsprechenden Schwerpunktsetzungen in einem Bachelorstudiengang Soziale Arbeit an einer Hochschule oder einem erziehungswissenschaftlichen
+============================================================
+
+CHUNK 030
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 824}
+Inhalt:
+oder einem erziehungswissenschaftlichen Studiengang mit der Fachrichtung Sozialarbeit/Sozialpädagogik. In diesen grundständigen generalistischen Studiengängen wird auf die Breite der Arbeitsfelder der Sozialen Arbeit ausgebildet. Eine Vertiefung und
+============================================================
+
+CHUNK 031
+Länge: 231 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1025}
+Inhalt:
+Sozialen Arbeit ausgebildet. Eine Vertiefung und Spezialisierung erfolgt zum Teil erst in der jeweiligen arbeitsfeldspezifischen Berufseinführung und in den an die Bachelorstudiengänge anschließenden Masterstudiengängen. Module der
+============================================================
+
+CHUNK 032
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1210}
+Inhalt:
+anschließenden Masterstudiengängen. Module der Bachelorstudiengänge Soziale Arbeit sind unter anderem Geschichte, Theorien, Methoden und Organisation der Sozialen Arbeit, Recht, Empirische Sozialforschung, Bezugswissenschaften der Sozialen Arbeit,
+============================================================
+
+CHUNK 033
+Länge: 240 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1416}
+Inhalt:
+Bezugswissenschaften der Sozialen Arbeit, Kommunikation sowie soziale Disparitäten. Der auf das Studium bezogene Qualifikationsrahmen Soziale Arbeit (QR SozArb) des Fachbereichstags Soziale Arbeit 'folgt, ausgehend von einer grundsätzlichen
+============================================================
+
+CHUNK 034
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1613}
+Inhalt:
+'folgt, ausgehend von einer grundsätzlichen Entscheidung für ein grundständiges generalistisches Studium, der gedanklichen Linie von Erweiterung und Vertiefung von Wissen, Fähigkeiten, Fertigkeiten, Kompetenzen und Haltungen mit der Möglichkeit zur
+============================================================
+
+CHUNK 035
+Länge: 241 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1812}
+Inhalt:
+Kompetenzen und Haltungen mit der Möglichkeit zur Spezialisierung im Arbeits- und Forschungsgebiet der Sozialen Arbeit' (FBTS 2016, S. 17). Er 'beschreibt als allgemeine Kompetenzentwicklung die Fähigkeit zu reflexivem/innovativem Denken und
+============================================================
+
+CHUNK 036
+Länge: 136 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2007}
+Inhalt:
+Fähigkeit zu reflexivem/innovativem Denken und Handeln, einschließlich berufsfeld- und professionsfeldbezogener Forschung' (a. a. O., S.
+============================================================
+
+CHUNK 037
+Länge: 6 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+O., S.
+============================================================
+
+CHUNK 038
+Länge: 226 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+15). Nach der Einschätzung der Bundesarbeitsgemeinschaft der Landesjugendämter kann der aktuelle Fachkräftemangel in der Jugendarbeit als Bedrohung von Umfang und Qualität des Angebots gesehen werden (vgl. BAGLJAE 2017, S. 3).
+============================================================
+
+CHUNK 039
+Länge: 3 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+3).
+============================================================
+
+CHUNK 040
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Im 15. Kinder- und Jugendbericht wird darauf hingewiesen, dass '- im Unterschied zu vielen anderen pädagogischen Arbeitsfeldern - das Nebeneinander von freiwilligem Engagement und bezahlter Tätigkeit, von Ehrenamt und Haupt- bzw. Nebenberuflichkeit'
+============================================================
+
+CHUNK 041
+Länge: 246 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 201}
+Inhalt:
+von Ehrenamt und Haupt- bzw. Nebenberuflichkeit' (Deutscher Bundestag 2017, S. 372) eine Besonderheit der Kinder- und Jugendarbeit ist. 'Das Aufgabenspektrum des berufstätigen Personals ist vielfältig und reicht von der klassischen Referentinnen-
+============================================================
+
+CHUNK 042
+Länge: 228 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 402}
+Inhalt:
+und reicht von der klassischen Referentinnen- und Referententätigkeit in den Jugendorganisationen über die pädagogische Arbeit in Einzel- und Gruppensettings sowie themenspezifischen Angeboten in den Einrichtungen bis hin zu den
+============================================================
+
+CHUNK 043
+Länge: 234 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 585}
+Inhalt:
+Angeboten in den Einrichtungen bis hin zu den jugendarbeitsspezifischen Aufgaben der Kooperation mit unterschiedlichen Partnern (aus der Kinderund Jugendhilfe selbst, mit Schulen, Polizei oder Politik), allgemeinen Managementaufgaben,
+============================================================
+
+CHUNK 044
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 773}
+Inhalt:
+oder Politik), allgemeinen Managementaufgaben, Öffentlichkeitsarbeit oder auch technischen und verwaltenden Tätigkeiten' (ebd.). Allerdings handelt es sich bei diesem berufsbegleitenden Studiengang für pädagogische Fachkräfte der Jugendarbeit, der
+============================================================
+
+CHUNK 045
+Länge: 187 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 971}
+Inhalt:
+für pädagogische Fachkräfte der Jugendarbeit, der auf Initiative des Bayerischen Jugendrings entwickelt wurde, um einen grundständigen generalistischen Bachelorstudiengang Soziale Arbeit.
+============================================================
+
+CHUNK 046
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Fachkräften der Jugendarbeit ohne Hochschulabschluss, wie Erzieher*innen, sollen einerseits eine vertiefte Qualifizierung für ihre berufliche Tätigkeit und andererseits durch ihren Hochschulabschluss ein Wechsel in andere Arbeitsfelder der Sozialen
+============================================================
+
+CHUNK 047
+Länge: 239 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 200}
+Inhalt:
+ein Wechsel in andere Arbeitsfelder der Sozialen Arbeit, insbesondere in die Kinder- und Jugendhilfe, ermöglicht werden. Der Studiengang bildet also für die volle Breite der Sozialen Arbeit aus. Ausgegangen wird davon, dass die beruflichen
+============================================================
+
+CHUNK 048
+Länge: 191 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 390}
+Inhalt:
+aus. Ausgegangen wird davon, dass die beruflichen Erfahrungen, Themen und Inhalte der Jugendarbeit besonders geeignet sind, Kernkompetenzen für die Soziale Arbeit insgesamt zu vermitteln. 141
+============================================================
+
+CHUNK 049
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 583}
+Inhalt:
+Hingewiesen wird auch darauf, dass 'beruflich in der Kinder- und Jugendarbeit Tätige eine wichtige Unterstützungsstruktur für das ehrenamtliche Engagement darstellen bzw. gerade sie oftmals notwendig sind, damit ehrenamtlich Aktive jene Tätigkeiten
+============================================================
+
+CHUNK 050
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 783}
+Inhalt:
+sind, damit ehrenamtlich Aktive jene Tätigkeiten ausüben können, die für sie das Engagement ausmachen und für die sie es ursprünglich begonnen haben … Hauptberuflich in der Jugendarbeit Tätige sichern damit Strukturen, entlasten Ehrenamtliche
+============================================================
+
+CHUNK 051
+Länge: 199 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 976}
+Inhalt:
+sichern damit Strukturen, entlasten Ehrenamtliche gleichzeitig von ungeliebten Aufgaben, wie z. B. Verwaltungsaufgaben, und unterstützen sie bei der Bewältigung schwieriger Situationen' (a. a. O., S.
+============================================================
+
+CHUNK 052
+Länge: 6 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+O., S.
+============================================================
+
+CHUNK 053
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+403). Was sollten Jugendarbeiter*innen wissen und können, wenn Jugendarbeit zum Beruf wird? Werner Thole und Ernst-Uwe Küster benennen hierzu 'über Wissen abgefederte Handlungskompetenzen …, ohne die ein fachlich fundierter Berufsalltag nicht
+============================================================
+
+CHUNK 054
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 196}
+Inhalt:
+die ein fachlich fundierter Berufsalltag nicht gelingen kann' (Thole &amp; Küster 2002, S. 175). Sie zählen unter anderem auf: Kenntnisse über die Lebenslagen und -verhältnisse von Kindern und Jugendlichen, über die institutionellen Strukturen des
+============================================================
+
+CHUNK 055
+Länge: 234 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 403}
+Inhalt:
+über die institutionellen Strukturen des bundesrepublikanischen Sozial- und Jugendhilfesystems, das Kinder- und Jugendhilfegesetz, soziologische und psychologische Wissensbestände, die politisch-administrativen Strukturen, Wissen über
+============================================================
+
+CHUNK 056
+Länge: 165 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 588}
+Inhalt:
+politisch-administrativen Strukturen, Wissen über Reproduktionsmechanismen sozialer Ungleichheiten und insbesondere auch kommunikative Kompetenzen (vgl. a. a. O., S.
+============================================================
+
+CHUNK 057
+Länge: 2 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+a.
+============================================================
+
+CHUNK 058
+Länge: 6 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+O., S.
+============================================================
+
+CHUNK 059
+Länge: 250 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+175f.). Ein Kompetenz- und Aufgabenprofil bewegt sich nach Benno Hafeneger 'immer im Spannungsfeld bzw. in den Logiken institutioneller und formalisierter Strukturen, Rahmenbedingungen und Tendenzen, den Dynamiken des Feldes und seinen Prozessen, den
+============================================================
+
+CHUNK 060
+Länge: 240 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 204}
+Inhalt:
+Dynamiken des Feldes und seinen Prozessen, den Aneignungsstrategien der Nutzer/innen und dem Wissen und Handeln der Professionellen mit ihrem Habitus' (Hafeneger 2013, S. 423). Hauptberufliche Fachkräfte in der Jugendarbeit haben nach Benno
+============================================================
+
+CHUNK 061
+Länge: 245 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 397}
+Inhalt:
+Fachkräfte in der Jugendarbeit haben nach Benno Hafeneger 'eine assistierende und ermöglichende Rolle in den Selbstbildungsprozessen von Jugendlichen, sie tragen zu Befähigungen für autonomes Handeln bei bzw. arbeiten mit an Bedingungen, die ein
+============================================================
+
+CHUNK 062
+Länge: 88 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 597}
+Inhalt:
+bei bzw. arbeiten mit an Bedingungen, die ein solches Handeln ermöglichen' (a. a. O., S.
+============================================================
+
+CHUNK 063
+Länge: 2 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+a.
+============================================================
+
+CHUNK 064
+Länge: 6 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+O., S.
+============================================================
+
+CHUNK 065
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+426). Ohne 'eine offene Debatte über die Frage, was unverzichtbare Kernelemente eines professionellen Qualifikationsprofils sind und wie diese gewährleistet werden können' werden, so Benno Hafeneger, 'die Bemühungen um die Professionalisierung der
+============================================================
+
+CHUNK 066
+Länge: 112 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 200}
+Inhalt:
+'die Bemühungen um die Professionalisierung der Jugendarbeit an Grenzen stoßen und ggf. scheitern' (a. a. O., S.
+============================================================
+
+CHUNK 067
+Länge: 2 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+a.
+============================================================
+
+CHUNK 068
+Länge: 6 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+O., S.
+============================================================
+
+CHUNK 069
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+428). Unverzichtbare Kernelemente eines professionellen Qualifikationsprofils und zehn zentrale Professionsmerkmale sind für ihn unter anderem: (1) das Spannungsverhältnis von Nähe und Distanz, (2) 'charmante Autorität', (3) das Angebot eines
+============================================================
+
+CHUNK 070
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 194}
+Inhalt:
+(2) 'charmante Autorität', (3) das Angebot eines Erwachsenen als 'interessierter und zugleich interessanter' Zeitgenosse, (4) rationale Kommunikations- und Aushandlungsprozesse, (5) Dienstleistungs- und Marktorientierung mit Kindern und Jugendlichen
+============================================================
+
+CHUNK 071
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 397}
+Inhalt:
+Marktorientierung mit Kindern und Jugendlichen als Kund*innen, (6) eine Kompetenz, die 'darin besteht, die Grenzen dessen, was möglich ist, auszuloten', (7) als Lernbegleitung Lernprozesse zum Gelingen bringen, (8) Nutzung der Bedingungen von
+============================================================
+
+CHUNK 072
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 590}
+Inhalt:
+Gelingen bringen, (8) Nutzung der Bedingungen von komplexen Generationsbeziehungen und -verhältnissen, (9) Expert*innenschaft, Anwaltschaft sowie Parteilichkeit und schließlich (10) das Wissen um die 'pädagogische Realität', dass bei 'noch so viel
+============================================================
+
+CHUNK 073
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 790}
+Inhalt:
+'pädagogische Realität', dass bei 'noch so viel Professionalität in Planung und Rationalität, didaktischem Geschick und methodischer Flexibilität auf Seiten der Lehrenden … die Lernenden immer eigensinnige Subjekte (bleiben); sie lernen selbst und
+============================================================
+
+CHUNK 074
+Länge: 106 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 996}
+Inhalt:
+Subjekte (bleiben); sie lernen selbst und sie entscheiden, ob, was und wie sie lernen' (ebd., S. 428-431).
+============================================================
+
+CHUNK 075
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Silke Müller-Hermann und Roland Becker-Lenz schließen sich der strukturtheoretischen Professionalisierungstheorie Ulrich Oevermanns an, nach der 'im Hinblick auf die Erledigung der nicht standardisierbaren Handlungsanforderungen der Berufspraxis ein
+============================================================
+
+CHUNK 076
+Länge: 143 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 206}
+Inhalt:
+Handlungsanforderungen der Berufspraxis ein spezifischer professioneller Habitus notwendig ist' (Müller-Hermann &amp; Becker-Lenz 2012, S. 33).
+============================================================
+
+CHUNK 077
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Den Ausbildungen für Berufe 'kommt somit die Aufgabe zu, die Bildung dieses professionellen Habitus zu ermöglichen und zu befördern. … Ziel des mit einem Studium der Sozialen Arbeit verbundenen Bildungsprozesses muss es … sein, die Studierenden in
+============================================================
+
+CHUNK 078
+Länge: 225 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 212}
+Inhalt:
+muss es … sein, die Studierenden in die Lage zu versetzen, die Handlungsanforderungen der Berufspraxis eigenständig zu bearbeiten, Entscheidungen auch in unsicheren Situationen zu treffen und diese begründen zu können' (a. a.
+============================================================
+
+CHUNK 079
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+O., 34). Im Bezug auf das Qualifikationsniveau der Fachkräfte in der Kinder- und Jugendarbeit gehen Werner Thole und Ernst-Uwe Küster davon aus, dass es ihnen 'in der Regel gelingt, fachlich einschlägig in ihrem Alltag zu agieren und diesen situativ
+============================================================
+
+CHUNK 080
+Länge: 99 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 203}
+Inhalt:
+in ihrem Alltag zu agieren und diesen situativ zu strukturieren' (Thole &amp; Küster 2002, S. 170).
+============================================================
+
+CHUNK 081
+Länge: 243 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Dafür spreche auch, dass es dieses Handlungsfeld durchaus zu Ansehen gebracht habe. Allerdings stellen sie auch eine Passivität der Fachkräfte gegenüber sozialpädagogischer, sozial- und erziehungswissenschaftlicher Fachliteratur fest. Fachlich
+============================================================
+
+CHUNK 082
+Länge: 193 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 215}
+Inhalt:
+Fachliteratur fest. Fachlich einschlägige Publikationen würden nur dann rezipiert, wenn nach Lösungswegen für gravierende Alltagsprobleme gesucht würde (vgl. Thole &amp; Küster-Schapfl 1997, S.
+============================================================
+
+CHUNK 083
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+55). Um die Anforderung an Wissen und Können der Fachkräfte der Kinder- und Jugendarbeit beurteilen zu können, ist eine genaue Vorstellung davon erforderlich, was dieses Handlungsfeld ausmacht. Eine Klärung hierzu kann über eine systematische
+============================================================
+
+CHUNK 084
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 194}
+Inhalt:
+Eine Klärung hierzu kann über eine systematische Darlegung der grundlegenden Prinzipien (vgl. Ilg 2013, S. 16-21) der Kinder- und Jugendarbeit erfolgen, über die Beschreibung ihrer strukturellen Charakteristika und Potenziale (vgl. Schwerthelm &amp;
+============================================================
+
+CHUNK 085
+Länge: 61 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 405}
+Inhalt:
+und Potenziale (vgl. Schwerthelm &amp; Sturzenhecker 2015, S.
+============================================================
+
+CHUNK 086
+Länge: 99 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+5-9) oder über eine Darstellung ihrer Kennzeichen und Strukturmerkmale, wie ich es versuchen werde.
+============================================================
+
+CHUNK 087
+Länge: 243 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Nach Moritz Schwerthelm und Benedikt Sturzenhecker (2015, S. 5) bestimmen die im § 11 SGB VIII formulierten rechtlichen Bestimmungen wesentlich die strukturellen Charakteristika der Kinder- und Jugendhilfe. Daraus schlussfolgern sie, 'dass die
+============================================================
+
+CHUNK 088
+Länge: 228 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 194}
+Inhalt:
+Jugendhilfe. Daraus schlussfolgern sie, 'dass die Kinder- und Jugendarbeit strukturell über spezifische Potenziale zur Ermöglichung von Bildung verfügt, die andere pädagogische Institutionen so nicht aufweisen' (a. a. O., S. 9).
+============================================================
+
+CHUNK 089
+Länge: 6 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+O., S.
+============================================================
+
+CHUNK 090
+Länge: 3 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+9).
+============================================================
+
+CHUNK 091
+Länge: 232 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Auch Wolfgang Ilg (2013, S. 16) geht davon aus, dass Vorgaben in § 11 SGB VIII die Grundprinzipien festlegen, die für die gesamte Jugendarbeit gelten, wenn auch je nach Arbeitsfeld mit unterschiedlicher Gewichtung. Ausgehend von den
+============================================================
+
+CHUNK 092
+Länge: 245 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 185}
+Inhalt:
+unterschiedlicher Gewichtung. Ausgehend von den Selbstbeschreibungen und Konzeptionsdebatten der Kinder- und Jugendarbeit habe ich den Versuch unternommen, ihre zentralen Kennzeichen und Strukturmerkmale herauszuarbeiten und einem systematischen
+============================================================
+
+CHUNK 093
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 389}
+Inhalt:
+herauszuarbeiten und einem systematischen Schema mit 15 Feldern zuzuordnen (Abb. 1). Damit wird meines Erachtens deutlich, was Jugendarbeit zentral ausmacht und was sie, zumindest tendenziell, von anderen Lebensbereichen junger Menschen wie Schule,
+============================================================
+
+CHUNK 094
+Länge: 240 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 594}
+Inhalt:
+Lebensbereichen junger Menschen wie Schule, Familie oder Beruf unterscheidet. Die Strukturmerkmale habe ich den drei Oberbegriffen Freizeitbereich , Selbstorganisation/Offenheit und Gruppenorientierung zugeordnet. So sind Freiwilligkeit der
+============================================================
+
+CHUNK 095
+Länge: 235 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 796}
+Inhalt:
+zugeordnet. So sind Freiwilligkeit der Teilnahme, Leistungsdispens und Herrschaftsarmut sowie Marginalität Kennzeichen von Jugendarbeit, die sich aus der Zuordnung zum Freizeitbereich erklären lassen. Die Schwierigkeit, die Zuordnungen
+============================================================
+
+CHUNK 096
+Länge: 69 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 989}
+Inhalt:
+lassen. Die Schwierigkeit, die Zuordnungen durchzuhalten, liegt darin
+============================================================
+
+CHUNK 097
+Länge: 183 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1060}
+Inhalt:
+143
+
+begründet, dass sich die einzelnen Strukturmerkmale eher gegenseitig bedingen, als dass sie sich voneinander abgrenzen. Zentrale Strukturmerkmale und Kennzeichen von Jugendarbeit
+============================================================
+
+CHUNK 098
+Länge: 139 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1245}
+Inhalt:
+| Freizeitbereich                       | Selbstorganisation / Offenheit                       | Gruppenorientierung                      |
+============================================================
+
+CHUNK 099
+Länge: 139 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1385}
+Inhalt:
+|---------------------------------------|------------------------------------------------------|------------------------------------------|
+============================================================
+
+CHUNK 100
+Länge: 139 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1525}
+Inhalt:
+| Freiwilligkeit der Teilnahme          | Bedürfnisorientierung und selbstorganisiertes Lernen | Altershomogenität                        |
+============================================================
+
+CHUNK 101
+Länge: 139 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1665}
+Inhalt:
+| Ehrenamtlichkeit                      | Methodenvielfalt und Pluralität der Inhalte          | Heterogenität der Gruppenzusammensetzung |
+============================================================
+
+CHUNK 102
+Länge: 139 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1805}
+Inhalt:
+| Leistungsdispens und Herrschaftsarmut | Flexibilität                                         | Soziales und politisches Lernen          |
+============================================================
+
+CHUNK 103
+Länge: 139 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1945}
+Inhalt:
+| Marginalität                          | Aktionsorientierung                                  | Reflexion und Innovation                 |
+============================================================
+
+CHUNK 104
+Länge: 74 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2086}
+Inhalt:
+Abb. 1 Felder-Schema der Strukturmerkmale und Kennzeichen von Jugendarbeit
+============================================================
+
+CHUNK 105
+Länge: 244 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2162}
+Inhalt:
+Albert Scherr und Benedikt Sturzenhecker stellen die These auf, dass die Potenziale der Kinder- und Jugendarbeit oft nicht genutzt werden, weil die Fachkräfte der Jugendarbeit sie häufig nicht im Blick haben und Möglichkeiten nicht ausgeschöpft
+============================================================
+
+CHUNK 106
+Länge: 56 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2358}
+Inhalt:
+Blick haben und Möglichkeiten nicht ausgeschöpft würden.
+============================================================
+
+CHUNK 107
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Gleichwohl passiere trotzdem vieles im Sinne der gewünschten Zielbeschreibungen, unter anderem durch die grundlegenden Prinzipien der Jugendarbeit, aber faktisch hinter dem Rücken der Fachkräfte. 'Die Fachkräfte tragen auch dadurch zur Abschaffung
+============================================================
+
+CHUNK 108
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 201}
+Inhalt:
+Fachkräfte tragen auch dadurch zur Abschaffung von Jugendarbeit als einem eigenständigen Feld pädagogischer Praxis bei, dass sie deren strukturelle Eigenarten ins Gegenteil verwandeln, weil sie sich zu einem erheblichen Teil nicht dafür engagieren,
+============================================================
+
+CHUNK 109
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 400}
+Inhalt:
+zu einem erheblichen Teil nicht dafür engagieren, die organisationellen Merkmale Offener Kinder- und Jugendarbeit für eine emanzipative Assistenz von Subjektbildung der Kinder- und Jugendarbeit zu nutzen' (Scherr &amp; Sturzenhecker 2014, S. 370).
+============================================================
+
+CHUNK 110
+Länge: 83 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 605}
+Inhalt:
+(Scherr &amp; Sturzenhecker 2014, S. 370). ## Ein Qualifikationsprofil Jugendarbeit
+============================================================
+
+CHUNK 111
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 690}
+Inhalt:
+Im Rahmen eines Begleitforschungsprojekts zum Studiengang 'Soziale Arbeit mit dem Schwerpunkt Jugendarbeit (JuB\_Imp\_So)' an der Hochschule Kempten wurde in einem Theorie-Praxis-Austausch zum professionellen Selbstverständnis der Jugendarbeit ein
+============================================================
+
+CHUNK 112
+Länge: 132 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 899}
+Inhalt:
+Selbstverständnis der Jugendarbeit ein Qualifikationsprofil Jugendarbeit entwickelt, das im Folgenden vorgestellt werden soll. 2 Zur
+============================================================
+
+CHUNK 113
+Länge: 179 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1033}
+Inhalt:
+2 Das Forschungsprojekt wurde durch das Programm des Bundesministeriums für Bildung und Forschung 'Aufstieg durch Bildung: Offene Hochschulen' mit der Laufzeit der 1. Projektphase
+============================================================
+
+CHUNK 114
+Länge: 244 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1214}
+Inhalt:
+Erhebung des professionellen Selbstverständnisses der Fachkräfte der Jugendarbeit wurden, mit Unterstützung durch den Bayerischen Jugendring, mit diesen in den jeweiligen Handlungsfeldern (Abb. 2) systematische Gruppeninterviews durchgeführt. 3
+============================================================
+
+CHUNK 115
+Länge: 246 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1411}
+Inhalt:
+systematische Gruppeninterviews durchgeführt. 3 Dabei wurde an bestehende Selbstverortungen der Fachkräfte in Landesarbeitsgemeinschaften und ähnlichen Zusammenschlüssen angeknüpft. Unter anderem wurden auch veröffentlichte Qualitätsstandards der
+============================================================
+
+CHUNK 116
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1614}
+Inhalt:
+auch veröffentlichte Qualitätsstandards der jeweiligen Arbeitsfelder in die Erstellung des Qualifikationsprofils Jugendarbeit einbezogen. Die Ergebnisse wurden in dem Theorie-Praxis-Austausch zum professionellen Selbstverständnis auf verschiedenen
+============================================================
+
+CHUNK 117
+Länge: 127 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1826}
+Inhalt:
+Selbstverständnis auf verschiedenen Tagungen und Fachforen vorgestellt und diskutiert. Arbeitsfelder der Jugendarbeit in Bayern
+============================================================
+
+CHUNK 118
+Länge: 63 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1955}
+Inhalt:
+Abb. 2 Arbeitsfelder der Jugendarbeit in Bayern
+
+<!-- image -->
+============================================================
+
+CHUNK 119
+Länge: 230 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2020}
+Inhalt:
+Das erarbeitete und vorgelegte Qualifikationsprofil (Riechert, Jung &amp; Nick 2018) versteht sich als Diskussionsentwurf und hat daher in gewisser Weise einen vorläufigen Charakter. Bemerkenswert ist meines Erachtens, dass in dem
+============================================================
+
+CHUNK 120
+Länge: 171 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2203}
+Inhalt:
+Bemerkenswert ist meines Erachtens, dass in dem Qualifikationsprofil Jugendarbeit auf dem Weg einer breiten empirischen Erhebung das bestehende Selbstverständnis der Fach-
+============================================================
+
+CHUNK 121
+Länge: 245 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2376}
+Inhalt:
+in dem Zeitraum 1.8.2014 - 31.1.2018) gefördert. Die Weiterförderung des Begleitforschungsprojekts in der 2. Projektphase mit dem Projekt 'Jugendarbeit mit Perspektive (JumP)' erfolgt in dem Zeitraum 1.2.2018 - 31.7.2020. 3 Die Erhebungen wurden
+============================================================
+
+CHUNK 122
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2576}
+Inhalt:
+1.2.2018 - 31.7.2020. 3 Die Erhebungen wurden durch die wissenschaftliche Mitarbeiterin Theresa Riechert und den wissenschaftlichen Mitarbeiter Micha Jung in dem Begleitforschungsprojekt JuB\_Imp\_So an der Hochschule Kempten durchgeführt. Sie waren
+============================================================
+
+CHUNK 123
+Länge: 244 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2776}
+Inhalt:
+an der Hochschule Kempten durchgeführt. Sie waren auch zuständig für die Auswertung, Interpretation, zusammenfassende Darstellung und Rückkopplung der Ergebnisse im Prozess des Theorie-Praxis-Austauschs zum professionellen Selbstverständnis der
+============================================================
+
+CHUNK 124
+Länge: 59 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2979}
+Inhalt:
+zum professionellen Selbstverständnis der Jugendarbeit. 145
+============================================================
+
+CHUNK 125
+Länge: 240 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3040}
+Inhalt:
+kräfte in Bayern von Kinder- und Jugendarbeit herausgearbeitet wird. Beeindruckend ist neben der Wahrnehmung der Komplexität und Vielfalt von Kinder- und Jugendarbeit die Feststellung der Gemeinsamkeiten über die jeweilige Perspektive ihrer
+============================================================
+
+CHUNK 126
+Länge: 232 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3244}
+Inhalt:
+über die jeweilige Perspektive ihrer unterschiedlichen Arbeitsfelder hinweg. Es lässt sich also auch das Spezifische der Kinder- und Jugendarbeit als übergeordneter empirischer Befund feststellen. Damit kann auch die Frage, wie 'die
+============================================================
+
+CHUNK 127
+Länge: 246 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3428}
+Inhalt:
+feststellen. Damit kann auch die Frage, wie 'die organisationellen Merkmale Offener Kinder- und Jugendarbeit für eine emanzipative Assistenz von Subjektbildung der Kinder- und Jugendarbeit' (Scherr &amp; Sturzenhecker 2014, S. 370) genutzt werden
+============================================================
+
+CHUNK 128
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3626}
+Inhalt:
+&amp; Sturzenhecker 2014, S. 370) genutzt werden können, wieder aufgegriffen werden. Im Folgenden wird das vollständige Qualifikationsprofil Jugendarbeit vorgestellt. Dabei schlage ich vor, die genannte Frage mit dem emanzipatorischen Anspruch als
+============================================================
+
+CHUNK 129
+Länge: 245 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3829}
+Inhalt:
+Frage mit dem emanzipatorischen Anspruch als einen möglichen Prüfstein für die Beschäftigung mit dem Qualifikationsprofil zu nehmen. Das Qualifikationsprofil selbst gliedert sich in sieben Kompetenzdimensionen mit dazugehörigen Unterpunkten, die
+============================================================
+
+CHUNK 130
+Länge: 183 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4039}
+Inhalt:
+mit dazugehörigen Unterpunkten, die jeweils konkretisiert werden. Die ganz in der Logik der Kompetenzorientierung formulierten Kompetenzen werden nach sieben Dimensionen strukturiert:
+============================================================
+
+CHUNK 131
+Länge: 205 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4224}
+Inhalt:
+- · Pädagogisch-professionelles Handeln
+- · Politisches Handeln
+- · Verwaltungshandeln und Organisationsmanagement
+- · Personale Kompetenzen
+- · Professionelle Berufsidentität
+- · Pädagogische Grundhaltung
+============================================================
+
+CHUNK 132
+Länge: 79 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4400}
+Inhalt:
+- · Pädagogische Grundhaltung
+- · Wissenschaftliche und theoretische Fundierung
+============================================================
+
+CHUNK 133
+Länge: 218 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4481}
+Inhalt:
+Im Folgenden wird das ganze Qualifikationsprofil Jugendarbeit mit den sieben Dimensionen und den jeweils zugeordneten Subdimensionen dargestellt:
+
+## Pädagogisch-professionelles Handeln
+
+## 1. Partizipation ermöglichen
+============================================================
+
+CHUNK 134
+Länge: 173 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4668}
+Inhalt:
+## 1. Partizipation ermöglichen
+
+Fachkräfte der Jugendarbeit sind in der Lage, Partizipationsprozesse von Kindern, Jugendlichen und jungen Erwachsenen zu fördern, indem sie:
+============================================================
+
+CHUNK 135
+Länge: 172 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4843}
+Inhalt:
+- · Beteiligung als grundlegendes Prinzip und sich ständig wandelnde Gestaltungsaufgabe ihrer Arbeit verstehen
+- · Partizipationsanlässe in deren Alltag erkennen und nutzen
+============================================================
+
+CHUNK 136
+Länge: 236 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 5016}
+Inhalt:
+- · Strukturen und Rahmenbedingungen für Partizipation etablieren und eine positive Beteiligungskultur leben
+- · Partizipationsmethoden situationsangepasst anwenden können
+- · die derzeitige Partizipationspraxis fortwährend reflektieren
+============================================================
+
+CHUNK 137
+Länge: 5 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 5254}
+Inhalt:
+## 2.
+============================================================
+
+CHUNK 138
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Bildungsräume und -prozesse gestalten
+
+Fachkräfte der Jugendarbeit schaffen in Übereinstimmung mit den in § 11 SGB VIII formulierten Anforderungen vielfältige Anlässe für (Selbst-)Bildung von Kindern, Jugendlichen und jungen Erwachsenen, indem sie:
+============================================================
+
+CHUNK 139
+Länge: 127 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 250}
+Inhalt:
+- · das Spannungsfeld zwischen jugendlichen Freiräumen und pädagogischer Rahmung immer wieder neu und anlassbezogen austarieren
+============================================================
+
+CHUNK 140
+Länge: 166 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 378}
+Inhalt:
+- · lebensweltliche, sozialräumliche und alltagskulturelle Kontexte von jungen Menschen berücksichtigen und situativ Bildungsanlässe identifizieren und nutzbar machen
+============================================================
+
+CHUNK 141
+Länge: 208 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 545}
+Inhalt:
+- · niederschwellige Erprobungsräume für die individuelle Persönlichkeitsentwicklung und Gelegenheiten für personalen, sozialen und kulturellen Kompetenzerwerb gestalten (im Sinne einer Ermöglichungsdidaktik)
+============================================================
+
+CHUNK 142
+Länge: 178 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 754}
+Inhalt:
+- · pädagogische (Rahmen-)Konzepte für unterschiedliche Kontexte und Ebenen (bezüglich zeitlichem Umfang, Strukturiertheitsgrad usw.) (weiter-)entwickeln, aushandeln und umsetzen
+============================================================
+
+CHUNK 143
+Länge: 108 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 933}
+Inhalt:
+- · gruppenpädagogische, cliquen- und gemeinwesenorientierte Angebote sowie Projekte entwickeln und anbieten
+============================================================
+
+CHUNK 144
+Länge: 145 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1042}
+Inhalt:
+- · dabei auf ausgewählte pädagogische Ansätze zurückgreifen (beispielsweise der Sport-, Kultur-, Erlebnis-, Umweltpädagogik, politische Bildung)
+============================================================
+
+CHUNK 145
+Länge: 224 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1189}
+Inhalt:
+## 3. Verlässliche Vertrauensperson sein
+
+Fachkräfte der Jugendarbeit fungieren als vertrauensvolle Ansprechpartner*innen für Kinder, Jugendliche und junge Erwachsene sowie für (ehrenamtliche) Multiplikator*innen, indem sie:
+============================================================
+
+CHUNK 146
+Länge: 224 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1415}
+Inhalt:
+- · ihr Handeln auf ein reflektiertes Nähe-Distanz-Verhältnis gründen und dieses als wesentliches pädagogisches Spannungsfeld anerkennen
+- · verlässliche und kalkulierbare Beziehungsangebote unterbreiten und aufrechterhalten
+============================================================
+
+CHUNK 147
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1640}
+Inhalt:
+- · bei vielfältigen Anlässen individuelle pädagogische Beratung, Begleitung und Unterstützung leisten, insbesondere in alltäglichen, sowohl gewohnten als auch ungeplanten Kontexten
+- · bei Konflikten eine vermittelnd-klärende Rolle einnehmen
+============================================================
+
+CHUNK 148
+Länge: 5 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1884}
+Inhalt:
+## 4.
+============================================================
+
+CHUNK 149
+Länge: 116 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Fachkooperationen gestalten
+
+Fachkräfte der Jugendarbeit wirken an der Gestaltung von Schnittstellen mit, indem sie:
+============================================================
+
+CHUNK 150
+Länge: 123 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 118}
+Inhalt:
+- · ehrenamtlich getragene Strukturen unterstützen und Kooperationen zwischen Ehrenamtlichen und Hauptberuflichen gestalten
+============================================================
+
+CHUNK 151
+Länge: 178 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 242}
+Inhalt:
+- · die fachliche Zusammenarbeit mit (sozialen) Institutionen sowie Akteur*innen innerhalb und außerhalb der Jugendarbeit ausgestalten und an vernetzten Gesamtkonzepten mitwirken
+============================================================
+
+CHUNK 152
+Länge: 178 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 421}
+Inhalt:
+- · die Spezifik und die Grenzen des eigenen Auftrags kennen, sich an Hilfeprozessen beteiligen und an weitere Fachkräfte aus anderen Bereichen situationsbezogen weitervermitteln
+============================================================
+
+CHUNK 153
+Länge: 3 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 601}
+Inhalt:
+147
+============================================================
+
+CHUNK 154
+Länge: 186 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 606}
+Inhalt:
+- · das pädagogische Handeln in der Jugendarbeit gegenüber Öffentlichkeit, Eltern, sozialen Organisationen und Initiativen, Behörden und Kooperationspartner*innen fachlich repräsentieren
+============================================================
+
+CHUNK 155
+Länge: 85 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 793}
+Inhalt:
+- · ihr Fachwissen zur Verfügung stellen und in einen fachlichen Austausch einbringen
+============================================================
+
+CHUNK 156
+Länge: 29 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 880}
+Inhalt:
+## Politisches Handeln
+
+## 1.
+============================================================
+
+CHUNK 157
+Länge: 67 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Für Interessen und Beteiligung Jugendlicher einstehen (Lobbyarbeit)
+============================================================
+
+CHUNK 158
+Länge: 200 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 69}
+Inhalt:
+Fachkräfte der Jugendarbeit treten auf unterschiedlichen gesellschaftlichen Ebenen offensiv für Interessen, Bedürfnisse und Beteiligung von Kindern, Jugendlichen und jungen Erwachsenen ein, indem sie:
+============================================================
+
+CHUNK 159
+Länge: 114 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 271}
+Inhalt:
+- · verschiedene Möglichkeiten der politischen Mitbestimmung junger Menschen im Gemeinwesen schaffen und verankern
+============================================================
+
+CHUNK 160
+Länge: 183 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 386}
+Inhalt:
+- · deren spezifische Bedürfnisse und Interessen möglichst umfassend erfassen, um die Legitimation für ein anwaltschaftliches Mandat zu erhalten sowie dieses stets neu zu hinterfragen
+============================================================
+
+CHUNK 161
+Länge: 211 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 570}
+Inhalt:
+- · sich auf Basis jeweiliger jugendlicher Lebenslagen und Bedürfnisse sowie aktueller gesellschaftlicher Herausforderungen für deren Rechte, Interessen und Belange einsetzen und somit Übersetzungsarbeit leisten
+============================================================
+
+CHUNK 162
+Länge: 150 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 782}
+Inhalt:
+- · ihr Fachwissen aktiv in den politischen Diskurs einbringen und politische Gestaltungsprozesse parteilich für junge Menschen anstoßen und begleiten
+============================================================
+
+CHUNK 163
+Länge: 179 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 933}
+Inhalt:
+- · Interessen wirkungsvoll in die Öffentlichkeit tragen, unter anderem mit Hilfe von Medien und Aktionen und somit einen Beitrag zur Schaffung positiver Lebensbedingungen leisten
+============================================================
+
+CHUNK 164
+Länge: 58 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1114}
+Inhalt:
+## 2. Befähigung Jugendlicher zu politischer Mitbestimmung
+============================================================
+
+CHUNK 165
+Länge: 209 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1174}
+Inhalt:
+Fachkräfte der Jugendarbeit befähigen Kinder, Jugendliche und junge Erwachsene entsprechend ihrem gesetzlichen Auftrag (§ 11 SGB VIII) zu politischer Mitbestimmung und gesellschaftlichem Engagement, indem sie:
+============================================================
+
+CHUNK 166
+Länge: 162 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1385}
+Inhalt:
+- · den jungen Menschen Zugänge zu Informationen (zum Beispiel über ihre Rechte) verschaffen sowie politische Entscheidungsprozesse kritisch mit ihnen diskutieren
+============================================================
+
+CHUNK 167
+Länge: 194 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1548}
+Inhalt:
+- · diese dabei unterstützen, reflektierte eigene Meinungen als Grundlage für Entscheidungen zu entwickeln
+- · Partizipation als Grundhaltung und demokratische Werte im Jugendarbeitsalltag leben
+============================================================
+
+CHUNK 168
+Länge: 191 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1743}
+Inhalt:
+- · junge Menschen dazu motivieren, ihre Meinungen und Sichtweisen in den gesellschaftlichen Dialog einzubringen und Möglichkeiten der Beteiligung an gesellschaftlichen Prozessen wahrzunehmen
+============================================================
+
+CHUNK 169
+Länge: 210 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1936}
+Inhalt:
+## 3. Freiräume gestalten und verteidigen
+
+Fachkräfte der Jugendarbeit stehen für öffentliche, halböffentliche und institutionalisierte Freiräume von Kindern, Jugendlichen und jungen Erwachsenen ein, indem sie:
+============================================================
+
+CHUNK 170
+Länge: 210 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2148}
+Inhalt:
+- · sich der Relevanz von unverzweckten Freiräumen für die Persönlichkeitsentwicklung bewusst sind
+- · für deren Bedeutung bei politischen Entscheidungsprozessen eintreten und diese Räume wenn nötig verteidigen
+============================================================
+
+CHUNK 171
+Länge: 241 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2359}
+Inhalt:
+- · die räumlichen Aneignungsprozesse von jungen Menschen gemeinsam mit ihnen reflektieren und diese dabei unterstützen, dazu in einen konstruktiven Dialog zu treten
+- · diese Freiräume zusammen mit den jungen Menschen schaffen und gestalten
+============================================================
+
+CHUNK 172
+Länge: 150 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2602}
+Inhalt:
+## 4. Das Arbeitsfeld Jugendarbeit vertreten
+
+Fachkräfte der Jugendarbeit vertreten ihr Arbeitsfeld und damit verknüpfte fachliche Belange, indem sie:
+============================================================
+
+CHUNK 173
+Länge: 120 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2754}
+Inhalt:
+- · sich der Bedeutung der Jugendarbeit für junge Menschen bewusst sind und diese immer wieder neu kritisch reflektieren
+============================================================
+
+CHUNK 174
+Länge: 201 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2875}
+Inhalt:
+- · sich für die Sichtbarkeit und Bedeutsamkeit der Jugendarbeit einsetzen und diese repräsentieren (unter anderem durch die Beteiligung an der Jugendhilfeplanung und an weiteren politischen Prozessen)
+============================================================
+
+CHUNK 175
+Länge: 125 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3077}
+Inhalt:
+- · sich innerhalb der Sozialen Arbeit positionieren und allgemein die Fachlichkeit und Spezifika der Jugendarbeit darstellen
+============================================================
+
+CHUNK 176
+Länge: 121 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3204}
+Inhalt:
+## 5. Arbeitspolitische Interessen vertreten
+
+Fachkräfte der Jugendarbeit positionieren sich arbeitspolitisch, indem sie:
+============================================================
+
+CHUNK 177
+Länge: 226 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3327}
+Inhalt:
+- · sich an Zusammenschlüssen und Interessengruppen beteiligen, um den Stellenwert der eigenen Arbeit zu unterstreichen
+- · die Interessen der Fachkräfte gegenüber verschiedenen Ebenen vertreten und Entscheidungen beeinflussen
+============================================================
+
+CHUNK 178
+Länge: 242 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3555}
+Inhalt:
+## Verwaltungshandeln und Organisationsmanagement
+
+## 1. Die eigene Einrichtung und Organisation verwalten
+
+Fachkräfte der Jugendarbeit führen die Geschäfte ihrer Organisation/Einrichtung aus einem sozialen Sinnzusammenhang heraus, indem sie:
+============================================================
+
+CHUNK 179
+Länge: 95 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3799}
+Inhalt:
+- · der Organisationsstruktur klar nachvollziehbare und partizipative Prinzipien zugrunde legen
+============================================================
+
+CHUNK 180
+Länge: 163 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3895}
+Inhalt:
+- · Verwaltungsstrukturen und bürokratische Abläufe durchschauen, sich zielgerichtet in ihnen bewegen und hinsichtlich ihrer situativen Angemessenheit hinterfragen
+============================================================
+
+CHUNK 181
+Länge: 205 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4059}
+Inhalt:
+- · organisatorische sowie administrative Aspekte als Teil ihrer Tätigkeit verstehen und diese als Planungs- und Gestaltungsaufgabe wahrnehmen
+- · Arbeitsabläufe entsprechend organisieren und strukturieren
+============================================================
+
+CHUNK 182
+Länge: 56 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4265}
+Inhalt:
+- · an der Qualitätsentwicklung und -sicherung mitwirken
+============================================================
+
+CHUNK 183
+Länge: 169 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4323}
+Inhalt:
+149
+
+- · die relevanten Akteur*innen kennen und mit ihnen auf den unterschiedlichen Ebenen (regional/überregional) kooperieren
+
+## 2. Finanzielle Ressourcen organisieren
+============================================================
+
+CHUNK 184
+Länge: 137 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4451}
+Inhalt:
+## 2. Finanzielle Ressourcen organisieren
+
+Fachkräfte der Jugendarbeit organisieren verantwortungsvoll finanzielle Ressourcen, indem sie:
+============================================================
+
+CHUNK 185
+Länge: 84 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4590}
+Inhalt:
+- · an der Haushaltsplanung mitwirken und (umfassende) Haushaltsverantwortung tragen
+============================================================
+
+CHUNK 186
+Länge: 165 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4675}
+Inhalt:
+- · in verschiedenen Kontexten Mittelakquise betreiben, zur Verfügung stehende finanzielle Mittel nachhaltig einsetzen und vorhandene Ressourcen im Sozialraum nutzen
+============================================================
+
+CHUNK 187
+Länge: 105 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4841}
+Inhalt:
+- · gezielt transparente Steuerungsmechanismen anwenden und auf deren Basis verantwortungsbewusst handeln
+============================================================
+
+CHUNK 188
+Länge: 141 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4948}
+Inhalt:
+## 3. Personal führen und verwalten
+
+Fachkräfte der Jugendarbeit übernehmen Personalverantwortung (auch gegenüber Ehrenamtlichen), indem sie:
+============================================================
+
+CHUNK 189
+Länge: 172 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 5091}
+Inhalt:
+- · Mitarbeiter*innen begleiten und koordinieren
+- · unter Beachtung rechtlicher Rahmenbedingungen an der Personalplanung, Personalakquise und Personalentwicklung mitwirken
+============================================================
+
+CHUNK 190
+Länge: 228 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 5264}
+Inhalt:
+- · die Zusammenarbeit der unterschiedlichen Entscheidungsträger*innen koordinieren
+- · Personen mit neuen Aufgabengebieten vertraut machen, eine fundierte Anleitung durchführen, sich an Ausbildung beteiligen und diese begleiten
+============================================================
+
+CHUNK 191
+Länge: 125 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 5493}
+Inhalt:
+- · sich in ihrer komplexen Führungsrolle, etwa in sogenannten 'Sandwichpositionen' (mittlere Managementebene), zurechtfinden
+============================================================
+
+CHUNK 192
+Länge: 206 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 5619}
+Inhalt:
+- · ein Umfeld mit positivem Arbeitsklima schaffen, das motiviertes Arbeiten ermöglicht, die Identifikation mit der Organisation/Einrichtung stärkt und eine nachhaltige Bindung von Mitarbeiter*innen fördert
+============================================================
+
+CHUNK 193
+Länge: 121 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 5827}
+Inhalt:
+## 4. Öffentlichkeitsarbeit leisten
+
+Fachkräfte der Jugendarbeit leisten zielgerichtete Öffentlichkeitsarbeit, indem sie:
+============================================================
+
+CHUNK 194
+Länge: 183 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 5950}
+Inhalt:
+- · am öffentlichen sowie internen Profil ihrer Einrichtung und Organisation kontinuierlich arbeiten
+- · Strategien für eine wirksame Öffentlichkeitsarbeit entwickeln und koordinieren
+============================================================
+
+CHUNK 195
+Länge: 83 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 6134}
+Inhalt:
+- · vielfältige Arten der Repräsentation ihrer Einrichtung und Organisation pflegen
+============================================================
+
+CHUNK 196
+Länge: 184 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 6219}
+Inhalt:
+## Personale Kompetenzen
+
+## 1. Herausforderungen fachkundig bewältigen
+
+Fachkräfte der Jugendarbeit bewältigen vielfältige alltägliche und grundsätzliche Herausforderungen, indem sie:
+============================================================
+
+CHUNK 197
+Länge: 194 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 6405}
+Inhalt:
+- · Kompetenzen nutzen, die als Ergebnis eines akademischen Studiums gelten und sich in einer analytisch-systematischen sowie strukturellen Herangehensweise an komplexe Aufgabenstellungen zeigen
+============================================================
+
+CHUNK 198
+Länge: 152 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 6600}
+Inhalt:
+- · sich Problemen annehmen und diesen vorausschauend, abwägend, aber auch situativ angemessen und mit Improvisationsfähigkeit und Spontaneität begegnen
+============================================================
+
+CHUNK 199
+Länge: 115 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 6753}
+Inhalt:
+- · vielfältige, neue und kreative Lösungsansätze entwickeln und gegebenenfalls weitere (Fach-)Personen hinzuziehen
+============================================================
+
+CHUNK 200
+Länge: 126 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 6870}
+Inhalt:
+## 2. Arbeitsalltag selbständig gestalten
+
+Fachkräfte der Jugendarbeit bewältigen ihren Arbeitsalltag eigenständig, indem sie:
+============================================================
+
+CHUNK 201
+Länge: 241 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 6998}
+Inhalt:
+- · Ihre Arbeitsprozesse unter Beachtung der bestehenden Rahmenbedingungen selbständig strukturieren und nachhaltig gestalten
+- · für sich Ziele definieren, diese reflektieren und bewerten und anstehende Aufgaben dementsprechend priorisieren
+============================================================
+
+CHUNK 202
+Länge: 171 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 7240}
+Inhalt:
+- · in Teams und Projekten kreativ und verantwortlich mitwirken
+- · selbstständig Grenzen und Möglichkeiten ihres Handelns definieren und diese kontinuierlich hinterfragen
+============================================================
+
+CHUNK 203
+Länge: 169 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 7412}
+Inhalt:
+- · eigene Interessen einbringen und damit verknüpfte Kompetenzen nutzen (beispielsweise handwerkliche, künstlerische, sportliche, (informations-)technische Fähigkeiten)
+============================================================
+
+CHUNK 204
+Länge: 115 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 7583}
+Inhalt:
+## 3. Sozial kompetent handeln
+
+Fachkräfte der Jugendarbeit handeln in besonderem Maße sozial kompetent, indem sie:
+============================================================
+
+CHUNK 205
+Länge: 187 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 7700}
+Inhalt:
+- · in der Lage sind, in Teams konstruktiv zusammenzuarbeiten und ihre Fähigkeiten zielführend einzubringen
+- · mit anderen Fachvertreter*innen sowie Fachfremden auf Augenhöhe kooperieren
+============================================================
+
+CHUNK 206
+Länge: 185 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 7888}
+Inhalt:
+- · Konflikte grundsätzlich als Chance begreifen und die Bereitschaft haben, gemeinsam nach Lösungswegen zu suchen und Kompromisse zu finden
+- · offen und konstruktiv mit Kritik umgehen
+============================================================
+
+CHUNK 207
+Länge: 189 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 8029}
+Inhalt:
+- · offen und konstruktiv mit Kritik umgehen
+- · über ausgeprägte Kommunikationsfähigkeiten verfügen, insbesondere über dialogische, argumentative, diplomatische und rhetorische Kompetenzen
+============================================================
+
+CHUNK 208
+Länge: 5 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 8220}
+Inhalt:
+## 4.
+============================================================
+
+CHUNK 209
+Länge: 175 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Sich selbst positionieren können
+
+Fachkräfte der Jugendarbeit sind in der Lage, sich selbst fachlich und persönlich in unterschiedlichen Kontexten zu positionieren, indem sie:
+============================================================
+
+CHUNK 210
+Länge: 162 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 177}
+Inhalt:
+- · über eine ausgeprägte Entscheidungsfähigkeit verfügen und situative Entscheidungen unter Abwägung vorhandener Gestaltungs- und Entscheidungsspielräume treffen
+============================================================
+
+CHUNK 211
+Länge: 145 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 340}
+Inhalt:
+- · in ihrem Handeln unterschiedliche gesellschaftliche Bedürfnisse, Interessen anderer Beteiligter und (berufs-)ethische Aspekte berücksichtigen
+============================================================
+
+CHUNK 212
+Länge: 193 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 486}
+Inhalt:
+- · über ein angemessenes Durchsetzungsvermögen verfügen sowie Grenzen klar und reflektiert setzen und kommunizieren können
+- · eine hohe Glaubwürdigkeit und persönliche Souveränität vermitteln
+============================================================
+
+CHUNK 213
+Länge: 143 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 681}
+Inhalt:
+151
+
+- · bewusst eine für sie stimmige Abgrenzung zwischen Beruflichem und Privatem vornehmen
+
+## 5. Bereitschaft, immer wieder Neues zu lernen
+============================================================
+
+CHUNK 214
+Länge: 165 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 776}
+Inhalt:
+## 5. Bereitschaft, immer wieder Neues zu lernen
+
+Fachkräfte der Jugendarbeit sind bereit, ihre Kompetenzen immer wieder zu hinterfragen und zu erweitern, indem sie:
+============================================================
+
+CHUNK 215
+Länge: 122 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 943}
+Inhalt:
+- · über eine vertiefte Informationsbeschaffungskompetenz verfügen und somit ihr individuelles Wissensmanagement gestalten
+============================================================
+
+CHUNK 216
+Länge: 143 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1066}
+Inhalt:
+- · eine ausgeprägte Lernkompetenz besitzen, auf Grundlage derer sie ihre Professionalitätsentwicklung als unabgeschlossenen Prozess betrachten
+============================================================
+
+CHUNK 217
+Länge: 161 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1210}
+Inhalt:
+- · ihren persönlichen Weiterbildungsbedarf erkennen, entsprechende Lernprozesse organisieren und geeignete Maßnahmen ergreifen sowie diesen Prozess reflektieren
+============================================================
+
+CHUNK 218
+Länge: 95 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1372}
+Inhalt:
+- · erworbene Erkenntnisse und Erfahrungen zur Erschließung neuer Handlungsmöglichkeiten nutzen
+============================================================
+
+CHUNK 219
+Länge: 106 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1469}
+Inhalt:
+## 6. Verantwortungsbewusst handeln
+
+Fachkräfte der Jugendarbeit handeln verantwortungsbewusst, indem sie:
+============================================================
+
+CHUNK 220
+Länge: 209 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1577}
+Inhalt:
+- · achtsam mit sich, ihren Bedürfnissen, Ressourcen und Grenzen umgehen sowie diese klar kommunizieren
+- · allgemeine Maßstäbe wie Nachhaltigkeit und Chancengerechtigkeit als Prinzipien ihrer Arbeit verstehen
+============================================================
+
+CHUNK 221
+Länge: 117 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1787}
+Inhalt:
+- · Risiken ihres Handelns für sich und andere abschätzen, um diese in angemessenem Rahmen bewusst eingehen zu können
+============================================================
+
+CHUNK 222
+Länge: 106 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1906}
+Inhalt:
+## Professionelle Berufsidentität
+
+## 1. Identifikation mit der Jugendarbeit
+
+Fachkräfte der Jugendarbeit:
+============================================================
+
+CHUNK 223
+Länge: 226 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2014}
+Inhalt:
+- · setzen sich mit den Spezifika und dem gesetzlichen Auftrag des Feldes auseinander und gründen ihr Handeln auf dessen grundlegenden Prinzipien: Freiwilligkeit, Offenheit, Niederschwelligkeit, Partizipation, (Selbst-)Bildung
+============================================================
+
+CHUNK 224
+Länge: 238 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2241}
+Inhalt:
+- · verstehen sich als Teil der Sozialen Arbeit und gründen ihr Handeln auf deren wesentliche Prinzipien: sozialer Ausgleich und soziale Gerechtigkeit, Achtung der Menschenrechte, Toleranz, Achtung von Pluralität und Übernahme gemeinsamer
+============================================================
+
+CHUNK 225
+Länge: 62 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2431}
+Inhalt:
+Achtung von Pluralität und Übernahme gemeinsamer Verantwortung
+============================================================
+
+CHUNK 226
+Länge: 136 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2494}
+Inhalt:
+- · identifizieren sich mit ihrer jeweiligen Einrichtung/Organisation, ihrem Träger und den mit diesen verbundenen Werten und Prinzipien
+============================================================
+
+CHUNK 227
+Länge: 143 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2631}
+Inhalt:
+- · haben ein grundsätzlich positives Bild von jungen Menschen und orientieren sich an deren jeweiligen Ressourcen, Bedürfnissen und Interessen
+============================================================
+
+CHUNK 228
+Länge: 228 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2776}
+Inhalt:
+- · richten ihr Handeln darauf aus, junge Menschen bei Prozessen ihrer Identitätsentwicklung, Persönlichkeitsentfaltung und ihrer (Selbst-)Bildung zu unterstützen (Berufsethos)
+
+## 2. Professionelles Rollenverständnis entwickeln
+============================================================
+
+CHUNK 229
+Länge: 102 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3006}
+Inhalt:
+Fachkräfte der Jugendarbeit entwickeln ein individuelles professionelles Rollenverständnis, indem sie:
+============================================================
+
+CHUNK 230
+Länge: 236 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3110}
+Inhalt:
+- · ihre eigene Rolle im Hinblick auf die Gestaltung förderlicher Lebensbedingungen für junge Menschen klären
+- · ihre Berufsrolle individuell reflektieren und in Abhängigkeit von biografischen und beruflichen Kontexten weiterentwickeln
+============================================================
+
+CHUNK 231
+Länge: 136 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3347}
+Inhalt:
+- · ihr berufliches Handeln in Bezug auf gesellschaftliche Erwartungen, Folgen und unter ethischen Gesichtspunkten kritisch reflektieren
+============================================================
+
+CHUNK 232
+Länge: 134 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3484}
+Inhalt:
+- · mit komplexen Rollenerwartungen in ihrer Unterschiedlichkeit umgehen und situativ angemessene Rollenangebote zur Verfügung stellen
+============================================================
+
+CHUNK 233
+Länge: 197 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3619}
+Inhalt:
+- · sich in ihrem Mandats- und Selbstverständnis bewusst gegenüber Ehrenamtlichen und weiteren Akteur*innen der Jugendarbeit sowie anderen Feldern der Sozialen Arbeit und der Gesellschaft abgrenzen
+============================================================
+
+CHUNK 234
+Länge: 75 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3818}
+Inhalt:
+## Pädagogische Grundhaltung
+
+## 1. Pädagogische Grundprinzipien verkörpern
+============================================================
+
+CHUNK 235
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3895}
+Inhalt:
+Fachkräfte der Jugendarbeit verkörpern pädagogische Grundprinzipien, die für die Identitätsentwicklung von Kindern, Jugendlichen und jungen Erwachsenen hin zu eigenständigen und gemeinschaftsfähigen Persönlichkeiten förderlich sind (entsprechend §
+============================================================
+
+CHUNK 236
+Länge: 73 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4094}
+Inhalt:
+Persönlichkeiten förderlich sind (entsprechend § 11 SGB VIII), indem sie:
+============================================================
+
+CHUNK 237
+Länge: 245 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4169}
+Inhalt:
+- · jungen Menschen in ihrer jeweiligen und spezifischen Eigenart sowie ihren Bedürfnissen und Werthaltungen mit Akzeptanz, Toleranz, Interesse und Wertschätzung begegnen
+- · Empathie für junge Menschen in ihren jeweiligen Lebenslagen entwickeln
+============================================================
+
+CHUNK 238
+Länge: 122 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4415}
+Inhalt:
+- · jungen Menschen mit Offenheit und Neugier, aber auch mit Authentizität, klaren Positionen und Verlässlichkeit begegnen
+============================================================
+
+CHUNK 239
+Länge: 5 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 4539}
+Inhalt:
+## 2.
+============================================================
+
+CHUNK 240
+Länge: 55 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Kritische Sympathie für Kinder und Jugendliche besitzen
+============================================================
+
+CHUNK 241
+Länge: 197 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 57}
+Inhalt:
+Fachkräfte der Jugendarbeit verfügen über eine grundsätzliche kritische Sympathie für Kinder, Jugendliche und junge Erwachsene und ihre jeweiligen Entwicklungsaufgaben. Diese zeigt sich darin, dass
+============================================================
+
+CHUNK 242
+Länge: 91 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 256}
+Inhalt:
+- · sie junge Menschen als Subjekte ihrer eigenen Wirklichkeit und Entwicklung ernst nehmen
+============================================================
+
+CHUNK 243
+Länge: 172 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 348}
+Inhalt:
+- · sie die Interessen und Potenziale von jungen Menschen in ihren jeweiligen Lebensphasen, unabhängig von ihrem aktuellen Verhalten, allgemein akzeptieren und wertschätzen
+============================================================
+
+CHUNK 244
+Länge: 186 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 522}
+Inhalt:
+153
+
+- · sie die Heterogenität von jungen Menschen wahrnehmen und anerkennen sowie ihr Handeln im Hinblick auf zentrale Differenzkategorien hinterfragen
+
+## 3. Sich als Person einbringen
+============================================================
+
+CHUNK 245
+Länge: 122 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 676}
+Inhalt:
+## 3. Sich als Person einbringen
+
+Fachkräfte der Jugendarbeit bringen sich als eigene Person in die Arbeit ein, indem sie:
+============================================================
+
+CHUNK 246
+Länge: 220 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 800}
+Inhalt:
+- · über eine selbständige, gefestigte Persönlichkeit verfügen, klare Positionen beziehen, Werte vertreten und in sich konsequente Haltungen zeigen
+- · eigene Interessen, Ideen und Vorstellungen in ihre Arbeit einbringen
+============================================================
+
+CHUNK 247
+Länge: 92 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1021}
+Inhalt:
+- · die eigene Bedeutsamkeit ernst nehmen und ihren Einfluss auf junge Menschen reflektieren
+============================================================
+
+CHUNK 248
+Länge: 199 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1115}
+Inhalt:
+## 4. Positive Grundeinstellung zu Widerständigem und Unerwartetem
+
+Fachkräfte der Jugendarbeit besitzen eine positive Grundeinstellung zu Widerständigem und Unerwartetem. Dies zeigt sich darin, dass
+============================================================
+
+CHUNK 249
+Länge: 133 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1316}
+Inhalt:
+- · sie Lust auf Reibung und Interesse an Auseinandersetzung haben, insofern sie Kritik und Widerständen grundsätzlich offen begegnen
+============================================================
+
+CHUNK 250
+Länge: 153 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1450}
+Inhalt:
+- · sie eine demokratische Grundeinstellung besitzen, die Dialoge und Aushandlungsprozesse als wichtiges Moment des gemeinsamen Zusammenlebens betrachtet
+============================================================
+
+CHUNK 251
+Länge: 124 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1604}
+Inhalt:
+- · sie sich durch unerwartete/ungeplante Ereignisse nicht verunsichern lassen, sondern diese als Herausforderungen annehmen
+============================================================
+
+CHUNK 252
+Länge: 137 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1730}
+Inhalt:
+## 5. Reflektieren des eigenen beruflichen Handelns
+
+Fachkräfte der Jugendarbeit hinterfragen ihr eigenes berufliches Handeln, indem sie:
+============================================================
+
+CHUNK 253
+Länge: 205 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1869}
+Inhalt:
+- · ethische und professionelle Prinzipien zur kritischen Selbstreflexion heranziehen
+- · dieses hinsichtlich ökonomisch, sozial, kulturell, gender und ethnisch bedingter Ungleichheiten kritisch betrachten
+============================================================
+
+CHUNK 254
+Länge: 234 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2075}
+Inhalt:
+- · sich biografische Anteile und den Einfluss eigener Erfahrungen auf ihre Haltungen (und Weltsichten) bewusst machen
+- · sich die Subjektivität ihrer Wahrnehmung, ihre unbewussten Handlungsmuster und Alltagsroutinen vergegenwärtigen
+============================================================
+
+CHUNK 255
+Länge: 55 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2311}
+Inhalt:
+## Wissenschaftliche und theoretische Fundierung
+
+## 1.
+============================================================
+
+CHUNK 256
+Länge: 173 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Spezifische Kenntnisse zu Jugendarbeit und Sozialer Arbeit
+
+Fachkräfte der Jugendarbeit gründen ihr Handeln auf einem fundierten Verständnis für die Jugendarbeit, indem sie:
+============================================================
+
+CHUNK 257
+Länge: 125 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 175}
+Inhalt:
+- · jugendliche Lebenswelten kennen sowie derzeitige Lebenslagen und damit verbundene Herausforderungen identifizieren können
+============================================================
+
+CHUNK 258
+Länge: 211 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 302}
+Inhalt:
+- · sich mit einem breiten Spektrum an relevanten Theorien, Ansätzen und der Geschichte der sowie Studien zur Jugendarbeit auseinandersetzen und um Überlegungen zur spezifischen Bedeutung der Jugendarbeit wissen
+============================================================
+
+CHUNK 259
+Länge: 176 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 514}
+Inhalt:
+- · über ein umfassendes Fachwissen zum Gesamtbereich der Jugendarbeit und ihre unterschiedlichen Angebotsformen verfügen sowie zu anderen Bereichen der Kinder- und Jugendhilfe
+============================================================
+
+CHUNK 260
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 691}
+Inhalt:
+- · sich mit der Sozialen Arbeit als Disziplin und Profession, insbesondere mit ihren fachwissenschaftlichen und normativen Grundlagen, ihren gesellschaftlichen und institutionellen Rahmenbedingungen, ihren allgemeinen Handlungstheorien, Methoden,
+============================================================
+
+CHUNK 261
+Länge: 182 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 892}
+Inhalt:
+ihren allgemeinen Handlungstheorien, Methoden, Handlungsfeldern und Zielgruppen sowie ihrer Forschung beschäftigen und über ein erweitertes Gegenstands- und Erklärungswissen verfügen
+============================================================
+
+CHUNK 262
+Länge: 69 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1076}
+Inhalt:
+## 2. Wesentliche Perspektiven und Erkenntnisse der Bezugsdisziplinen
+============================================================
+
+CHUNK 263
+Länge: 194 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1147}
+Inhalt:
+Fachkräfte der Jugendarbeit können zur Reflexion und Begründung ihrer eigenen Arbeit auf wesentliche Perspektiven und Erkenntnisse der Bezugsdisziplinen Sozialer Arbeit zurückgreifen, indem sie:
+============================================================
+
+CHUNK 264
+Länge: 154 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1343}
+Inhalt:
+- · insbesondere über relevante Kenntnisse aus den Bereichen der (Jugend-)Soziologie, Pädagogik, Psychologie, Philosophie und Politikwissenschaft verfügen
+============================================================
+
+CHUNK 265
+Länge: 152 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1498}
+Inhalt:
+- · subjekt-, milieu-, lebenswelt- sowie gesellschaftsbezogene soziologische, psychologische und pädagogische Blickwinkel auf Kindheit und Jugend kennen
+============================================================
+
+CHUNK 266
+Länge: 105 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1652}
+Inhalt:
+## 3. Strukturwissen
+
+Fachkräfte der Jugendarbeit verfügen über ein fundiertes Strukturwissen, indem sie:
+============================================================
+
+CHUNK 267
+Länge: 232 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1759}
+Inhalt:
+- · die institutionellen Strukturen des Sozial- und Jugendhilfesystems, die Verortung der Jugendarbeit darin, die politisch-administrativen Strukturen und die sozial-staatlichen Rahmenbedingungen kennen und sich darin bewegen können
+============================================================
+
+CHUNK 268
+Länge: 184 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1992}
+Inhalt:
+- · sich mit allgemeinen und lokalen Strukturen der Jugendarbeit und den sozialpädagogischen Bildungs-, Beratungs- und Hilfsangeboten gezielt auseinandersetzen und darin agieren können
+============================================================
+
+CHUNK 269
+Länge: 187 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2178}
+Inhalt:
+## 4. Wissenschafts- und Theoriebezug in der eigenen Arbeit
+
+Fachkräfte der Jugendarbeit fundieren ihr berufliches Handeln durch wissenschaftliche und theoretische Bezugnahmen, indem sie:
+============================================================
+
+CHUNK 270
+Länge: 95 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2367}
+Inhalt:
+- · theoretisches Wissen zur Interpretation und Einordnung alltäglicher Situationen heranziehen
+============================================================
+
+CHUNK 271
+Länge: 158 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2463}
+Inhalt:
+- · ihr wissenschaftliches und theoretisches Wissen zu Theorien, Prinzipien und Strukturen für ihre praktische Arbeit nutzbar machen (Theorie-Praxis-Transfer)
+============================================================
+
+CHUNK 272
+Länge: 166 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2622}
+Inhalt:
+- · mit Fachliteratur adäquat umgehen, diese für ihr eigenes Handeln nutzbar machen und ihre eigenen Erkenntnisse wiederum an relevante Fachdiskurse rückbinden können
+============================================================
+
+CHUNK 273
+Länge: 3 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2790}
+Inhalt:
+155
+============================================================
+
+CHUNK 274
+Länge: 205 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 2795}
+Inhalt:
+- · Vorgehensweisen wissenschaftlichen Arbeitens kennen und über ein umfangreiches methodisches Wissen verfügen (unter anderem Kenntnisse über Konzepterstellung, Qualitätsentwicklung und Projektmanagement)
+============================================================
+
+CHUNK 275
+Länge: 222 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3001}
+Inhalt:
+- · verschiedene Forschungsansätze kennen, Studien interpretieren können und auf fallund feldbezogene Analysefähigkeiten in ihrer Arbeit zurückgreifen (insbesondere ethnografische, biografische und sozialräumliche Ansätze)
+============================================================
+
+CHUNK 276
+Länge: 5 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 3225}
+Inhalt:
+## 5.
+============================================================
+
+CHUNK 277
+Länge: 103 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Rechtliche Grundlagen
+
+Fachkräfte der Jugendarbeit verfügen über rechtliche Grundkenntnisse, indem sie:
+============================================================
+
+CHUNK 278
+Länge: 129 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 105}
+Inhalt:
+- · die Fähigkeit zum Verständnis von Rechtsnormen und Verwaltungsvorschriften besitzen und über Rechtsänderungen informiert sind
+============================================================
+
+CHUNK 279
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 235}
+Inhalt:
+- · ein Wissen über wesentliche rechtliche Zusammenhänge (insbesondere Sozialgesetzgebung, SGB VIII und landesrechtliche Ausführungsbestimmungen, rechtliche Bestimmungen zum Kinder- und Jugendschutz) haben und dies situationsgerecht berücksichtigen
+============================================================
+
+CHUNK 280
+Länge: 127 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 484}
+Inhalt:
+- · ihre eigenen Werte und Normen mit rechtlichen Vorgaben abgleichen und in ihrem professionellen Handeln darauf zurückgreifen
+============================================================
+
+CHUNK 281
+Länge: 5 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 613}
+Inhalt:
+## 6.
+============================================================
+
+CHUNK 282
+Länge: 168 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Gesellschaftspolitische Rahmenbedingungen und Entwicklungen
+
+Fachkräfte der Jugendarbeit agieren unter Berücksichtigung gesellschaftlicher Rahmenbedingungen, indem sie:
+============================================================
+
+CHUNK 283
+Länge: 134 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 170}
+Inhalt:
+- · politische Strukturen, gesellschaftspolitische Rahmenbedingungen und Entwicklungen kennen, einordnen und sich darin bewegen können
+============================================================
+
+CHUNK 284
+Länge: 114 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 305}
+Inhalt:
+- · ihre Entscheidungen aus dem Wissen zu bestehenden Rahmenbedingungen begründen und kritisch reflektieren können
+============================================================
+
+CHUNK 285
+Länge: 241 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 420}
+Inhalt:
+- · unterschiedliche gesellschaftliche Verteilungsmechanismen, Geschlechter- und Generationsverhältnisse, Ungleichheits- und Machtverhältnisse sowie soziokulturelle Rahmenbedingungen erkennen und darauf bezogene angemessene Handlungsoptionen
+============================================================
+
+CHUNK 286
+Länge: 244 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 612}
+Inhalt:
+und darauf bezogene angemessene Handlungsoptionen entwickeln können (Riechert, Jung &amp; Nick 2018, S. 7-16). Das Qualifikationsprofil Jugendarbeit bringt auf differenzierte Weise das Spezifische des Handlungsfelds Kinder- und Jugendarbeit zum
+============================================================
+
+CHUNK 287
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 809}
+Inhalt:
+des Handlungsfelds Kinder- und Jugendarbeit zum Ausdruck. Es rückt meines Erachtens die Möglichkeiten und Grenzen einer emanzipatorischen Förderung von Subjektbildung der Kinder, Jugendlichen und jungen Erwachsenen in diesem Handlungsfeld besonders
+============================================================
+
+CHUNK 288
+Länge: 232 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1012}
+Inhalt:
+Erwachsenen in diesem Handlungsfeld besonders deutlich in den Blick. Die Anforderungen an das Wissen und Können der Fachkräfte und ihre Ausbildung haben in diesem Profil eine möglichst konkrete Ausformulierung erfahren. ## Literatur
+============================================================
+
+CHUNK 289
+Länge: 196 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1246}
+Inhalt:
+Bayerischer Jugendring (2008). Standards der Offenen Kinder- und Jugendarbeit in Bayern in Einrichtungen mit hauptberuflichem pädagogischem Fachpersonal. Empfehlungen des Bayerischen Jugendrings .
+============================================================
+
+CHUNK 290
+Länge: 133 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 1400}
+Inhalt:
+Empfehlungen des Bayerischen Jugendrings . https://www.bjr.de/netzwerk/offene-jugendarbeit/neue-standards-okja.html. Zugegriffen: 21.
+============================================================
+
+CHUNK 291
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Januar 2019. Bayerischer Jugendring (2011). Standards für die Kommunale Jugendarbeit in Bayern. Empfehlungen des Bayerischen Jugendrings nach § 85 Abs. 2 SGB VIII für die Jugendämter in Bayern. Grundlagen, Aufgaben, Rahmenbedingungen und Standards
+============================================================
+
+CHUNK 292
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 206}
+Inhalt:
+Aufgaben, Rahmenbedingungen und Standards für die Kommunale Jugendarbeit in Bayern. https://shop.bjr.de/empfehlungen/59/standards-fuer-die-kommunale-jugendarbeitin-bayern. Zugegriffen: 21. Januar 2019. Bayerischer Jugendring (2012). Offene Kinder-
+============================================================
+
+CHUNK 293
+Länge: 204 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 408}
+Inhalt:
+Bayerischer Jugendring (2012). Offene Kinder- und Jugendarbeit in Bayern. Teil 3: Perspektiven und Herausforderungen für das Arbeitsfeld Offene Kinder- und Jugendarbeit mit hauptberuflichem Fachpersonal .
+============================================================
+
+CHUNK 294
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 564}
+Inhalt:
+Jugendarbeit mit hauptberuflichem Fachpersonal . https://shop.bjr.de/arbeitshilfen/49/offene-jugendarbeit-in-bayern-teil-3-perspektiven-und-herausforderungen. Zugegriffen: 21. Januar 2019. Bayerischer Jugendring (2014). Fachkräfte in der Kinder- und
+============================================================
+
+CHUNK 295
+Länge: 239 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 765}
+Inhalt:
+Jugendring (2014). Fachkräfte in der Kinder- und Jugendarbeit. Empfehlungen zur Qualifikation der Fachkräfte in der Kinder- und Jugendarbeit Empfehlungen des Bayerischen Jugendrings nach § 85 Abs. 2 SGB VIII für die Jugendämter in Bayern .
+============================================================
+
+CHUNK 296
+Länge: 149 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 957}
+Inhalt:
+Abs. 2 SGB VIII für die Jugendämter in Bayern . http://shop.bjr.de/media/ pdf/10/76/9f/2014-Empf-Fachkr-fte-Kinder-Jugendarbeit.pdf. Zugegriffen: 21.
+============================================================
+
+CHUNK 297
+Länge: 173 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+Januar 2019. Beher, K., &amp; Gragert, N. (2004). Aufgabenprofile und Qualifikationsanforderungen in den ArbeitsKinder- und Jugendarbeit, Jugendamt. Abschlussbericht Band 2.
+============================================================
+
+CHUNK 298
+Länge: 106 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+http://www.forschungsverbund. tu-dortmund.de/fileadmin/Files/Aufgabenprofile/Band\_2.pdf. Zugegriffen: 21.
+============================================================
+
+CHUNK 299
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Januar 2019. feldern der Kinder- und Jugendhilfe. Tageseinrichtungen für Kinder, Hilfen zur Erziehung, Bohlinger, S. (2013). Eine Landkarte der Qualifikationsrahmen und eine kurze Geschichte ihrer globalen Entwicklung. Berufsbildung in Wissenschaft
+============================================================
+
+CHUNK 300
+Länge: 235 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 206}
+Inhalt:
+Entwicklung. Berufsbildung in Wissenschaft und Praxis , 42 , S. 38-41. Bundesarbeitsgemeinschaft der Landesjugendämter (BAGLJAE) (2017). Appell an die Hochschulen und Universitäten. Jugendarbeit studieren. Zum Verschwinden eines genuin
+============================================================
+
+CHUNK 301
+Länge: 60 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 401}
+Inhalt:
+studieren. Zum Verschwinden eines genuin sozialpädagogischen
+============================================================
+
+CHUNK 302
+Länge: 139 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 463}
+Inhalt:
+Arbeitsfeldes an Hochschulen und Universitäten
+
+. http://www.bagljae.de/downloads/127\_appell- jugendarbeit-studieren.pdf. Zugegriffen: 21.
+============================================================
+
+CHUNK 303
+Länge: 201 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+Januar 2019. Bundesjugendkuratorium (2017). Stellungnahme Kinder- und Jugendarbeit stärken. München. https://www.bundesjugendkuratorium.de/assets/pdf/press/BJK\_Stellungnahme\_KJA.pdf. Zugegriffen: 21.
+============================================================
+
+CHUNK 304
+Länge: 205 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+Januar 2019. Cloos, P., Köngeter, S., Müller, B., &amp; Thole, W. (2009). Die Pädagogik der Kinder- und Jugendarbeit . Wiesbaden: VS Verlag für Sozialwissenschaften. Deinet, U., &amp; Janowicz, M. (Hrsg.).
+============================================================
+
+CHUNK 305
+Länge: 244 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+(2016). Berufsperspektive Offene Kinder- und Jugendarbeit. Bausteine für Personal- und Organisationsentwicklung. Weinheim, Basel: Beltz Juventa. Deutscher Bundestag (2017). Bericht über die Lebenssituation junger Menschen und die Leistungen der
+============================================================
+
+CHUNK 306
+Länge: 243 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 206}
+Inhalt:
+junger Menschen und die Leistungen der Kinder- und Jugendhilfe in Deutschland - 15. Kinder- und Jugendbericht. Unterrichtung durch die Bundesregierung und Stellungnahme der Bundesregierung . Drucksache 18/11050. Berlin. Fachbereichstag Soziale
+============================================================
+
+CHUNK 307
+Länge: 200 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 408}
+Inhalt:
+18/11050. Berlin. Fachbereichstag Soziale Arbeit (FBTS) (2016). Qualifikationsrahmen Soziale Arbeit (QR SozArb). Version 6.0 . www.fbts.de/fileadmin/fbts/QR\_SozArb\_Version\_6.0.pdf. Zugegriffen: 21.
+============================================================
+
+CHUNK 308
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Januar 2019. Faltermaier, M. (Hrsg.). (1983): Nachdenken über Jugendarbeit. Zwischen den fünfziger und achtziger Jahren. Eine kommentierte Dokumentation mit Beiträgen aus der Zeitschrift 'deutsche Jugend'. München: Juventa. Giesecke, H. (1971). Die
+============================================================
+
+CHUNK 309
+Länge: 226 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 206}
+Inhalt:
+München: Juventa. Giesecke, H. (1971). Die Jugendarbeit . München: Juventa. Hafeneger, B. (2013). Kernelemente des professionellen Kompetenzprofils Jugendarbeit. deutsche jugend, 61, Heft10 , S. 423-433. Hafeneger, B. (Hrsg.).
+============================================================
+
+CHUNK 310
+Länge: 121 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+(2013). Handbuch Außerschulische Jugendbildung. Grundlagen - Handlungsfelder - Akteure . Schwalbach/Ts.: Wochenschau. 157
+============================================================
+
+CHUNK 311
+Länge: 224 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 123}
+Inhalt:
+Herrmann, A. (2016). Neue Impulse für lebensbegleitendes Lernen in der Sozialen Arbeit: Soziale Arbeit und der Deutsche Qualifikationsrahmen. Sozialmagazin 41 (9-10) , S. 24-37. Hess, G., Ilg, W., &amp; Weingardt, M. (2004).
+============================================================
+
+CHUNK 312
+Länge: 112 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+Kompetenzprofile. Was Professionelle in der Jugendarbeit können sollen und wie sie es lernen. Weinheim: Juventa.
+============================================================
+
+CHUNK 313
+Länge: 250 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Ilg, W. (2013). Jugendarbeit - Grundlagen, Prinzipien und Arbeitsformen. In T. Rauschenbach &amp; S. Borrmann (Hrsg.), Arbeitsfelder der Kinder- und Jugendarbeit . (S. 12-32). Weinheim: Beltz Juventa. LAG Streetwork / Mobile Jugendarbeit Bayern e. V.
+============================================================
+
+CHUNK 314
+Länge: 190 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 201}
+Inhalt:
+LAG Streetwork / Mobile Jugendarbeit Bayern e. V. (2014). Standards der Landesarbeitsgemeinschaft Streetwork / Mobile Jugendarbeit Bayern e. V. in Kooperation mit dem Bayerischen Jugendring.
+============================================================
+
+CHUNK 315
+Länge: 158 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 342}
+Inhalt:
+V. in Kooperation mit dem Bayerischen Jugendring. http://streetwork-bayern.de/wp-content/uploads/2014/04/Standards-Komplett.pdf. Zugegriffen: 21. Januar 2019.
+============================================================
+
+CHUNK 316
+Länge: 12 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+Januar 2019.
+============================================================
+
+CHUNK 317
+Länge: 71 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+Müller, C. W., Kentler, H., Mollenhauer, K., &amp; Giesecke, H. (1964).
+============================================================
+
+CHUNK 318
+Länge: 53 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+Was ist Jugendarbeit? Vier Versuche zu einer Theorie.
+============================================================
+
+CHUNK 319
+Länge: 132 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+München: Juventa. Müller-Hermann, S., &amp; Becker-Lenz, R. (2012). Krisen als Voraussetzung der Bildung von Professionalität. In R.
+============================================================
+
+CHUNK 320
+Länge: 200 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+S. Becker-Lenz, R. S. Busse, G. Ehlert &amp; S. Müller-Hermann (Hrsg.), Professionalität Sozialer Arbeit und Hochschule. Wissen, Kompetenz, Habitus und Identität im Studium Sozialer Arbeit (S. 33-49).
+============================================================
+
+CHUNK 321
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Wiesbaden: Springer VS. Nick, P. (2016). Fachkräfte in der Jugendarbeit. Praxisforschungsprojekt 'Jugendarbeit und Bildung' an der Hochschule Kempten. deutsche jugend , 64, Heft 10 , S. 413. Nohl, H. (1965). Die Ausbildung der Sozialpädagogik durch
+============================================================
+
+CHUNK 322
+Länge: 244 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 200}
+Inhalt:
+(1965). Die Ausbildung der Sozialpädagogik durch die Universität. In C.-L. Furck et al. (Hrsg.), Aufgaben und Wege der Sozialpädagogik. Vorträge und Aufsätze von Hermann Nohl (S. 71-76) . Weinheim: Beltz. Pothmann, J. (2016a). Abbau oder Umbau?
+============================================================
+
+CHUNK 323
+Länge: 8 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+(2016a).
+============================================================
+
+CHUNK 324
+Länge: 17 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+Abbau oder Umbau?
+============================================================
+
+CHUNK 325
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Ein Rückgang in der Kinder- und Jugendarbeit mit vielen Fragezeichen. KomDat Jugendhilfe, 19/2 , S. 12-16. Pothmann, J. (2016b). (Offene) Kinder- und Jugendarbeit als Berufsfeld. Empirische Befunde zur Entwicklung der Personalsituation. In U. Deinet
+============================================================
+
+CHUNK 326
+Länge: 244 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 202}
+Inhalt:
+Entwicklung der Personalsituation. In U. Deinet &amp; M. Janowicz (Hrsg.), Berufsperspektive Offene Kinder- und Jugendarbeit. Bausteine für Personal- und Organisationsentwicklung (S. 38-55). Weinheim, Basel: Beltz Juventa. Pothmann, J. (2017a).
+============================================================
+
+CHUNK 327
+Länge: 158 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 403}
+Inhalt:
+Basel: Beltz Juventa. Pothmann, J. (2017a). Kinder- und Jugendarbeit - ein erster Blick in die neue Statistik. KomDat Jugendhilfe, 20/1, S. 7-11. Pothmann, J.
+============================================================
+
+CHUNK 328
+Länge: 248 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+(2017b). Fachkräftesituation im Arbeitsfeld Kinder- und Jugendarbeit in Bayern auf der Basis der amtlichen Kinder- und Jugendhilfestatistik. Empirische Befunde zur Entwicklung der Personalsituation für das Arbeits- und Handlungsfeld der Kinder- und
+============================================================
+
+CHUNK 329
+Länge: 243 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 202}
+Inhalt:
+das Arbeits- und Handlungsfeld der Kinder- und Jugendarbeit. Expertise im Auftrag des Forschungsprojektes 'Jugendarbeit und Bildung - Implementierung in den Studiengang Soziale Arbeit' (JuB\_Imp\_So). Hochschule Kempten. https://opus4.kobv.de/
+============================================================
+
+CHUNK 330
+Länge: 109 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 403}
+Inhalt:
+Hochschule Kempten. https://opus4.kobv.de/ opus4-hs-kempten/frontdoor/index/index/docId/106. Zugegriffen: 27.
+============================================================
+
+CHUNK 331
+Länge: 245 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+November 2020. Rauschenbach, T. (1991). Jugendarbeit in Ausbildung und Beruf. In L. Böhnisch, H. Gängler &amp; T. Rauschenbach (Hrsg.), Handbuch Jugendverbände. Eine Ortsbestimmung der Jugendverbandsarbeit in Analysen und Selbstdarstellungen (S.
+============================================================
+
+CHUNK 332
+Länge: 128 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 206}
+Inhalt:
+in Analysen und Selbstdarstellungen (S. 615-630). Weinheim, München: Juventa. Rauschenbach, T., Düx, W., &amp; Saas, E. (Hrsg.).
+============================================================
+
+CHUNK 333
+Länge: 202 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+(2003). Kinder- und Jugendarbeit - Wege in die Zukunft. Gesellschaftliche Entwicklungen und fachliche Herausforderungen. Weinheim, München: Juventa. Rauschenbach, T., Düx, W., &amp; Züchner, I. (Hrsg.).
+============================================================
+
+CHUNK 334
+Länge: 147 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+(2002). Jugendarbeit im Aufbruch. Selbstverge- wisserungen, Impulse, Perspektiven
+
+. Münster: Votum. Riechert, T., Jung, M., &amp; Nick, P. (2018).
+============================================================
+
+CHUNK 335
+Länge: 230 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+Qualifikationsprofil Jugendarbeit. Benötigte Kompetenzen von hauptberuflichen Fachkräften in der Kinder- und Jugendarbeit. Hochschule Kempten. https://opus4.kobv.de/opus4-hs-kempten/frontdoor/index/index/docId/99. Zugegriffen: 27.
+============================================================
+
+CHUNK 336
+Länge: 226 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+November 2020. Schwerthelm, M., &amp; Sturzenhecker, B. (2015). Die Kinder- und Jugendarbeit nach § 11 SGB VIII. Erfahrungsraum für Subjekt- und Demokratiebildung. In Enzyklopädie Erziehungswissenschaft Online - EEO (S. 1-32).
+============================================================
+
+CHUNK 337
+Länge: 249 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+Scherr, A. (1997). Subjektorientierte Jugendarbeit. Eine Einführung in die Grundlagen emanzipatorischer Jugendpädagogik . Weinheim, München: Juventa. - Scherr, A. (1998). Subjektivität und Anerkennung. Grundzüge einer Theorie der Jugendarbeit. In D.
+============================================================
+
+CHUNK 338
+Länge: 235 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 202}
+Inhalt:
+Grundzüge einer Theorie der Jugendarbeit. In D. Kiesel, A. Scherr &amp; W. Thole (Hrsg.) Standortbestimmung Jugendarbeit. Theoretische Orientierungen und empirische Befunde (S. 147-163). Schwalbach/Ts.: Wochenschau. - Scherr, A., &amp;
+============================================================
+
+CHUNK 339
+Länge: 129 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 389}
+Inhalt:
+Schwalbach/Ts.: Wochenschau. - Scherr, A., &amp; Sturzenhecker, B. (2014). Jugendarbeit verkehrt: Thesen gegen die Abwicklung der
+============================================================
+
+CHUNK 340
+Länge: 187 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 519}
+Inhalt:
+- Offenen Kinder- und Jugendarbeit durch ihre Fachkräfte. deutsche jugend , Heft 9, S. 369-376. Bildung in der Kinder- und Jugendarbeit. Vom
+- Sturzenhecker, B., &amp; Werner, L. (Hrsg.).
+============================================================
+
+CHUNK 341
+Länge: 206 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21}
+Inhalt:
+(2004). Bildungsanspruch zur Bildungspraxis. Weinheim, München: Juventa. - Thole, W. (2000). Die Jugendarbeit. Eine Einführung . Weinheim, München: Juventa. - Thole, W., &amp; Küster-Schapfl, E.-U. (Hrsg.).
+============================================================
+
+CHUNK 342
+Länge: 247 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+(1997). Sozialpädagogische Profis. Beruflicher Habitus, Wissen und Können von PädagogInnen in der außerschulischen Kinder- und Jugendarbeit. Wiesbaden: VS Verlag für Sozialwissenschaften. - Thole, W., &amp; Küster, E.-U. (2002). 'Wenn Jugendarbeit
+============================================================
+
+CHUNK 343
+Länge: 246 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 201}
+Inhalt:
+&amp; Küster, E.-U. (2002). 'Wenn Jugendarbeit zum Beruf wird'. Die Qualifikationsfrage der Kinder- und Jugendarbeit . In T. Rauschenbach, W. Düx &amp; I. Züchner (Hrsg.), Jugendarbeit im Aufbruch. Selbstvergewisserungen, Impulse, Perspektiven S.
+============================================================
+
+CHUNK 344
+Länge: 128 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 399}
+Inhalt:
+Selbstvergewisserungen, Impulse, Perspektiven S. 159-180. Münster: Votum. - Thole, W., Wegener, C., &amp; Küster, E.-U. (Hrsg.).
+============================================================
+
+CHUNK 345
+Länge: 245 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 0}
+Inhalt:
+(2005). Professionalisierung und Studium. Die hochschulische Qualifikation für die Kinder- und Jugendarbeit . Befunde und Reflexionen. Wiesbaden: VS Verlag für Sozialwissenschaften. Nick, Peter; Dr. phil., Dipl.-Päd., Dipl.-Theol.; Professor für
+============================================================
+
+CHUNK 346
+Länge: 234 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 199}
+Inhalt:
+phil., Dipl.-Päd., Dipl.-Theol.; Professor für Soziale Arbeit an der Hochschule Kempten, Fakultät Soziales und Gesundheit; Arbeitsschwerpunkte: Theorien und Organisation Sozialer Arbeit, Kinder- und Jugendarbeit, Interkulturalität und
+============================================================
+
+CHUNK 347
+Länge: 125 Zeichen
+Metadata: {'document_name': 'Jugendarbeit', 'source': 'Jugendarbeit.pdf', 'extraction_method': 'docling', 'total_pages': 21, 'start_index': 386}
+Inhalt:
+Kinder- und Jugendarbeit, Interkulturalität und interkulturelle Soziale Arbeit, Soziale Disparitäten, Intersektionalität. 159
+============================================================
+

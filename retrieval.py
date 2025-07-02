@@ -29,13 +29,13 @@ def load_vectordb(db_path):
     return vectordb
 
 
-def search_similar_chunks(query, vectordb, top_k=10):
+def search_similar_chunks(query, vectordb, k=30):
     '''
     Sucht in der Vektordatenbank nach ähnlichen Chunks.
     '''
     similar_chunks = vectordb.similarity_search(
         query=query,
-        k=top_k
+        k=k
     )
     
     print(f"🔍 {len(similar_chunks)} relevante Chunks gefunden für: '{query}'")
@@ -51,7 +51,7 @@ def setup_rag_chain(vectordb, model_name):
 
     # 2. Den Vektor-Speicher als "Retriever" definieren.
     # Der Retriever ist dafür zuständig, die relevanten Chunks zu holen.
-    retriever = vectordb.as_retriever(search_kwargs={'k': 10})                  # Wir holen die Top k Chunks
+    retriever = vectordb.as_retriever(search_kwargs={'k': 30})                  # Wir holen die Top k Chunks
 
     # 3. Prompt-Vorlage erstellen
     # Hier definieren wir, wie der Input für das LLM aussehen soll.
@@ -60,7 +60,7 @@ Du bist ein hilfreicher Assistent. Nutze die folgenden Textabschnitte, um die Fr
 Die Antwort sollte sich ausschließlich auf die bereitgestellten Informationen stützen.
 Wenn die Antwort nicht im Kontext enthalten ist, antworte mit: "Ich konnte keine Antwort in den Dokumenten finden."
 
-Am Ende deiner Antwort gibst du die Quelle an, aus der du die Information hast. Du findest den Dokumentennamen und die Seitenzahl in den Metadaten jedes Kontext-Abschnitts. Formatiere sie so: "Quelle: [Dokumentname], Seite [Seitenzahl]".
+Am Ende deiner Antwort gibst du die Quelle an: "Quelle: [Dokumentname], Seite [Seitenzahl]"
 
 Kontext:
 {context}
@@ -203,9 +203,8 @@ def main():
         unique_sources = set()
         for doc in result['source_documents']:
             doc_name = doc.metadata.get('document_name', 'N/A')
-            page_num = doc.metadata.get('page', 'N/A')
             # Zeige jede Quelle nur einmal an
-            unique_sources.add(f"  - Dokument: {doc_name}, Seite: {page_num}")
+            unique_sources.add(f"  - Dokument: {doc_name}")
 
         for source in sorted(list(unique_sources)):
             print(source)
