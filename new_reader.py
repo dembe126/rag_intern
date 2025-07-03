@@ -1,5 +1,3 @@
-# source .venv/bin/activate
-
 # Einfache Hauptdatei - startet das komplette RAG-System mit Docling
 
 import os
@@ -199,7 +197,7 @@ def main():
     
     # 5. RAG-Chain mit dem neuen Retriever aufbauen
     print(f"\n⚙️ Schritt 3: Optimierte RAG-Chain wird aufgebaut...")
-    qa_chain = retriever.setup_rag_chain(model, retrieval_k=6)
+    qa_chain = retriever.setup_rag_chain(model, retrieval_k=10)
     if qa_chain is None:
         print("❌ Fehler beim Aufbau der RAG-Chain.")
         return

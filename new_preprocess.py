@@ -277,29 +277,30 @@ class OptimizedRAGPreprocessor:
 
     def create_vectordb(self, chunks: List[Document], db_name: str = "optimized_rag") -> Chroma:
         """
-        Erstellt Chroma-Vektordatenbank mit Metadaten-Filterung
+        Erstellt Chroma-Vektordatenbank mit Metadaten-Filterung.
+        Bekommt die Chunks, also Liste von Document-Objekten und optionalen Namen für die Datenbank.
+        Gibt eine Chroma-Datenbank zurück.
         """
-        db_path = os.path.join(DB_BASE_PATH, db_name)
+        db_path = os.path.join(DB_BASE_PATH, db_name)   # Erstelle vollständigen Pfad für die Vektordatenbank
         
         print(f"🛠️ Erstelle Vektordatenbank: {db_path}")
         print(f"📊 {len(chunks)} Chunks werden eingebettet...")
         
-        # Metadaten-Bereinigung für Chroma-Kompatibilität
+        # Metadaten bereinigen für Chroma-Kompatibilität
         cleaned_chunks = []
-        for chunk in chunks:
-            # Erstelle eine bereinigte Kopie der Metadaten
-            cleaned_metadata = {}
+        for chunk in chunks:            # Für jeden Chunk...    
+            cleaned_metadata = {}       # ... wird ein neues leeres Metadaten-Wörterbuch erstellt
             for key, value in chunk.metadata.items():
                 if value is None:
-                    cleaned_metadata[key] = ""
+                    cleaned_metadata[key] = ""  # Falls Wert None --> leerer String
                 elif isinstance(value, (list, dict, tuple)):
-                    # Konvertiere komplexe Datentypen zu Strings
-                    cleaned_metadata[key] = str(value)
+                    cleaned_metadata[key] = str(value)      # Listen, Dict und Tupel --> Strings für Chroma
                 elif isinstance(value, (str, int, float, bool)):
-                    cleaned_metadata[key] = value
+                    cleaned_metadata[key] = value           # diese Datentypen werden einfach übernommen
                 else:
                     # Fallback: Konvertiere zu String
-                    cleaned_metadata[key] = str(value)
+                    cleaned_metadata[key] = str(value)      # Alle anderen Datentypen → Fallback zu String
+                                                            # alles ist JSON-kompatibel
             
             # Erstelle neues Document mit bereinigten Metadaten
             cleaned_chunks.append(Document(
@@ -309,19 +310,20 @@ class OptimizedRAGPreprocessor:
         
         print(f"🔧 Metadaten für Chroma-Kompatibilität bereinigt")
         
+        # Erstelle aus den cleaned_chunks neue Vektor-DB
         vectordb = Chroma.from_documents(
             documents=cleaned_chunks,
-            embedding=self.embedding_model,
-            persist_directory=db_path
+            embedding=self.embedding_model,     # wandelt Text in Embeddings um
+            persist_directory=db_path           # Speicherort
         )
-        vectordb.persist()
+        vectordb.persist()                      # Datenbank dauerhaft auf der Festplatte gespeichert
         
         print(f"✅ Vektordatenbank gespeichert: {db_path}")
         return vectordb
 
     def process_all_pdfs(self, db_name: str = "optimized_rag_docling"):
         """
-        Hauptverarbeitungsschleife
+        Verarbeitet alle PDFs im Ordner und erstellt daraus eine Chroma-DB.
         """
         print("🔄 Optimiertes RAG-Preprocessing mit Docling startet...")
         
@@ -329,22 +331,20 @@ class OptimizedRAGPreprocessor:
         
         # Prüfen ob Datenbank bereits existiert
         if os.path.exists(db_path):
-            print(f"🗃️ Datenbank existiert bereits: {db_path}")
-            response = input("♻️ Bestehende Datenbank verwenden? (j/n): ").lower()
-            
-            if response == 'j':
-                vectordb = Chroma(
-                    persist_directory=db_path, 
-                    embedding_function=self.embedding_model
-                )
-                print(f"✅ Bestehende Datenbank geladen!")
-                return vectordb
-            else:
-                print("🔄 Neue Datenbank wird erstellt...")
+            print(f"🗃️ Datenbank existiert bereits: {db_path}")            
+            vectordb = Chroma(
+                persist_directory=db_path, 
+                embedding_function=self.embedding_model
+            )
+            print(f"✅ Bestehende Datenbank geladen!")
+            return vectordb
         
-        # Alle PDFs verarbeiten
+        print("🔄 Neue Datenbank wird erstellt...")
+        
+        # Lädt alle PDFs --> erstellt Chunks und sammelt Zusatzinfos (Anzahl Chunks pro Dokument etc.)
         all_chunks, exports_info = self.load_all_pdfs_in_folder()
         
+        # Wenn keine Chunks erstellt wurden (z. B. weil keine PDFs) --> Abbruch
         if not all_chunks:
             print("❌ Keine Chunks erstellt.")
             return None
@@ -383,7 +383,7 @@ def main():
     if vectordb:
         print("\n🔍 Teste die Datenbank mit einer Beispielsuche...")
         # Beispielsuche
-        results = vectordb.similarity_search("Was ist das Hauptthema?", k=3)
+        results = vectordb.similarity_search("Was ist das Hauptthema?", k=10)
         print(f"🎯 {len(results)} Ergebnisse gefunden!")
         
         for i, result in enumerate(results, 1):

@@ -3,11 +3,11 @@
 import os
 import json
 import requests
-from langchain_community.vectorstores import Chroma
-from langchain_huggingface import HuggingFaceEmbeddings
-from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH, LLM_MODEL
-from langchain.prompts import PromptTemplate
-from langchain_community.llms import Ollama
+from langchain_community.vectorstores import Chroma                 # Datenbank
+from langchain_huggingface import HuggingFaceEmbeddings             # Embedding-Modell
+from config import EMBEDDING_MODEL_NAME, DB_BASE_PATH, LLM_MODEL    # eigene Konfigurationen
+from langchain.prompts import PromptTemplate                        # Um Prompt-Vorlage für LLM zu definieren
+from langchain_community.llms import Ollama                         # Ollama für lokale Nutzung von LLM
 from langchain.chains import RetrievalQA
 from typing import List, Dict, Any
 
@@ -19,39 +19,44 @@ class OptimizedRAGRetriever:
     
     def __init__(self):
         self.embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
-        self.vectordb = None
-        self.qa_chain = None
+        self.vectordb = None    # wird später initialisiert
+        self.qa_chain = None    # wird später initialisiert
         
     def load_vectordb(self, db_path: str):
         """
-        Lädt eine bestehende Vektordatenbank mit verbesserter Fehlerbehandlung
+        Lädt eine bestehende Vektordatenbank.
         """
+        # Prüfe, ob der Pfad existiert. Falls nicht --> Fehlerhinweis und Abbruch
         if not os.path.exists(db_path):
             print(f"❌ Vektordatenbank nicht gefunden: {db_path}")
             return None
         
         print(f"📂 Vektordatenbank wird geladen: {db_path}")
         
+        # Versucht, die Chroma-Datenbank zu initialisieren und die Embeddings-Funktion zu verbinden
         try:
             self.vectordb = Chroma(
                 persist_directory=db_path,
                 embedding_function=self.embedding_model
             )
             
-            # Teste die Datenbank
+            # Testet, ob die Datenbank funktioniert
             collection_count = self.vectordb._collection.count()
-            print(f"✅ Datenbank geladen: {collection_count} Dokumente")
+            print(f"✅ Datenbank geladen: {collection_count} Dokumente")    # gibt die Anzahl gespeicherter Dokumente aus
             
-            return self.vectordb
+            return self.vectordb        # Gibt die geladene Datenbank zurück
             
+        # Fehlermeldung
         except Exception as e:
             print(f"❌ Fehler beim Laden der Datenbank: {e}")
             return None
 
     def search_similar_chunks(self, query: str, k: int = 10) -> List[Dict]:
         """
-        Sucht ähnliche Chunks mit erweiterten Metadaten
+        Sucht k Chunks, die dem eingegebenen query am ähnlichsten sind. 
+        Rückgabe ist eine Liste von Dictionaries mit Infos zu den gefundenen Chunks.
         """
+        # keine Vektor-Datenbank geladen? -->Suche abbrechen und leere Liste zurückgeben
         if not self.vectordb:
             print("❌ Keine Datenbank geladen!")
             return []
@@ -66,15 +71,15 @@ class OptimizedRAGRetriever:
             print(f"🔍 {len(similar_chunks)} relevante Chunks gefunden für: '{query}'")
             
             # Erweiterte Chunk-Informationen
-            enhanced_chunks = []
-            for doc, score in similar_chunks:
-                chunk_info = {
-                    'content': doc.page_content,
-                    'metadata': doc.metadata,
-                    'similarity_score': score,
-                    'length': len(doc.page_content)
+            enhanced_chunks = []                    # Leere Liste zum Speichern der erweiterten Chunk-Infos
+            for doc, score in similar_chunks:       # Geht jeden gefundenen Chunk und dessen Score durch
+                chunk_info = {                      # Erstellt dictionary mit:
+                    'content': doc.page_content,    # Inhalt des Chunks
+                    'metadata': doc.metadata,       # Metadaten
+                    'similarity_score': score,      # Ähnlichkeitsscore
+                    'length': len(doc.page_content) # Länge des Chunks
                 }
-                enhanced_chunks.append(chunk_info)
+                enhanced_chunks.append(chunk_info)  # füge alles dem dict hinzu
             
             return enhanced_chunks
             
@@ -236,7 +241,6 @@ def setup_ollama_model(model_name=None):
         
         if not model_names:
             print("❌ Keine Modelle in Ollama gefunden")
-            print("🔧 Installiere Gemma mit: ollama pull gemma2:9b")
             return None
             
         if model_name is None:
@@ -269,39 +273,6 @@ def setup_ollama_model(model_name=None):
         return None
 
 
-def select_database():
-    """
-    Lässt den Benutzer eine Datenbank auswählen (deine bestehende Funktion)
-    """
-    db_base_dir = DB_BASE_PATH 
-    
-    if not os.path.exists(db_base_dir):
-        print(f"❌ Datenbankordner nicht gefunden: {db_base_dir}")
-        return None
-    
-    # Alle Datenbankordner finden
-    db_folders = [f for f in os.listdir(db_base_dir) if os.path.isdir(os.path.join(db_base_dir, f))]
-    
-    if not db_folders:
-        print("❌ Keine Datenbanken gefunden.")
-        print("💡 Führe zuerst preprocessing.py aus, um eine Datenbank zu erstellen.")
-        return None
-    
-    print("📚 Verfügbare Datenbanken:")
-    for idx, db_name in enumerate(db_folders, 1):
-        # Markiere Docling-Datenbanken
-        marker = "🚀" if "docling" in db_name.lower() else "  "
-        print(f"{idx}. {marker} {db_name}")
-    
-    while True:
-        choice = input("➡️ Welche Datenbank möchtest du verwenden? (Zahl eingeben): ")
-        if choice.isdigit() and 1 <= int(choice) <= len(db_folders):
-            selected_db = db_folders[int(choice) - 1]
-            return os.path.join(db_base_dir, selected_db)
-        else:
-            print("⚠️ Bitte eine gültige Zahl eingeben.")
-
-
 def main():
     """
     Hauptfunktion für das optimierte Retrieval
@@ -309,7 +280,7 @@ def main():
     print("🚀 Optimiertes RAG-Retrieval startet...")
     
     # Datenbank auswählen
-    db_path = select_database()
+    db_path = os.path.join(DB_BASE_PATH, "optimized_rag_docling")
     if db_path is None: 
         return
     
@@ -327,7 +298,7 @@ def main():
         return
     
     # RAG-Chain einrichten
-    qa_chain = retriever.setup_rag_chain(selected_model, retrieval_k=6)
+    qa_chain = retriever.setup_rag_chain(selected_model, retrieval_k=10)
     if qa_chain is None: 
         return
     
